@@ -117,7 +117,7 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 [https://javiermartinalonso.github.io/linux/2018/01/15/linux-grep-patrones-debug.html](https://www.google.com)
 
-* Expresiones regulares para el grep -P ' ' [https://regex101.com/](https://www.google.com)
+* Expresiones regulares para el grep -Po " " [https://regex101.com/](https://www.google.com)
 
 [https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/](https://www.google.com)
 
@@ -154,15 +154,13 @@ Repository to index interesting Capture The Flag tools and another stuff.
 [https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-](https://www.google.com)
 
 
-## Write-Ups
+## Write-Ups:
 
 [https://ctftime.org/writeups](https://www.google.com)
 
 [https://apsdehal.in/awesome-ctf/](https://www.google.com)
 
 [https://ctf.courgettes.club/](https://www.google.com)
-
-
 
 
 
