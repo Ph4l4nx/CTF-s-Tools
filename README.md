@@ -19,13 +19,20 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 [https://crackstation.net/](https://www.google.com)
 
+* RsaCtfTool [https://github.com/Ganapati/RsaCtfTool](https://www.google.com)
+
+[https://kt.gy/tools.html#conv/ ](https://www.google.com)
+
 [https://hashes.org/search.php](https://www.google.com)
 
 [https://cryptii.com/](https://www.google.com)
 
+[https://quipqiup.com/](https://www.google.com)
+
 [https://github.com/Xpykerz/CrackZip](https://www.google.com) 
 
 [https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c](https://www.google.com)
+
 
 ## Steganography:
 
@@ -110,6 +117,13 @@ Repository to index interesting Capture The Flag tools and another stuff.
 ## Reversing:
 
 * Binwalk
+
+## Wikis:
+
+[https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/](https://www.google.com)
+
+[https://github.com/OpenToAllCTF/Tips](https://www.google.com)
+
 
 ## Write-Ups
 
