@@ -52,7 +52,11 @@ Repository to index interesting Capture The Flag tools and another stuff.
 [https://haveibeenpwned.com/](https://www.google.com)
 
 
-## Forense:
+## Forensic:
+
+* Volatility
+
+* Foremost
 
 [https://www.jaiminton.com/cheatsheet/DFIR/#](https://www.google.com)
 
@@ -60,9 +64,14 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 [https://javiermartinalonso.github.io/linux/2018/01/15/linux-grep-patrones-debug.html](https://www.google.com)
 
-Expresiones regulares para el grep -P ' ' [https://regex101.com/](https://www.google.com)
+* Expresiones regulares para el grep -P ' ' [https://regex101.com/](https://www.google.com)
 
 [https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/](https://www.google.com)
+
+
+## Reversing:
+
+* Binwalk
 
 
 [](https://www.google.com)
