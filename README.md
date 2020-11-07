@@ -60,6 +60,8 @@ https://incoherency.co.uk/image-steganography/#unhide
 
 * Morse Code Adaptive Audio Decoder https://morsecode.world/international/decoder/audio-decoder-adaptive.html
 
+* Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/
+
 https://www.bertnase.de/npiet/npiet-execute.php
 
 ## OSINT:
@@ -117,9 +119,9 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 * Burpsuite
 
-* Hydra
-
 * OWASP ZAP, OpenVas, Sparta.
+
+* Hydra
 
 * Gobuster
 
