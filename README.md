@@ -17,9 +17,9 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 [https://www.dcode.fr/tools-list#cryptography](https://www.google.com)
 
-[https://hashes.org/search.php](https://www.google.com)
-
 [https://crackstation.net/](https://www.google.com)
+
+[https://hashes.org/search.php](https://www.google.com)
 
 [https://cryptii.com/](https://www.google.com)
 
@@ -27,6 +27,33 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 [https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c](https://www.google.com)
 
+## Steganography:
+
+* Exiftool
+
+* Zsteg
+
+* Hexeditor
+
+* Identify -verbose
+
+* Exiv2
+
+[https://stegonline.georgeom.net/upload](https://www.google.com) 
+
+[http://exif-viewer.com/](https://www.google.com)
+
+[https://futureboy.us/stegano/decinput.html](https://www.google.com)
+
+[https://stylesuxx.github.io/steganography/](https://www.google.com)
+
+[https://incoherency.co.uk/image-steganography/#unhide](https://www.google.com)
+
+[https://www.cert.at/en/downloads/software/software-bytehist](https://www.google.com)
+
+[https://morsecode.world/international/decoder/audio-decoder-adaptive.html](https://www.google.com)
+
+[https://www.bertnase.de/npiet/npiet-execute.php](https://www.google.com)
 
 ## OSINT:
  
@@ -88,9 +115,11 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 [https://ctftime.org/writeups](https://www.google.com)
 
+[https://apsdehal.in/awesome-ctf/](https://www.google.com)
+
 [https://ctf.courgettes.club/](https://www.google.com)
 
-[](https://www.google.com)
+
 
 
 
