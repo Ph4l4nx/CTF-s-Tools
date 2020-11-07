@@ -48,7 +48,7 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 [https://centralops.net/co/](https://www.google.com)
 
-[http://pwndb2am4tzkvold.onion/](https://www.google.com)
+* Pwn DB:  http://pwndb2am4tzkvold ...
 
 [https://haveibeenpwned.com/](https://www.google.com)
 
