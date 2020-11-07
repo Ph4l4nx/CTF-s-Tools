@@ -36,23 +36,25 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 ## Steganography:
 
-* Exiftool
+* Exiftool file
 
-* Zsteg
+* Zsteg file
 
-* Hexeditor
+* Hexeditor file
 
-* Strings
+* Strings file
 
-* Identify -verbose
+* Identify -verbose file 
 
-* Exiv2
+* Exiv2 file
 
-* Steghide [http://steghide.sourceforge.net/documentation/manpage_es.php](https://www.google.com)
+* StegCracker [https://github.com/Paradoxis/StegCracker](https://www.google.com) 
 
-* StegCracker [https://github.com/Paradoxis/StegCracker](https://www.google.com)
+* Steghide [http://steghide.sourceforge.net/documentation/manpage_es.php](https://www.google.com) (e.g: steghide extract -sf file)
 
-* Stegsolve [https://github.com/zardus/ctf-tools/blob/master/stegsolve/install](https://www.google.com)
+* Stegsolve [https://github.com/zardus/ctf-tools/blob/master/stegsolve/install](https://www.google.com) (running: java -jar steg_solve.jar)
+
+* Stegosuite  [http://manpages.ubuntu.com/manpages/bionic/man1/stegosuite.1.html](https://www.google.com)
 
 [https://stegonline.georgeom.net/upload](https://www.google.com) 
 
@@ -124,11 +126,13 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 ## Reversing:
 
+* File command 
+
 * Binwalk
 
 * Dotpeek
 
-* Radare2 
+* Radare2 (izq. icq , afl, vv @ function , pdf @ function ... )
 
 * Ollydbg
 
@@ -143,6 +147,18 @@ Repository to index interesting Capture The Flag tools and another stuff.
 [https://www.gnu.org/software/gdb/](https://www.google.com)
 
 * Online Disassembler >  [https://onlinedisassembler.com/static/home/index.html](https://www.google.com)
+
+* .JAR and .Class to Java decompiler [http://www.javadecompilers.com/](https://www.google.com)
+
+* Android Decompiler [https://ibotpeaches.github.io/Apktool/](https://www.google.com)
+
+* Decompile Android files [https://github.com/skylot/jadx](https://www.google.com)
+
+* Ldd command
+
+* Upx command
+
+* Free book: [https://beginners.re/](https://www.google.com)
 
 
 ## Wikis:
