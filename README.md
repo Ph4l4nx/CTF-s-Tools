@@ -32,11 +32,11 @@ https://quipqiup.com/
 
 ## Steganography:
 
-* Exiftool file
+* Exiftool
 
-* Zsteg file
+* Zsteg 
 
-* Exiv2 file
+* Exiv2
 
 * StegCracker https://github.com/Paradoxis/StegCracker
 
