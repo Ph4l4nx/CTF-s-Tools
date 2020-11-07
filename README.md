@@ -138,6 +138,8 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 ## Web:
 
+* Wappalyzer
+
 * Burpsuite
 
 * OWASP ZAP, OpenVas, Sparta.
