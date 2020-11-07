@@ -42,9 +42,17 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 * Hexeditor
 
+* Strings
+
 * Identify -verbose
 
 * Exiv2
+
+* Steghide [http://steghide.sourceforge.net/documentation/manpage_es.php](https://www.google.com)
+
+* StegCracker [https://github.com/Paradoxis/StegCracker](https://www.google.com)
+
+* Stegsolve [https://github.com/zardus/ctf-tools/blob/master/stegsolve/install](https://www.google.com)
 
 [https://stegonline.georgeom.net/upload](https://www.google.com) 
 
@@ -56,9 +64,9 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 [https://incoherency.co.uk/image-steganography/#unhide](https://www.google.com)
 
-[https://www.cert.at/en/downloads/software/software-bytehist](https://www.google.com)
+* Bytehist [https://www.cert.at/en/downloads/software/software-bytehist](https://www.google.com)
 
-[https://morsecode.world/international/decoder/audio-decoder-adaptive.html](https://www.google.com)
+* Morse Code Adaptive Audio Decoder [https://morsecode.world/international/decoder/audio-decoder-adaptive.html](https://www.google.com)
 
 [https://www.bertnase.de/npiet/npiet-execute.php](https://www.google.com)
 
@@ -118,11 +126,32 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 * Binwalk
 
+* Dotpeek
+
+* Radare2 
+
+* Ollydbg
+
+* IDA pro
+
+* Ghidra
+
+* x64dbg
+
+* Regshot  [https://sourceforge.net/projects/regshot/](https://www.google.com)
+
+[https://www.gnu.org/software/gdb/](https://www.google.com)
+
+* Online Disassembler >  [https://onlinedisassembler.com/static/home/index.html](https://www.google.com)
+
+
 ## Wikis:
 
 [https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/](https://www.google.com)
 
 [https://github.com/OpenToAllCTF/Tips](https://www.google.com)
+
+[https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-](https://www.google.com)
 
 
 ## Write-Ups
