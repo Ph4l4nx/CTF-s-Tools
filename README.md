@@ -113,6 +113,29 @@ https://javiermartinalonso.github.io/linux/2018/01/15/linux-grep-patrones-debug.
 
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
+## Web:
+
+* Burpsuite
+
+* Hydra
+
+* OWASP ZAP, OpenVas, Sparta.
+
+* Gobuster
+
+* wfuzz
+
+https://github.com/payloadbox/sql-injection-payload-list
+
+https://github.com/payloadbox/command-injection-payload-list
+
+https://pentest-tools.com/home
+
+https://book.hacktricks.xyz/pentesting-web/command-injection
+
+http://jsonviewer.stack.hu/
+
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 ## Reversing:
 
@@ -134,6 +157,8 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 https://www.gnu.org/software/gdb/
 
+https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
+
 * Online Disassembler >  https://onlinedisassembler.com/static/home/index.html
 
 * .JAR and .Class to Java decompiler >  http://www.javadecompilers.com/
@@ -150,10 +175,6 @@ https://www.gnu.org/software/gdb/
 
 ## Utility:
 
-* Strings 
-
-* File 
-
 * Hexeditor
 
 * Grep
@@ -162,7 +183,13 @@ https://www.gnu.org/software/gdb/
 
 * perl
 
+* tail / head
+
 * Identify -verbose 
+
+* Strings 
+
+* File 
 
 https://github.com/Xpykerz/CrackZip
 
