@@ -150,13 +150,13 @@ https://www.gnu.org/software/gdb/
 
 ## Utility:
 
-* Strings file
+* Strings 
 
 * File 
 
-* Hexeditor file
+* Hexeditor
 
-* Identify -verbose file 
+* Identify -verbose 
 
 https://github.com/Xpykerz/CrackZip
 
