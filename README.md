@@ -23,6 +23,10 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 [https://cryptii.com/](https://www.google.com)
 
+[https://github.com/Xpykerz/CrackZip](https://www.google.com) 
+
+[https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c](https://www.google.com)
+
 
 ## OSINT:
  
@@ -52,12 +56,18 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 [https://haveibeenpwned.com/](https://www.google.com)
 
+[https://intelx.io/](https://www.google.com)
+
+[https://toolbox.googleapps.com/apps/checkmx/](https://www.google.com) 
+
 
 ## Forensic:
 
 * Volatility
 
 * Foremost
+
+* xxd command
 
 [https://www.jaiminton.com/cheatsheet/DFIR/#](https://www.google.com)
 
@@ -73,6 +83,16 @@ Repository to index interesting Capture The Flag tools and another stuff.
 ## Reversing:
 
 * Binwalk
+
+## Write-Ups
+
+[https://ctftime.org/writeups](https://www.google.com)
+
+[https://ctf.courgettes.club/](https://www.google.com)
+
+[](https://www.google.com)
+
+
 
 
 [](https://www.google.com)
