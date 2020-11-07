@@ -4,11 +4,11 @@ Repository to index interesting Capture The Flag tools and another stuff.
 
 ## Platforms to practice:
 
-[https://ctftime.org/](https://www.google.com)
+[https://ctftime.org/]
 
-[https://www.hackthebox.eu/](https://www.google.com)
+[https://www.hackthebox.eu/]
 
-[https://atenea.ccn-cert.cni.es/home](https://www.google.com)
+[https://atenea.ccn-cert.cni.es/home]
 
 
 ## Cryptography:
