@@ -19,7 +19,7 @@ https://www.dcode.fr/tools-list#cryptography
 
 https://crackstation.net/
 
-* RsaCtfTool https://github.com/Ganapati/RsaCtfTool
+* RsaCtfTool: https://github.com/Ganapati/RsaCtfTool
 
 https://kt.gy/tools.html#conv/ 
 
@@ -29,7 +29,7 @@ https://cryptii.com/
 
 https://quipqiup.com/
 
-* Simple script to calculate the onion address from a Tor hidden service descriptor or public key : https://gist.github.com/DonnchaC/d6428881f451097f329e (you need to modify the line 14 for working properly "onion_address = hashlib.sha1(key.exportKey('DER')[22:]).digest()[:10]").
+* Simple script to calculate the onion address from a Tor hidden service descriptor or public key: https://gist.github.com/DonnchaC/d6428881f451097f329e (you need to modify the line 14 for working properly "onion_address = hashlib.sha1(key.exportKey('DER')[22:]).digest()[:10]").
 
 ## Steganography:
 
@@ -39,13 +39,17 @@ https://quipqiup.com/
 
 * Exiv2
 
-* StegCracker https://github.com/Paradoxis/StegCracker
+* StegCracker: https://github.com/Paradoxis/StegCracker
 
-* Steghide http://steghide.sourceforge.net/documentation/manpage_es.php (e.g: steghide extract -sf file)
+* Steghide: http://steghide.sourceforge.net/documentation/manpage_es.php (e.g: steghide extract -sf file)
 
-* Stegsolve https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
+* Stegsolve: https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
 
-* Stegosuite  http://manpages.ubuntu.com/manpages/bionic/man1/stegosuite.1.html
+* Stegosuite:  http://manpages.ubuntu.com/manpages/bionic/man1/stegosuite.1.html
+
+* StegSpy: http://www.spy-hunter.com/stegspydownload.htm
+
+* StegSecret: http://stegsecret.sourceforge.net/
 
 https://stegonline.georgeom.net/upload
 
@@ -57,11 +61,13 @@ https://stylesuxx.github.io/steganography/
 
 https://incoherency.co.uk/image-steganography/#unhide
 
-* Bytehist https://www.cert.at/en/downloads/software/software-bytehist
+* Bytehist: https://www.cert.at/en/downloads/software/software-bytehist
 
-* Morse Code Adaptive Audio Decoder https://morsecode.world/international/decoder/audio-decoder-adaptive.html
+* Morse Code Adaptive Audio Decoder: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
 
 * Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/
+
+* Gooogle Image Search: https://www.google.es/imghp?hl=es
 
 https://www.bertnase.de/npiet/npiet-execute.php
 
@@ -103,6 +109,20 @@ https://toolbox.googleapps.com/apps/checkmx/
 * Volatility
 
 * Foremost
+
+* Autopsy
+
+* AccessData FTK Imager 
+
+* EnCase 
+
+* Diskeditor: https://www.disk-editor.org/index.html
+
+* PhotoRec: https://www.cgsecurity.org/wiki/PhotoRec
+
+* Passware encryption analyzer: https://www.passware.com/encryption-analyzer/
+
+* Windows Registry Recovery: https://www.softpedia.com/get/Tweak/Registry-Tweak/Windows-Registry-Recovery.shtml
 
 * xxd command
 
@@ -156,19 +176,19 @@ https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 * x64dbg
 
-* Regshot  https://sourceforge.net/projects/regshot/
+* Regshot:  https://sourceforge.net/projects/regshot/
 
 https://www.gnu.org/software/gdb/
 
 https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
-* Online Disassembler >  https://onlinedisassembler.com/static/home/index.html
+* Online Disassembler: https://onlinedisassembler.com/static/home/index.html
 
-* .JAR and .Class to Java decompiler >  http://www.javadecompilers.com/
+* .JAR and .Class to Java decompiler:  http://www.javadecompilers.com/
 
-* Android Decompiler > https://ibotpeaches.github.io/Apktool/
+* Android Decompiler: https://ibotpeaches.github.io/Apktool/
 
-* Decompile Android files > https://github.com/skylot/jadx
+* Decompile Android files: https://github.com/skylot/jadx
 
 * Ldd command
 
