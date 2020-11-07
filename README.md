@@ -13,25 +13,25 @@ https://atenea.ccn-cert.cni.es/home
 
 ## Cryptography:
 
-[https://gchq.github.io/CyberChef/](https://www.google.com)
+https://gchq.github.io/CyberChef/
 
-[https://www.dcode.fr/tools-list#cryptography](https://www.google.com)
+https://www.dcode.fr/tools-list#cryptography
 
-[https://crackstation.net/](https://www.google.com)
+https://crackstation.net/
 
-* RsaCtfTool [https://github.com/Ganapati/RsaCtfTool](https://www.google.com)
+* RsaCtfTool https://github.com/Ganapati/RsaCtfTool
 
-[https://kt.gy/tools.html#conv/ ](https://www.google.com)
+https://kt.gy/tools.html#conv/ 
 
-[https://hashes.org/search.php](https://www.google.com)
+https://hashes.org/search.php
 
-[https://cryptii.com/](https://www.google.com)
+https://cryptii.com/
 
-[https://quipqiup.com/](https://www.google.com)
+https://quipqiup.com/
 
-[https://github.com/Xpykerz/CrackZip](https://www.google.com) 
+https://github.com/Xpykerz/CrackZip
 
-[https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c](https://www.google.com)
+https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
 
 
 ## Steganography:
@@ -48,29 +48,29 @@ https://atenea.ccn-cert.cni.es/home
 
 * Exiv2 file
 
-* StegCracker [https://github.com/Paradoxis/StegCracker](https://www.google.com) 
+* StegCracker https://github.com/Paradoxis/StegCracker
 
-* Steghide [http://steghide.sourceforge.net/documentation/manpage_es.php](https://www.google.com) (e.g: steghide extract -sf file)
+* Steghide http://steghide.sourceforge.net/documentation/manpage_es.php (e.g: steghide extract -sf file)
 
-* Stegsolve [https://github.com/zardus/ctf-tools/blob/master/stegsolve/install](https://www.google.com) (running: java -jar steg_solve.jar)
+* Stegsolve https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
 
-* Stegosuite  [http://manpages.ubuntu.com/manpages/bionic/man1/stegosuite.1.html](https://www.google.com)
+* Stegosuite  http://manpages.ubuntu.com/manpages/bionic/man1/stegosuite.1.html
 
-[https://stegonline.georgeom.net/upload](https://www.google.com) 
+https://stegonline.georgeom.net/upload
 
-[http://exif-viewer.com/](https://www.google.com)
+http://exif-viewer.com/
 
-[https://futureboy.us/stegano/decinput.html](https://www.google.com)
+https://futureboy.us/stegano/decinput.html
 
-[https://stylesuxx.github.io/steganography/](https://www.google.com)
+https://stylesuxx.github.io/steganography/
 
-[https://incoherency.co.uk/image-steganography/#unhide](https://www.google.com)
+https://incoherency.co.uk/image-steganography/#unhide
 
-* Bytehist [https://www.cert.at/en/downloads/software/software-bytehist](https://www.google.com)
+* Bytehist https://www.cert.at/en/downloads/software/software-bytehist
 
-* Morse Code Adaptive Audio Decoder [https://morsecode.world/international/decoder/audio-decoder-adaptive.html](https://www.google.com)
+* Morse Code Adaptive Audio Decoder https://morsecode.world/international/decoder/audio-decoder-adaptive.html
 
-[https://www.bertnase.de/npiet/npiet-execute.php](https://www.google.com)
+https://www.bertnase.de/npiet/npiet-execute.php
 
 ## OSINT:
  
