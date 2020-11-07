@@ -156,6 +156,12 @@ https://www.gnu.org/software/gdb/
 
 * Hexeditor
 
+* Grep
+
+* awk
+
+* perl
+
 * Identify -verbose 
 
 https://github.com/Xpykerz/CrackZip
