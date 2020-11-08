@@ -69,6 +69,8 @@ https://incoherency.co.uk/image-steganography/#unhide
 
 * Gooogle Image Search: https://www.google.es/imghp?hl=es
 
+* Magic Numbers Signatures: https://asecuritysite.com/forensics/magic
+
 https://www.bertnase.de/npiet/npiet-execute.php
 
 ## OSINT:
