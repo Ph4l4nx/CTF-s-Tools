@@ -118,6 +118,8 @@ https://centralops.net/co/
 
 * Wireshark
 
+* To decrypt WPA keys: pyrit -r "capctura.pcap" analyze
+
 * Volatility
 
 * Foremost
