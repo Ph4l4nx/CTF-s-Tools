@@ -47,9 +47,9 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Foremost -i imagen -o outdir
 
-* StegCracker: https://github.com/Paradoxis/StegCracker
-
 * Steghide: http://steghide.sourceforge.net/documentation/manpage_es.php (e.g: steghide extract -sf file , steghide info file)
+
+* StegCracker: https://github.com/Paradoxis/StegCracker
 
 * Stegsolve: https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
 
