@@ -224,6 +224,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Sandbox: https://github.com/CERT-Polska/drakvuf-sandbox
 
+* Ransomware decryption tools: https://www.nomoreransom.org/es/decryption-tools.html
+
 ## Utility:
 
 * Hexeditor
