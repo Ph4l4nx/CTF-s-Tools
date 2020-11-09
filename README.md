@@ -236,6 +236,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Ransomware decryption tools: https://www.nomoreransom.org/es/decryption-tools.html
 
+* https://github.com/alexandreborges/malwoverview
+
 ## Utility:
 
 * Hexeditor
