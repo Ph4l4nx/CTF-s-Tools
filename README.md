@@ -43,11 +43,11 @@ https://www.dcode.fr/tools-list#cryptography
 
 * StegCracker: https://github.com/Paradoxis/StegCracker
 
-* Steghide: http://steghide.sourceforge.net/documentation/manpage_es.php (e.g: steghide extract -sf file , info)
+* Steghide: http://steghide.sourceforge.net/documentation/manpage_es.php (e.g: steghide extract -sf file , steghide info file)
 
 * Stegsolve: https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
 
-* Magic Numbers Signatures: https://asecuritysite.com/forensics/magic >>> Hexeditor
+* Magic Numbers Signatures: https://asecuritysite.com/forensics/magic → Hexeditor
 
 * Stegosuite:  http://manpages.ubuntu.com/manpages/bionic/man1/stegosuite.1.html
 
