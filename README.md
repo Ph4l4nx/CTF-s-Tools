@@ -71,10 +71,6 @@ https://incoherency.co.uk/image-steganography/#unhide
 
 * Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/
 
-* Gooogle Image Search: https://www.google.es/imghp?hl=es
-
-* Reverse Image Search: https://tineye.com/
-
 https://www.bertnase.de/npiet/npiet-execute.php
 
 ## OSINT:
@@ -110,6 +106,10 @@ https://centralops.net/co/
 * Search filtered credentials in plain text: https://esgeeks.com/pwndb-buscar-credenciales-filtradas-texto-plano/
 
 * Email checker: https://toolbox.googleapps.com/apps/checkmx/
+
+* Gooogle Image Search: https://www.google.es/imghp?hl=es
+
+* Reverse Image Search: https://tineye.com/
 
 
 ## Forensic:
