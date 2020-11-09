@@ -1,6 +1,6 @@
 # CTF's Tools 
 
-Repository to index interesting Capture The Flag tools and another stuff.
+Repository to index interesting Capture The Flag tools and other stuff.
 
 ## Platforms to practice:
 
