@@ -17,17 +17,19 @@ https://gchq.github.io/CyberChef/
 
 https://www.dcode.fr/tools-list#cryptography
 
-https://crackstation.net/
+* Data format identifier: https://geocaching.dennistreysa.de/multisolver/
 
 * RsaCtfTool: https://github.com/Ganapati/RsaCtfTool
 
-https://kt.gy/tools.html#conv/ 
+* Real time converter: https://kt.gy/tools.html#conv/ 
 
-https://hashes.org/search.php
+* Hash DB: https://crackstation.net/
 
-https://cryptii.com/
+* Hash DB: https://hashes.org/search.php
 
-https://quipqiup.com/
+* Enigma: https://cryptii.com/
+
+* Substitution: https://quipqiup.com/
 
 * Simple script to calculate the onion address from a Tor hidden service descriptor or public key: https://gist.github.com/DonnchaC/d6428881f451097f329e (you need to modify the line 14 for working properly "onion_address = hashlib.sha1(key.exportKey('DER')[22:]).digest()[:10]").
 
@@ -44,6 +46,8 @@ https://quipqiup.com/
 * Steghide: http://steghide.sourceforge.net/documentation/manpage_es.php (e.g: steghide extract -sf file , info)
 
 * Stegsolve: https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
+
+* Magic Numbers Signatures: https://asecuritysite.com/forensics/magic >>> Hexeditor
 
 * Stegosuite:  http://manpages.ubuntu.com/manpages/bionic/man1/stegosuite.1.html
 
@@ -69,27 +73,27 @@ https://incoherency.co.uk/image-steganography/#unhide
 
 * Gooogle Image Search: https://www.google.es/imghp?hl=es
 
-* Magic Numbers Signatures: https://asecuritysite.com/forensics/magic >>> Hexeditor
+* Reverse Image Search: https://tineye.com/
 
 https://www.bertnase.de/npiet/npiet-execute.php
 
 ## OSINT:
  
-https://www.sans.org/security-resources/GoogleCheatSheet.pdf
+* Google CheatSheet: https://www.sans.org/security-resources/GoogleCheatSheet.pdf
 
 https://ciberpatrulla.com/links/
 
 https://inteltechniques.com/JE/OSINT_Packet_2019.pdf
 
-http://web.archive.org/
+* World domain DB: http://web.archive.org/
 
 https://viewdns.info/
 
 https://www.threatcrowd.org/
 
-https://www.shodan.io/
+* The search engine for the Internet of Things: https://www.shodan.io/
 
-https://honeyscore.shodan.io/
+* Honeypot or not: https://honeyscore.shodan.io/
 
 https://talosintelligence.com/
 
@@ -99,11 +103,13 @@ https://centralops.net/co/
 
 * Pwn DB TOR:  http://pwndb2am4tzkvold ...
 
-https://haveibeenpwned.com/
+* Website to check if emails or passwords have been compromised: https://haveibeenpwned.com/
 
-https://intelx.io/
+* Pwn DB: https://intelx.io/
 
-https://toolbox.googleapps.com/apps/checkmx/
+* Search filtered credentials in plain text: https://esgeeks.com/pwndb-buscar-credenciales-filtradas-texto-plano/
+
+* Email checker: https://toolbox.googleapps.com/apps/checkmx/
 
 
 ## Forensic:
@@ -144,7 +150,7 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 * Burpsuite
 
-* OWASP ZAP, OpenVas, Sparta.
+* OWASP ZAP, OpenVas, Sparta & Nikto.
 
 * Hydra
 
@@ -180,7 +186,7 @@ https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 * x64dbg
 
-* Regshot:  https://sourceforge.net/projects/regshot/
+* Regshot:  https://sourceforge.net/projects/regshot/ (before and after running a binary)
 
 https://www.gnu.org/software/gdb/
 
@@ -188,17 +194,17 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Online Disassembler: https://onlinedisassembler.com/static/home/index.html
 
-* .JAR and .Class to Java decompiler:  http://www.javadecompilers.com/
+* Online .JAR and .Class to Java decompiler:  http://www.javadecompilers.com/
 
 * Android Decompiler: https://ibotpeaches.github.io/Apktool/
 
 * Decompile Android files: https://github.com/skylot/jadx
 
-* Ldd command
+* List Dynamic Dependencies: Ldd file
 
-* Upx command
+* Unpacking binaries: Upx -d file
 
-* Free book: https://beginners.re/
+* Free book of reversing: https://beginners.re/
 
 ## Utility:
 
@@ -210,11 +216,15 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * perl
 
-* tail / head
+* tail / head 
 
 * Identify -verbose 
 
 * Hash-identifier
+
+* cat 'file' | md5sum, sha1sum,sha256sum...
+
+* echo " string" | base64 -d 
 
 * Strings 
 
