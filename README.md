@@ -214,6 +214,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Identify -verbose 
 
+* Hash-identifier
+
 * Strings 
 
 * File 
