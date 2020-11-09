@@ -180,7 +180,7 @@ https://github.com/payloadbox/command-injection-payload-list
 
 https://pentest-tools.com/home
 
-https://book.hacktricks.xyz/pentesting-web/command-injection
+https://book.hacktricks.xyz/
 
 http://jsonviewer.stack.hu/
 
