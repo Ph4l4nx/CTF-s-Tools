@@ -43,9 +43,9 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Exiv2
 
-* Binwalk -e imagen
+* Binwalk -e image
 
-* Foremost -i imagen -o outdir
+* Foremost -i image -o outdir
 
 * Steghide: http://steghide.sourceforge.net/documentation/manpage_es.php (e.g: steghide extract -sf file , steghide info file)
 
