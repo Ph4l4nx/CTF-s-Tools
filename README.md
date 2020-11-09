@@ -41,7 +41,7 @@ https://quipqiup.com/
 
 * StegCracker: https://github.com/Paradoxis/StegCracker
 
-* Steghide: http://steghide.sourceforge.net/documentation/manpage_es.php (e.g: steghide extract -sf file)
+* Steghide: http://steghide.sourceforge.net/documentation/manpage_es.php (e.g: steghide extract -sf file , info)
 
 * Stegsolve: https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
 
@@ -69,7 +69,7 @@ https://incoherency.co.uk/image-steganography/#unhide
 
 * Gooogle Image Search: https://www.google.es/imghp?hl=es
 
-* Magic Numbers Signatures: https://asecuritysite.com/forensics/magic
+* Magic Numbers Signatures: https://asecuritysite.com/forensics/magic >>> Hexeditor
 
 https://www.bertnase.de/npiet/npiet-execute.php
 
