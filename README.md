@@ -43,6 +43,10 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Exiv2
 
+* Binwalk -e imagen
+
+* Foremost -i imagen -o outdir
+
 * StegCracker: https://github.com/Paradoxis/StegCracker
 
 * Steghide: http://steghide.sourceforge.net/documentation/manpage_es.php (e.g: steghide extract -sf file , steghide info file)
@@ -125,6 +129,8 @@ https://centralops.net/co/
 * Volatility
 
 * Foremost
+
+* Binwalk
 
 * Autopsy
 
