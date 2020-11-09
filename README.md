@@ -138,6 +138,8 @@ https://centralops.net/co/
 
 * EnCase 
 
+* Powershell Decoder: https://github.com/R3MRUM/PSDecode
+
 * Diskeditor: https://www.disk-editor.org/index.html
 
 * PhotoRec: https://www.cgsecurity.org/wiki/PhotoRec
