@@ -116,6 +116,8 @@ https://centralops.net/co/
 
 * Volatility
 
+* Online PCAP Analysis: https://packettotal.com/
+
 * Foremost
 
 * Autopsy
@@ -205,6 +207,18 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 * Unpacking binaries: Upx -d file
 
 * Free book of reversing: https://beginners.re/
+
+## Malware 
+
+* Virustotal: https://www.virustotal.com/gui/home/search
+
+* Joesandbox: https://www.joesandbox.com/#windows
+
+* Hybrid Analysis: https://www.hybrid-analysis.com/?lang=es
+
+* ANY.RUN https://any.run/
+
+* Sandbox: https://github.com/CERT-Polska/drakvuf-sandbox
 
 ## Utility:
 
