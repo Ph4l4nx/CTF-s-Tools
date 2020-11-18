@@ -119,7 +119,7 @@ https://centralops.net/co/
 
 * Phishing Domain DB: http://phishtank.org/
 
-* Instagram: https://www.flu-project.com/2020/10/osint-instagram.html?m=1&s=08
+* Instagram: https://github.com/th3unkn0n/osi.ig
 
 
 ## Forensic:
