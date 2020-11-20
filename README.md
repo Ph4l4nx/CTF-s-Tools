@@ -180,6 +180,8 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 * wfuzz
 
+* Nmap cheatsheet: https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
+
 https://github.com/payloadbox/sql-injection-payload-list
 
 https://github.com/payloadbox/command-injection-payload-list
