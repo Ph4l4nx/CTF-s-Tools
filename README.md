@@ -160,7 +160,7 @@ https://centralops.net/co/
 
 https://www.jaiminton.com/cheatsheet/DFIR/#
 
-https://developers.whatismybrowser.com/useragents/parse/
+* Parse a user agent: https://developers.whatismybrowser.com/useragents/parse/
 
 https://javiermartinalonso.github.io/linux/2018/01/15/linux-grep-patrones-debug.html
 
