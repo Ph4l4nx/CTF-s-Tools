@@ -156,11 +156,15 @@ https://centralops.net/co/
 
 * xxd command
 
+* Blue Team Cheatsheet: https://itblogr.com/wp-content/uploads/2020/04/The-Concise-Blue-Team-cheat-Sheets.pdf
+
 https://www.jaiminton.com/cheatsheet/DFIR/#
 
 https://developers.whatismybrowser.com/useragents/parse/
 
 https://javiermartinalonso.github.io/linux/2018/01/15/linux-grep-patrones-debug.html
+
+https://www.osintme.com/
 
 * Expresiones regulares para el grep -Po " " https://regex101.com/
 
