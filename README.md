@@ -166,7 +166,7 @@ https://javiermartinalonso.github.io/linux/2018/01/15/linux-grep-patrones-debug.
 
 https://www.osintme.com/
 
-* Expresiones regulares para el grep -Po " " https://regex101.com/
+* Regular expressions for grep -Po " " https://regex101.com/
 
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
