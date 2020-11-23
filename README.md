@@ -65,8 +65,6 @@ https://stegonline.georgeom.net/upload
 
 http://exif-viewer.com/
 
-https://futureboy.us/stegano/decinput.html
-
 https://stylesuxx.github.io/steganography/
 
 https://incoherency.co.uk/image-steganography/#unhide
