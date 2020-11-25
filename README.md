@@ -250,6 +250,14 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * https://github.com/alexandreborges/malwoverview
 
+* https://nodistribute.com/
+
+* https://metadefender.opswat.com/?lang=en
+
+* https://www.virscan.org/
+
+* https://sandbox.anlyz.io/dashboard
+
 ## Utility:
 
 * Hexeditor
