@@ -115,6 +115,8 @@ https://centralops.net/co/
 
 * Reverse Image Search: https://tineye.com/
 
+* Tool for tracking the redirection paths of URLs: https://wheregoes.com/
+
 * Phishing Domain DB: http://phishtank.org/
 
 * Phishing Domain DB: https://phishcheck.me/
