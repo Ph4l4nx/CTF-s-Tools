@@ -266,6 +266,10 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * https://sandbox.anlyz.io/dashboard
 
+* https://github.com/mindcrypt/powerglot
+
+* Malware examples/binaries: https://github.com/ytisf/theZoo
+
 ## Utility:
 
 * Hexeditor
