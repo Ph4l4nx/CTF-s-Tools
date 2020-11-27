@@ -200,17 +200,19 @@ https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 * Binwalk
 
-* Dotpeek
+* Dotpeek (.NET)
 
-* Radare2 (izq. icq , afl, vv @ function , pdf @ function ... )
+* IDA pro
 
 * Ollydbg
 
-* IDA pro
+* Radare2 (izq. icq , afl, vv @ function , pdf @ function ... )
 
 * Ghidra
 
 * x64dbg
+
+* DnSpy https://github.com/dnSpy/dnSpy
 
 * Regshot:  https://sourceforge.net/projects/regshot/ (before and after running a binary)
 
