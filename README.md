@@ -35,6 +35,8 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Simple script to calculate the onion address from a Tor hidden service descriptor or public key: https://gist.github.com/DonnchaC/d6428881f451097f329e (you need to modify the line 14 for working properly "onion_address = hashlib.sha1(key.exportKey('DER')[22:]).digest()[:10]").
 
+* Cryptanalysis recopilation: https://github.com/mindcrypt/Cryptanalysis
+
 ## Steganography:
 
 * Exiftool
