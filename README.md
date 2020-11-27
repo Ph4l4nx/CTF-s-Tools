@@ -210,7 +210,7 @@ https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 * Ollydbg
 
-* Radare2 (izq. icq , afl, vv @ function , pdf @ function ... )
+* Radare2 (e.g: izq, icq , afl, vv @ function , pdf @ function ... )
 
 * Ghidra
 
