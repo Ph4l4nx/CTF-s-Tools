@@ -25,6 +25,8 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Real time converter: https://kt.gy/tools.html#conv/ 
 
+* Frequency Analysis: https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html
+
 * Hash DB: https://crackstation.net/
 
 * Hash DB: https://hashes.org/search.php
@@ -33,9 +35,13 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Substitution: https://quipqiup.com/
 
+* Factoring: http://factordb.com/
+
 * Simple script to calculate the onion address from a Tor hidden service descriptor or public key: https://gist.github.com/DonnchaC/d6428881f451097f329e (you need to modify the line 14 for working properly "onion_address = hashlib.sha1(key.exportKey('DER')[22:]).digest()[:10]").
 
 * Cryptanalysis recopilation: https://github.com/mindcrypt/Cryptanalysis
+
+http://rumkin.com/tools/cipher/
 
 ## Steganography:
 
