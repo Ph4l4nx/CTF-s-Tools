@@ -77,6 +77,8 @@ https://stylesuxx.github.io/steganography/
 
 https://incoherency.co.uk/image-steganography/#unhide
 
+https://29a.ch/photo-forensics/#forensic-magnifier
+
 * Bytehist: https://www.cert.at/en/downloads/software/software-bytehist
 
 * Morse Code Adaptive Audio Decoder: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
