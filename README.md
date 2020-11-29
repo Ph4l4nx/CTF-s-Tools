@@ -51,6 +51,8 @@ http://rumkin.com/tools/cipher/
 
 * Exiv2
 
+* Magic Numbers Signatures: https://asecuritysite.com/forensics/magic → Hexeditor
+
 * Binwalk -e image
 
 * Foremost -i image -o outdir
@@ -59,19 +61,15 @@ http://rumkin.com/tools/cipher/
 
 * StegCracker: https://github.com/Paradoxis/StegCracker
 
+* Magic Eye Solver / Viewer: https://magiceye.ecksdee.co.uk/
+
 * Stegsolve: https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
 
-* Magic Numbers Signatures: https://asecuritysite.com/forensics/magic → Hexeditor
-
-* Stegosuite:  http://manpages.ubuntu.com/manpages/bionic/man1/stegosuite.1.html
-
-* StegSpy: http://www.spy-hunter.com/stegspydownload.htm
-
-* StegSecret: http://stegsecret.sourceforge.net/
-
-https://stegonline.georgeom.net/upload
+* Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/
 
 http://exif-viewer.com/
+
+https://stegonline.georgeom.net/upload
 
 https://stylesuxx.github.io/steganography/
 
@@ -79,11 +77,15 @@ https://incoherency.co.uk/image-steganography/#unhide
 
 https://29a.ch/photo-forensics/#forensic-magnifier
 
+* Stegosuite:  http://manpages.ubuntu.com/manpages/bionic/man1/stegosuite.1.html
+
+* StegSpy: http://www.spy-hunter.com/stegspydownload.htm
+
+* StegSecret: http://stegsecret.sourceforge.net/
+
 * Bytehist: https://www.cert.at/en/downloads/software/software-bytehist
 
 * Morse Code Adaptive Audio Decoder: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
-
-* Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/
 
 https://www.bertnase.de/npiet/npiet-execute.php
 
@@ -301,6 +303,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 * Strings 
 
 * File 
+
+* Password Recovery Online : https://www.lostmypass.com/try/
 
 https://github.com/Xpykerz/CrackZip
 
