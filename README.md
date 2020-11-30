@@ -10,6 +10,12 @@ https://www.hackthebox.eu/
 
 https://atenea.ccn-cert.cni.es/home
 
+* Hacking challenges for web: http://webhacking.kr/
+
+* Platform for learning modern cryptography: https://cryptohack.org/
+
+* Reversing platform: https://crackmes.one/
+
 
 ## Cryptography:
 
@@ -212,7 +218,9 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 * Nmap cheatsheet: https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
 
-* Automated All-in-One OS Command Injection and Exploitation Tool: https://github.com/commixproject/commix
+* Automated All-in-One OS command injection and exploitation tool: https://github.com/commixproject/commix
+
+* Automated XSS tool: https://xsser.03c8.net/
 
 https://github.com/payloadbox/sql-injection-payload-list
 
