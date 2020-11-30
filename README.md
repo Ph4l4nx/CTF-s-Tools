@@ -359,7 +359,7 @@ https://github.com/0e85dc6eaf/CTF-Writeups
 https://github.com/RazviOverflow/ctfs
 
 
-## Tools:
+## Other tools:
 
 https://github.com/zardus/ctf-tools
 
