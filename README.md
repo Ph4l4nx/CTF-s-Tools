@@ -73,6 +73,8 @@ http://rumkin.com/tools/cipher/
 
 * Magic Eye Solver / Viewer: https://magiceye.ecksdee.co.uk/
 
+* Deeper steganography analysis tool: https://aperisolve.fr/
+
 * Stegsolve: https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
 
 * Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/
@@ -209,6 +211,8 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 * wfuzz
 
 * Nmap cheatsheet: https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
+
+* Automated All-in-One OS Command Injection and Exploitation Tool: https://github.com/commixproject/commix
 
 https://github.com/payloadbox/sql-injection-payload-list
 
