@@ -39,6 +39,8 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Padding-oracle-attacker: https://github.com/KishanBagaria/padding-oracle-attacker
 
+* Maritime signal flags dictionary: https://en.wikipedia.org/wiki/International_maritime_signal_flags
+
 * Enigma: https://cryptii.com/
 
 * Substitution: https://quipqiup.com/
@@ -349,5 +351,7 @@ https://ctftime.org/writeups
 https://apsdehal.in/awesome-ctf/
 
 https://ctf.courgettes.club/
+
+https://github.com/0e85dc6eaf/CTF-Writeups
 
 
