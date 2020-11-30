@@ -147,6 +147,8 @@ https://centralops.net/co/
 
 * Email checker: https://toolbox.googleapps.com/apps/checkmx/
 
+* General purpose: https://github.com/Moham3dRiahi/Th3inspector
+
 * Gooogle Image Search: https://www.google.es/imghp?hl=es
 
 * Reverse Image Search: https://tineye.com/
