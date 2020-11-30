@@ -31,6 +31,8 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Hash DB: https://hashes.org/search.php
 
+* Padding-oracle-attacker: https://github.com/KishanBagaria/padding-oracle-attacker
+
 * Enigma: https://cryptii.com/
 
 * Substitution: https://quipqiup.com/
