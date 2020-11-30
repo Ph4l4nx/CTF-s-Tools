@@ -87,6 +87,8 @@ http://rumkin.com/tools/cipher/
 
 * Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/
 
+* Analyze suspicious files and urls to detect stegomalware: https://stegoinspector.com/#/
+
 http://exif-viewer.com/
 
 https://stegonline.georgeom.net/upload
