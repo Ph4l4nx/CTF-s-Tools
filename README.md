@@ -17,6 +17,8 @@ https://gchq.github.io/CyberChef/
 
 https://www.dcode.fr/tools-list#cryptography
 
+* Decrpyt emoji messages https://emoji-cypher.netlify.app/
+
 * Cipher Identifier and Analyzer: https://www.boxentriq.com/code-breaking/cipher-identifier
 
 * Data format identifier: https://geocaching.dennistreysa.de/multisolver/
