@@ -83,6 +83,8 @@ http://rumkin.com/tools/cipher/
 
 * Deeper steganography analysis tool: https://aperisolve.fr/
 
+* QR decoder: https://zxing.org/w/decode.jspx
+
 * Stegsolve: https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
 
 * Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/
