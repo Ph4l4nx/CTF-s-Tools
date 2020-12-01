@@ -87,7 +87,7 @@ http://rumkin.com/tools/cipher/
 
 * Stegsolve: https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
 
-* Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/
+* Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/   https://github.com/0xcomposure/FFTStegPic
 
 * Analyze suspicious files and urls to detect stegomalware: https://stegoinspector.com/#/
 
@@ -149,7 +149,7 @@ https://centralops.net/co/
 
 * General purpose: https://github.com/Moham3dRiahi/Th3inspector
 
-* Gooogle Image Search: https://www.google.es/imghp?hl=es
+* Gooogle Image Search: https://www.google.es/imghp?hl=es , Yandex: https://yandex.com/images/ , Bing: https://www.bing.com/?scope=images&nr=1&FORM=NOFORM
 
 * Reverse Image Search: https://tineye.com/
 
