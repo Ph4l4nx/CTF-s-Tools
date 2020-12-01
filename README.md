@@ -168,11 +168,11 @@ https://centralops.net/co/
 
 * Online PCAP Analysis: https://packettotal.com/
 
-* Wireshark
+* Wireshark. Cheat sheet: https://cdn.comparitech.com/wp-content/uploads/2019/06/Wireshark-Cheat-Sheet-1.jpg
 
-* To decrypt WPA keys: pyrit -r "capctura.pcap" analyze
+* To decrypt WPA keys: pyrit -r "capctura.pcap" analyze 
 
-* Volatility
+* Volatility. Cheat sheet: https://digital-forensics.sans.org/media/volatility-memory-forensics-cheat-sheet.pdf
 
 * Foremost
 
@@ -216,13 +216,13 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 * Burpsuite
 
-* OWASP ZAP, OpenVas, Sparta & Nikto.
+* OWASP ZAP, OpenVas, Sparta & Nikto. Cheat Sheet: https://redteamtutorials.com/2018/10/24/nikto-cheatsheet/ 
 
-* Hydra
+* Hydra. Cheat Sheet: https://redteamtutorials.com/2018/10/25/hydra-brute-force-techniques/
 
-* Gobuster
+* Gobuster. Cheat Sheet: https://redteamtutorials.com/2018/11/19/gobuster-cheatsheet/
 
-* wfuzz
+* wfuzz. Cheat Sheet: https://book.hacktricks.xyz/pentesting-web/web-tool-wfuzz
 
 * Nmap cheatsheet: https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
 
@@ -248,13 +248,13 @@ https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 * Dotpeek (.NET)
 
-* IDA pro
+* IDA pro. Cheat Sheet: https://www.dragonjar.org/cheat-sheet-ida-pro-interactive-disassembler.xhtml
 
-* Ollydbg
+* Ollydbg. Cheat Sheet: http://www.ollydbg.de/quickst.htm
 
-* Radare2 (e.g: izq, icq , afl, vv @ function , pdf @ function ... )
+* Radare2. Cheat Sheet: https://gist.github.com/williballenthin/6857590dab3e2a6559d7
 
-* Ghidra
+* Ghidra. Cheat Sheet: https://hackersfun.com/wp-content/uploads/2019/03/Ghidra-Cheat-Sheet.pdf
 
 * x64dbg
 
