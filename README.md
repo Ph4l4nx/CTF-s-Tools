@@ -353,9 +353,11 @@ https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
 
 https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/
 
-https://github.com/OpenToAllCTF/Tips
+https://github.com/JohnHammond/ctf-katana
 
 https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-
+
+https://github.com/OpenToAllCTF/Tips
 
 
 ## Write-Ups:
