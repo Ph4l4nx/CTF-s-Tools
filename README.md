@@ -196,15 +196,15 @@ https://centralops.net/co/
 
 * xxd command
 
-* Blue Team Cheatsheet: https://itblogr.com/wp-content/uploads/2020/04/The-Concise-Blue-Team-cheat-Sheets.pdf
+* Blue Team Cheat sheet: https://itblogr.com/wp-content/uploads/2020/04/The-Concise-Blue-Team-cheat-Sheets.pdf
 
-https://www.jaiminton.com/cheatsheet/DFIR/#
+* DFIR cheat sheet: https://www.jaiminton.com/cheatsheet/DFIR/#
 
 * Parse a user agent: https://developers.whatismybrowser.com/useragents/parse/
 
-https://javiermartinalonso.github.io/linux/2018/01/15/linux-grep-patrones-debug.html
+* Grep cheat sheet: https://javiermartinalonso.github.io/linux/2018/01/15/linux-grep-patrones-debug.html
 
-https://www.osintme.com/
+* Blog: https://www.osintme.com/
 
 * Regular expressions for grep -Po " " https://regex101.com/
 
@@ -230,9 +230,9 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 * Automated XSS tool: https://xsser.03c8.net/
 
-https://github.com/payloadbox/sql-injection-payload-list
+* SQL payload examples: https://github.com/payloadbox/sql-injection-payload-list
 
-https://github.com/payloadbox/command-injection-payload-list
+* Command injection: https://github.com/payloadbox/command-injection-payload-list
 
 https://pentest-tools.com/home
 
@@ -334,7 +334,7 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * cat 'file' | md5sum, sha1sum,sha256sum...
 
-* echo " string" | base64 -d 
+* echo "string" | base64 -d 
 
 * Strings 
 
