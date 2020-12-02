@@ -107,6 +107,10 @@ https://29a.ch/photo-forensics/#forensic-magnifier
 
 * StegSecret: http://stegsecret.sourceforge.net/
 
+* Openstego: https://www.openstego.com/
+
+* Stegpic: https://domnit.org/stepic/doc/
+
 * Bytehist: https://www.cert.at/en/downloads/software/software-bytehist
 
 * Morse Code Adaptive Audio Decoder: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
@@ -114,6 +118,8 @@ https://29a.ch/photo-forensics/#forensic-magnifier
 * Audacity (sudo apt-get install audacity) E.g: https://www.hackiit.cf/write-up-hackiit-ctf-biological-hazard-ii/
 
 https://www.bertnase.de/npiet/npiet-execute.php
+
+* Repair images: https://online.officerecovery.com/es/pixrecovery/
 
 ## OSINT:
  
