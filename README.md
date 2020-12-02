@@ -111,6 +111,8 @@ https://29a.ch/photo-forensics/#forensic-magnifier
 
 * Morse Code Adaptive Audio Decoder: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
 
+* Audacity (sudo apt-get install audacity) E.g: https://www.hackiit.cf/write-up-hackiit-ctf-biological-hazard-ii/
+
 https://www.bertnase.de/npiet/npiet-execute.php
 
 ## OSINT:
