@@ -111,6 +111,8 @@ https://29a.ch/photo-forensics/#forensic-magnifier
 
 * Stegpic: https://domnit.org/stepic/doc/
 
+* Digital invisible ink stego tool: https://sourceforge.net/projects/diit/
+
 * Bytehist: https://www.cert.at/en/downloads/software/software-bytehist
 
 * Morse Code Adaptive Audio Decoder: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
