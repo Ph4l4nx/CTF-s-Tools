@@ -300,6 +300,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Database of counterfeit-related webs: https://desenmascara.me/
 
+* * Sysinternals: https://docs.microsoft.com/en-us/sysinternals/
+
 * https://github.com/alexandreborges/malwoverview
 
 * https://nodistribute.com/
