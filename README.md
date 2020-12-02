@@ -298,6 +298,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Ransomware decryption tools: https://www.nomoreransom.org/es/decryption-tools.html , https://www.avast.com/es-es/ransomware-decryption-tools , https://noransom.kaspersky.com/ , https://www.mcafee.com/enterprise/es-es/downloads/free-tools/ransomware-decryption.html
 
+* Database of counterfeit-related webs: https://desenmascara.me/
+
 * https://github.com/alexandreborges/malwoverview
 
 * https://nodistribute.com/
