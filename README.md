@@ -99,6 +99,8 @@ http://rumkin.com/tools/cipher/
 
 * Chess Steganography : https://incoherency.co.uk/chess-steg/
 
+* Spectrum Analyzer: https://academo.org/demos/spectrum-analyzer/
+
 http://exif-viewer.com/
 
 https://stegonline.georgeom.net/upload
