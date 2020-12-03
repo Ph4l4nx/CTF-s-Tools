@@ -395,3 +395,5 @@ https://github.com/RazviOverflow/ctfs
 
 https://github.com/zardus/ctf-tools
 
+https://github.com/apsdehal/awesome-ctf
+
