@@ -41,12 +41,6 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Maritime signal flags dictionary: https://en.wikipedia.org/wiki/International_maritime_signal_flags
 
-* Aurebesh Translator: https://funtranslations.com/aurebesh
-
-* Bitcoin Steganography: https://incoherency.co.uk/stegoseed/
-
-* Mojibake Steganography: https://incoherency.co.uk/mojibake/
-
 * Enigma: https://cryptii.com/
 
 * Substitution: https://quipqiup.com/
@@ -96,6 +90,14 @@ http://rumkin.com/tools/cipher/
 * Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/   https://github.com/0xcomposure/FFTStegPic
 
 * Analyze suspicious files and urls to detect stegomalware: https://stegoinspector.com/#/
+
+* Aurebesh Translator: https://funtranslations.com/aurebesh
+
+* Bitcoin Steganography: https://incoherency.co.uk/stegoseed/
+
+* Mojibake Steganography: https://incoherency.co.uk/mojibake/
+
+* Chess Steganography : https://incoherency.co.uk/chess-steg/
 
 http://exif-viewer.com/
 
