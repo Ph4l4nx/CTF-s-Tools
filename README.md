@@ -41,6 +41,12 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Maritime signal flags dictionary: https://en.wikipedia.org/wiki/International_maritime_signal_flags
 
+* Aurebesh Translator: https://funtranslations.com/aurebesh
+
+* Bitcoin Steganography: https://incoherency.co.uk/stegoseed/
+
+* Mojibake Steganography: https://incoherency.co.uk/mojibake/
+
 * Enigma: https://cryptii.com/
 
 * Substitution: https://quipqiup.com/
