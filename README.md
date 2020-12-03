@@ -23,8 +23,6 @@ https://gchq.github.io/CyberChef/
 
 https://www.dcode.fr/tools-list#cryptography
 
-* Decrpyt emoji messages https://emoji-cypher.netlify.app/
-
 * Cipher Identifier and Analyzer: https://www.boxentriq.com/code-breaking/cipher-identifier
 
 * Data format identifier: https://geocaching.dennistreysa.de/multisolver/
@@ -32,6 +30,8 @@ https://www.dcode.fr/tools-list#cryptography
 * RsaCtfTool: https://github.com/Ganapati/RsaCtfTool
 
 * Frequency Analysis: https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html
+
+* Decrpyt emoji messages https://emoji-cypher.netlify.app/
 
 * Hash DB: https://crackstation.net/
 
@@ -79,15 +79,29 @@ http://rumkin.com/tools/cipher/
 
 * StegCracker: https://github.com/Paradoxis/StegCracker
 
-* Magic Eye Solver / Viewer: https://magiceye.ecksdee.co.uk/
-
 * Deeper steganography analysis tool: https://aperisolve.fr/
 
-* QR decoder: https://zxing.org/w/decode.jspx
+* Spectrum Analyzer: https://academo.org/demos/spectrum-analyzer/
 
 * Stegsolve: https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
 
 * Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/   https://github.com/0xcomposure/FFTStegPic
+
+* Digital invisible ink stego tool: https://sourceforge.net/projects/diit/
+
+https://incoherency.co.uk/image-steganography/#unhide
+
+https://29a.ch/photo-forensics/#forensic-magnifier
+
+http://exif-viewer.com/
+
+https://stegonline.georgeom.net/upload
+
+https://stylesuxx.github.io/steganography/
+
+* Morse Code Adaptive Audio Decoder: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
+
+* Audacity (sudo apt-get install audacity) E.g: https://www.hackiit.cf/write-up-hackiit-ctf-biological-hazard-ii/
 
 * Analyze suspicious files and urls to detect stegomalware: https://stegoinspector.com/#/
 
@@ -99,17 +113,9 @@ http://rumkin.com/tools/cipher/
 
 * Chess Steganography : https://incoherency.co.uk/chess-steg/
 
-* Spectrum Analyzer: https://academo.org/demos/spectrum-analyzer/
+* Magic Eye Solver / Viewer: https://magiceye.ecksdee.co.uk/
 
-http://exif-viewer.com/
-
-https://stegonline.georgeom.net/upload
-
-https://stylesuxx.github.io/steganography/
-
-https://incoherency.co.uk/image-steganography/#unhide
-
-https://29a.ch/photo-forensics/#forensic-magnifier
+* QR decoder: https://zxing.org/w/decode.jspx
 
 * Stegosuite:  http://manpages.ubuntu.com/manpages/bionic/man1/stegosuite.1.html
 
@@ -121,13 +127,7 @@ https://29a.ch/photo-forensics/#forensic-magnifier
 
 * Stegpic: https://domnit.org/stepic/doc/
 
-* Digital invisible ink stego tool: https://sourceforge.net/projects/diit/
-
 * Bytehist: https://www.cert.at/en/downloads/software/software-bytehist
-
-* Morse Code Adaptive Audio Decoder: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
-
-* Audacity (sudo apt-get install audacity) E.g: https://www.hackiit.cf/write-up-hackiit-ctf-biological-hazard-ii/
 
 https://www.bertnase.de/npiet/npiet-execute.php
 
