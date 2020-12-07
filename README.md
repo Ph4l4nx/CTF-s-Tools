@@ -63,8 +63,6 @@ http://rumkin.com/tools/cipher/
 
 * Simple script to calculate the onion address from a Tor hidden service descriptor or public key: https://gist.github.com/DonnchaC/d6428881f451097f329e (you need to modify the line 14 for working properly "onion_address = hashlib.sha1(key.exportKey('DER')[22:]).digest()[:10]").
 
-* Common User Passwords Profiler: https://github.com/Mebus/cupp y https://github.com/r3nt0n/bopscrk. 
-
 ## Steganography:
 
 * Exiftool
@@ -373,6 +371,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 https://github.com/Xpykerz/CrackZip
 
 https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
+
+* Common User Passwords Profiler: https://github.com/Mebus/cupp y https://github.com/r3nt0n/bopscrk. 
 
 
 ## Wikis:
