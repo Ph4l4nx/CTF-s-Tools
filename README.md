@@ -65,6 +65,8 @@ http://rumkin.com/tools/cipher/
 
 * Common User Passwords Profiler: https://github.com/Mebus/cupp y https://github.com/r3nt0n/bopscrk. 
 
+* Tool for recovering passwords from pixelized screenshots: https://github.com/beurtschipper/Depix
+
 ## Steganography:
 
 * Exiftool
