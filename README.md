@@ -37,6 +37,8 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Hash DB: https://hashes.org/search.php
 
+* Hash DB: https://www.onlinehashcrack.com/
+
 * Padding-oracle-attacker: https://github.com/KishanBagaria/padding-oracle-attacker
 
 * Maritime signal flags dictionary: https://en.wikipedia.org/wiki/International_maritime_signal_flags
@@ -60,6 +62,8 @@ http://rumkin.com/tools/cipher/
 * Malboge esoteric programming language decoder: https://www.malbolge.doleczek.pl/
 
 * Simple script to calculate the onion address from a Tor hidden service descriptor or public key: https://gist.github.com/DonnchaC/d6428881f451097f329e (you need to modify the line 14 for working properly "onion_address = hashlib.sha1(key.exportKey('DER')[22:]).digest()[:10]").
+
+* Common User Passwords Profiler: https://github.com/Mebus/cupp y https://github.com/r3nt0n/bopscrk. 
 
 ## Steganography:
 
