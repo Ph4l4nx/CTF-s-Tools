@@ -65,8 +65,6 @@ http://rumkin.com/tools/cipher/
 
 * Common User Passwords Profiler: https://github.com/Mebus/cupp y https://github.com/r3nt0n/bopscrk. 
 
-* Tool for recovering passwords from pixelized screenshots: https://github.com/beurtschipper/Depix
-
 ## Steganography:
 
 * Exiftool
@@ -138,6 +136,8 @@ https://stylesuxx.github.io/steganography/
 https://www.bertnase.de/npiet/npiet-execute.php
 
 * Repair images: https://online.officerecovery.com/es/pixrecovery/
+
+* Tool for recovering passwords from pixelized screenshots: https://github.com/beurtschipper/Depix
 
 ## OSINT:
  
