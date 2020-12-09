@@ -195,7 +195,7 @@ https://builtwith.com/
 
 * Find email addresses related to a domain: https://hunter.io/
 
-* Fofa search engine: https://fofa.so/
+* Fofa search engine: https://fofa.so/ (Similar to Shodan)
 
 * Threat Intel Tools: https://cyberfive.uk/threat-intel-tools/
 
