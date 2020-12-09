@@ -153,6 +153,8 @@ https://www.threatcrowd.org/
 
 * The search engine for the Internet of Things: https://www.shodan.io/
 
+* Threat Intel Tools: https://cyberfive.uk/threat-intel-tools/
+
 * Honeypot or not: https://honeyscore.shodan.io/
 
 https://talosintelligence.com/
@@ -196,9 +198,6 @@ https://builtwith.com/
 * Find email addresses related to a domain: https://hunter.io/
 
 * Fofa search engine: https://fofa.so/ (Similar to Shodan)
-
-* Threat Intel Tools: https://cyberfive.uk/threat-intel-tools/
-
 
 ## Forensic:
 
@@ -333,6 +332,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 * Sandbox: https://github.com/CERT-Polska/drakvuf-sandbox
 
 * Ransomware decryption tools: https://www.nomoreransom.org/es/decryption-tools.html , https://www.avast.com/es-es/ransomware-decryption-tools , https://noransom.kaspersky.com/ , https://www.mcafee.com/enterprise/es-es/downloads/free-tools/ransomware-decryption.html
+
+* Analyze APK's: https://amaaas.com/
 
 * Database of counterfeit-related webs: https://desenmascara.me/
 
