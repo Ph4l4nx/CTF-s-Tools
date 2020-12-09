@@ -193,9 +193,11 @@ https://builtwith.com/
 
 * Zoomeye.org: https://www.zoomeye.org/
 
-* Find email addresses related to a domain: Hunter.io: https://hunter.io/
+* Find email addresses related to a domain: https://hunter.io/
 
 * Fofa search engine: https://fofa.so/
+
+* Threat Intel Tools: https://cyberfive.uk/threat-intel-tools/
 
 
 ## Forensic:
