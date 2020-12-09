@@ -199,6 +199,8 @@ https://builtwith.com/
 
 * Fofa search engine: https://fofa.so/ (Similar to Shodan)
 
+* Graphical OSINT platform: https://www.spiderfoot.net/#
+
 ## Forensic:
 
 * Online PCAP Analysis: https://packettotal.com/
