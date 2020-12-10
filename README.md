@@ -263,6 +263,8 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 * wfuzz. Cheat Sheet: https://book.hacktricks.xyz/pentesting-web/web-tool-wfuzz
 
+* Dirsearch: https://github.com/maurosoria/dirsearch
+
 * Nmap cheatsheet: https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
 
 * Automated All-in-One OS command injection and exploitation tool: https://github.com/commixproject/commix
@@ -333,6 +335,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Nmap
 
+* SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
+
 * Videos: https://www.youtube.com/c/s4vitar/featured
 
 ## Malware 
@@ -396,6 +400,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 * Strings 
 
 * File 
+
+* Cewl. Cheat sheet: https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-passwords-part-5-creating-custom-wordlist-with-cewl-0158855/
 
 * Password Recovery Online : https://www.lostmypass.com/try/
 
