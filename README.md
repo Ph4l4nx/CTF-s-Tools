@@ -137,6 +137,8 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 * Tool for recovering passwords from pixelized screenshots: https://github.com/beurtschipper/Depix
 
+* Forensic Image Analysis: https://github.com/GuidoBartoli/sherloq
+
 ## OSINT:
  
 * Google CheatSheet: https://www.sans.org/security-resources/GoogleCheatSheet.pdf
