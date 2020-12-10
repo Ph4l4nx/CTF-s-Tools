@@ -348,6 +348,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 * SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
 
 * Videos: https://www.youtube.com/c/s4vitar/featured
+ 
+* Mobile: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
 
 ## Malware 
 
@@ -420,6 +422,8 @@ https://github.com/Xpykerz/CrackZip
 https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
 
 * Common User Passwords Profiler: https://github.com/Mebus/cupp y https://github.com/r3nt0n/bopscrk. 
+
+* Mobile Pentest Cheatsheet: https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 
 
 ## Wikis:
