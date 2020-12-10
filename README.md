@@ -329,6 +329,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Metasploit. Cheat sheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
 
+* https://www.exploit-db.com/
+
 * Nmap
 
 ## Malware 
