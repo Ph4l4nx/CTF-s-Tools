@@ -275,6 +275,8 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 * Command injection: https://github.com/payloadbox/command-injection-payload-list
 
+* WPscan
+
 https://pentest-tools.com/home
 
 https://book.hacktricks.xyz/
