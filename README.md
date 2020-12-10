@@ -227,6 +227,8 @@ https://builtwith.com/
 
 * PDF analyze: https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdfid.py, https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdf-parser.py y https://eternal-todo.com/tools/peepdf-pdf-analysis-tool.
 
+* Office analyze: http://www.reconstructer.org/, https://github.com/unixfreak0037/officeparser, https://github.com/decalage2/oletools, https://github.com/bontchev/pcodedmp, https://github.com/decalage2/ViperMonkey y https://blog.didierstevens.com/programs/oledump-py/.
+
 * Extract Unicode-encoded content from a file: https://github.com/DidierStevens/DidierStevensSuite/blob/master/base64dump.py
 
 * Diskeditor: https://www.disk-editor.org/index.html
