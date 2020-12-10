@@ -287,6 +287,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Dotpeek (.NET)
 
+* GameBoy debugger: https://bgb.bircd.org/
+
 * IDA pro. Cheat Sheet: https://www.dragonjar.org/cheat-sheet-ida-pro-interactive-disassembler.xhtml
 
 * Ollydbg. Cheat Sheet: http://www.ollydbg.de/quickst.htm
