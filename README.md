@@ -225,6 +225,10 @@ https://builtwith.com/
 
 * Powershell Decoder: https://github.com/R3MRUM/PSDecode
 
+* PDF analyze: https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdfid.py, https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdf-parser.py y https://eternal-todo.com/tools/peepdf-pdf-analysis-tool.
+
+* Extract Unicode-encoded content from a file: https://github.com/DidierStevens/DidierStevensSuite/blob/master/base64dump.py
+
 * Diskeditor: https://www.disk-editor.org/index.html
 
 * PhotoRec: https://www.cgsecurity.org/wiki/PhotoRec
@@ -248,6 +252,8 @@ https://builtwith.com/
 * Regular expressions for grep -Po " " https://regex101.com/
 
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
+
+https://blog.didierstevens.com/programs/xorsearch/
 
 ## Web:
 
