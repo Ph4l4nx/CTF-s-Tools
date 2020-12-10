@@ -319,7 +319,7 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * List Dynamic Dependencies: Ldd file
 
-* Unpacking binaries: Upx -d file
+* Unpacking some binaries: Upx -d file
 
 * Intel® 64 and IA-32 Architectures Software Developer’s Manual: https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf 
 
