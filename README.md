@@ -81,6 +81,8 @@ http://rumkin.com/tools/cipher/
 
 * StegCracker: https://github.com/Paradoxis/StegCracker
 
+* Stegseek: https://github.com/RickdeJager/stegseek
+
 * Deeper steganography analysis tool: https://aperisolve.fr/
 
 * Spectrum Analyzer: https://academo.org/demos/spectrum-analyzer/
