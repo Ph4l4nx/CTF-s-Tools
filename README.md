@@ -79,9 +79,9 @@ http://rumkin.com/tools/cipher/
 
 * Steghide: http://steghide.sourceforge.net/documentation/manpage_es.php (e.g: steghide extract -sf file , steghide info file)
 
-* StegCracker: https://github.com/Paradoxis/StegCracker
+* Stegseek: https://github.com/RickdeJager/stegseek (Better than Stegcracker)
 
-* Stegseek: https://github.com/RickdeJager/stegseek
+* StegCracker: https://github.com/Paradoxis/StegCracker
 
 * Deeper steganography analysis tool: https://aperisolve.fr/
 
