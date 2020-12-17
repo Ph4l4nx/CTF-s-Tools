@@ -269,7 +269,7 @@ https://blog.didierstevens.com/programs/xorsearch/
 
 * Hydra. Cheat Sheet: https://redteamtutorials.com/2018/10/25/hydra-brute-force-techniques/
 
-* Dirbuster.
+* Dirbuster. https://mundo-hackers.weebly.com/dirbuster.html
 
 * Gobuster. Cheat Sheet: https://redteamtutorials.com/2018/11/19/gobuster-cheatsheet/
 
