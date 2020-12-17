@@ -269,6 +269,8 @@ https://blog.didierstevens.com/programs/xorsearch/
 
 * Hydra. Cheat Sheet: https://redteamtutorials.com/2018/10/25/hydra-brute-force-techniques/
 
+* Dirbuster.
+
 * Gobuster. Cheat Sheet: https://redteamtutorials.com/2018/11/19/gobuster-cheatsheet/
 
 * wfuzz. Cheat Sheet: https://book.hacktricks.xyz/pentesting-web/web-tool-wfuzz
