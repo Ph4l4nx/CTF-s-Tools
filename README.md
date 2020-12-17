@@ -349,8 +349,6 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Videos: https://www.youtube.com/c/s4vitar/featured
  
-* Mobile: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
-
 ## Malware 
 
 * Virustotal: https://www.virustotal.com/gui/home/search
@@ -426,6 +424,8 @@ https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
 * Common User Passwords Profiler: https://github.com/Mebus/cupp y https://github.com/r3nt0n/bopscrk. 
 
 * Mobile Pentest Cheatsheet: https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
+
+* Mobile automated-tools: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
 
 
 ## Wikis:
