@@ -440,6 +440,8 @@ https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-
 
 https://github.com/OpenToAllCTF/Tips
 
+Reversing tutorial: https://github.com/mytechnotalent/Reverse-Engineering-Tutorial
+
 
 ## Write-Ups:
 
