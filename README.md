@@ -425,7 +425,7 @@ https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
 
 * Mobile Pentest Cheatsheet: https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 
-* Mobile automated-tools: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
+* Automated  Mobile tools: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
 
 
 ## Wikis:
