@@ -325,7 +325,7 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Regshot:  https://sourceforge.net/projects/regshot/ (before and after running a binary)
 
-https://www.gnu.org/software/gdb/
+* GDB:  https://gist.github.com/rkubik/b96c23bd8ed58333de37f2b8cd052c30
 
 https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
