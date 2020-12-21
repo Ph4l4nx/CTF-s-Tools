@@ -351,6 +351,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Nmap
 
+* Ffuf: https://github.com/ffuf/ffuf
+
 * SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
 
 * Videos: https://www.youtube.com/c/s4vitar/featured
