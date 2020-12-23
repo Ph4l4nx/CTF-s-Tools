@@ -75,7 +75,7 @@ http://rumkin.com/tools/cipher/
 
 * Exiv2
 
-* Magic Numbers Signatures: https://asecuritysite.com/forensics/magic → Hexeditor
+* Magic Numbers Signatures: https://asecuritysite.com/forensics/magic && https://www.garykessler.net/library/file_sigs.html → Hexeditor
 
 * Binwalk -e image
 
