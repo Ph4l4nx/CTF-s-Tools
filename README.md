@@ -375,7 +375,7 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * https://virusscan.jotti.org/
 
-* Ransomware decryption tools: https://www.nomoreransom.org/es/decryption-tools.html , https://www.avast.com/es-es/ransomware-decryption-tools , https://noransom.kaspersky.com/ , https://www.mcafee.com/enterprise/es-es/downloads/free-tools/ransomware-decryption.html
+* Ransomware decryption tools: https://www.nomoreransom.org/es/decryption-tools.html , https://www.avast.com/es-es/ransomware-decryption-tools , https://noransom.kaspersky.com/ , https://www.mcafee.com/enterprise/es-es/downloads/free-tools/ransomware-decryption.html. Overview: https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
 
 * Analyze APK's: https://amaaas.com/
 
@@ -396,6 +396,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 * https://github.com/mindcrypt/powerglot
 
 * Malware examples/binaries: https://github.com/ytisf/theZoo
+
+* APT's: https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#
 
 ## Utility:
 
