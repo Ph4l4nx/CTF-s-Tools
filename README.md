@@ -383,6 +383,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Sysinternals: https://docs.microsoft.com/en-us/sysinternals/
 
+* RAT Decoder: https://github.com/kevthehermit/RATDecoders
+
 * https://github.com/alexandreborges/malwoverview
 
 * https://nodistribute.com/
