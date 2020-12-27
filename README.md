@@ -111,6 +111,8 @@ https://stylesuxx.github.io/steganography/
 
 * Audacity (sudo apt-get install audacity) E.g: https://www.hackiit.cf/write-up-hackiit-ctf-biological-hazard-ii/
 
+* AudioStego: https://github.com/danielcardeenas/AudioStego
+
 * Analyze suspicious files and urls to detect stegomalware: https://stegoinspector.com/#/
 
 * Aurebesh Translator: https://funtranslations.com/aurebesh
