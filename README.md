@@ -437,6 +437,8 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Password Recovery Online : https://www.lostmypass.com/try/
 
+* DTMF: https://unframework.github.io/dtmf-detect/
+
 https://github.com/Xpykerz/CrackZip
 
 https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
