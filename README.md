@@ -65,6 +65,8 @@ http://rumkin.com/tools/cipher/
 
 * Speech to text: https://speech-to-text-demo.ng.bluemix.net/
 
+* Lyrics song: https://codewithrockstar.com/
+
 * Online generator md5 hash of a string: http://www.md5.cz/
 
 ## Steganography:
