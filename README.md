@@ -77,6 +77,8 @@ http://rumkin.com/tools/cipher/
 
 * Exiv2
 
+* Identify -verbose file
+
 * Magic Numbers Signatures: https://asecuritysite.com/forensics/magic && https://www.garykessler.net/library/file_sigs.html → Hexeditor
 
 * Binwalk -e image
