@@ -97,7 +97,7 @@ http://rumkin.com/tools/cipher/
 
 * Stegsolve: https://github.com/zardus/ctf-tools/blob/master/stegsolve/install (running: java -jar steg_solve.jar)
 
-* Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/   https://github.com/0xcomposure/FFTStegPic
+* Fourier Transform: http://bigwww.epfl.ch/demo/ip/demos/FFT/ && https://github.com/0xcomposure/FFTStegPic
 
 * Digital invisible ink stego tool: https://sourceforge.net/projects/diit/
 
