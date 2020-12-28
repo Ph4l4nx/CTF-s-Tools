@@ -215,6 +215,8 @@ https://builtwith.com/
 
 * Graphical OSINT platform: https://www.spiderfoot.net/#
 
+* HTTP headers of a domain: https://www.webconfs.com/http-header-check.php
+
 ## Forensic:
 
 * Online PCAP Analysis: https://packettotal.com/
