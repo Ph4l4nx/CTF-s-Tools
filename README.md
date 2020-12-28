@@ -247,7 +247,7 @@ https://builtwith.com/
 
 * Extract Unicode-encoded content from a file: https://github.com/DidierStevens/DidierStevensSuite/blob/master/base64dump.py
 
-* * DTMF telephone frecuency: https://unframework.github.io/dtmf-detect/
+* DTMF telephone frecuency: https://unframework.github.io/dtmf-detect/
 
 * Diskeditor: https://www.disk-editor.org/index.html
 
