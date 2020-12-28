@@ -243,7 +243,7 @@ https://builtwith.com/
 
 * PDF analyzer: https://github.com/zbetcheckin/PDF_analysis, https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdfid.py, https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdf-parser.py y https://eternal-todo.com/tools/peepdf-pdf-analysis-tool.
 
-* Office analyzer: http://www.reconstructer.org/, https://github.com/unixfreak0037/officeparser, https://github.com/decalage2/oletools, https://github.com/bontchev/pcodedmp, https://github.com/decalage2/ViperMonkey y https://blog.didierstevens.com/programs/oledump-py/.
+* Office analyzer: http://www.reconstructer.org/, https://github.com/unixfreak0037/officeparser, https://github.com/decalage2/oletools, https://github.com/bontchev/pcodedmp, https://github.com/decalage2/ViperMonkey && https://blog.didierstevens.com/programs/oledump-py/.
 
 * Extract Unicode-encoded content from a file: https://github.com/DidierStevens/DidierStevensSuite/blob/master/base64dump.py
 
@@ -413,7 +413,13 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Malware examples/binaries: https://github.com/ytisf/theZoo
 
-* APT's: https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#
+* APT's: https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml# && https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv
+
+## Mobile
+
+* Mobile Pentest Cheatsheet: https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
+
+* Automated  Mobile tools: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
 
 ## Utility:
 
@@ -450,11 +456,6 @@ https://github.com/Xpykerz/CrackZip
 https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
 
 * Common User Passwords Profiler: https://github.com/Mebus/cupp y https://github.com/r3nt0n/bopscrk. 
-
-* Mobile Pentest Cheatsheet: https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
-
-* Automated  Mobile tools: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
-
 
 ## Wikis:
 
