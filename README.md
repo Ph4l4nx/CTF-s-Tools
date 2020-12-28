@@ -103,8 +103,6 @@ http://rumkin.com/tools/cipher/
 
 https://incoherency.co.uk/image-steganography/#unhide
 
-https://29a.ch/photo-forensics/#forensic-magnifier
-
 http://exif-viewer.com/
 
 https://stegonline.georgeom.net/upload
@@ -223,8 +221,6 @@ https://builtwith.com/
 
 * Wireshark. Cheat sheet: https://cdn.comparitech.com/wp-content/uploads/2019/06/Wireshark-Cheat-Sheet-1.jpg
 
-* To decrypt WPA keys: pyrit -r "capctura.pcap" analyze 
-
 * Volatility. Cheat sheet: https://digital-forensics.sans.org/media/volatility-memory-forensics-cheat-sheet.pdf
 
 * Foremost
@@ -232,6 +228,8 @@ https://builtwith.com/
 * Binwalk
 
 * Autopsy
+
+* Photo forensics: https://29a.ch/photo-forensics/#forensic-magnifier
 
 * Recuva: https://www.ccleaner.com/recuva
 
@@ -250,6 +248,8 @@ https://builtwith.com/
 * Extract Unicode-encoded content from a file: https://github.com/DidierStevens/DidierStevensSuite/blob/master/base64dump.py
 
 * DTMF telephone frecuency: https://unframework.github.io/dtmf-detect/
+
+* To decrypt WPA keys: pyrit -r "capctura.pcap" analyze
 
 * Diskeditor: https://www.disk-editor.org/index.html
 
