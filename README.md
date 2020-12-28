@@ -243,6 +243,8 @@ https://builtwith.com/
 
 * Extract Unicode-encoded content from a file: https://github.com/DidierStevens/DidierStevensSuite/blob/master/base64dump.py
 
+* * DTMF telephone frecuency: https://unframework.github.io/dtmf-detect/
+
 * Diskeditor: https://www.disk-editor.org/index.html
 
 * PhotoRec: https://www.cgsecurity.org/wiki/PhotoRec
@@ -280,6 +282,8 @@ https://blog.didierstevens.com/programs/xorsearch/
 * Hydra. Cheat Sheet: https://redteamtutorials.com/2018/10/25/hydra-brute-force-techniques/
 
 * Dirbuster. https://mundo-hackers.weebly.com/dirbuster.html
+
+* Linkfinder: https://github.com/GerbenJavado/LinkFinder
 
 * Gobuster. Cheat Sheet: https://redteamtutorials.com/2018/11/19/gobuster-cheatsheet/
 
@@ -436,8 +440,6 @@ https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 * Cewl. Cheat sheet: https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-passwords-part-5-creating-custom-wordlist-with-cewl-0158855/
 
 * Password Recovery Online : https://www.lostmypass.com/try/
-
-* DTMF: https://unframework.github.io/dtmf-detect/
 
 https://github.com/Xpykerz/CrackZip
 
