@@ -231,9 +231,13 @@ https://builtwith.com/
 
 * Autopsy
 
+* Recuva: https://www.ccleaner.com/recuva
+
 * AccessData FTK Imager 
 
 * EnCase 
+
+* Testdisk: https://www.cgsecurity.org/wiki/TestDisk_Download
 
 * Powershell Decoder: https://github.com/R3MRUM/PSDecode, https://github.com/JohnLaTwC/PyPowerShellXray and analysis info: https://darungrim.com/research/2019-10-01-analyzing-powershell-threats-using-powershell-debugging.html
 
