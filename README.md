@@ -153,6 +153,8 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 * Stegsnow(Zero-Width Characters): https://pentesttools.net/hide-secret-messages-in-text-using-stegsnow-zero-width-characters/
 
+* SPAM language: https://www.spammimic.com/decode.shtml
+
 ## OSINT:
  
 * Google CheatSheet: https://www.sans.org/security-resources/GoogleCheatSheet.pdf
