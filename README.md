@@ -155,6 +155,8 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 * SPAM language or PGP: https://www.spammimic.com/decode.shtml
 
+* f5stegojs: https://desudesutalk.github.io/f5stegojs/
+
 ## OSINT:
  
 * Google CheatSheet: https://www.sans.org/security-resources/GoogleCheatSheet.pdf
