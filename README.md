@@ -127,7 +127,7 @@ https://stylesuxx.github.io/steganography/
 
 * Magic Eye Solver / Viewer: https://magiceye.ecksdee.co.uk/
 
-* QR decoder: https://zxing.org/w/decode.jspx
+* QR decoder: https://online-barcode-reader.inliteresearch.com/ && https://zxing.org/w/decode.jspx
 
 * Stegosuite:  http://manpages.ubuntu.com/manpages/bionic/man1/stegosuite.1.html
 
