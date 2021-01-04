@@ -463,6 +463,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Password Recovery Online : https://www.lostmypass.com/try/
 
+* Disk Image: https://www.datanumen.com/disk-image-download-thanks/
+
 https://github.com/Xpykerz/CrackZip
 
 https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
