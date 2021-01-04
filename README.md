@@ -149,7 +149,9 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 * Forensic Image Analysis: https://github.com/GuidoBartoli/sherloq
 
-* Unicode Steganography with Zero-Width Characters: https://330k.github.io/misc_tools/unicode_steganography.html
+* Unicode Steganography with Zero-Width Characters: https://330k.github.io/misc_tools/unicode_steganography.html 
+
+* Stegsnow(Zero-Width Characters): https://pentesttools.net/hide-secret-messages-in-text-using-stegsnow-zero-width-characters/
 
 ## OSINT:
  
