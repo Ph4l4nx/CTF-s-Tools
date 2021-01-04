@@ -333,9 +333,13 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Ollydbg. Cheat Sheet: http://www.ollydbg.de/quickst.htm
 
+* GDB:  https://gist.github.com/rkubik/b96c23bd8ed58333de37f2b8cd052c30
+
 * Radare2. Cheat Sheet: https://gist.github.com/williballenthin/6857590dab3e2a6559d7
 
 * Ghidra. Cheat Sheet: https://hackersfun.com/wp-content/uploads/2019/03/Ghidra-Cheat-Sheet.pdf
+
+* Immunity Debugger: https://www.immunityinc.com/products/debugger/
 
 * x64dbg
 
@@ -343,9 +347,7 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Regshot:  https://sourceforge.net/projects/regshot/ (before and after running a binary)
 
-* GDB:  https://gist.github.com/rkubik/b96c23bd8ed58333de37f2b8cd052c30
-
-https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
+* CFF explorer: https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
 
 * Online Disassembler: https://onlinedisassembler.com/static/home/index.html
 
