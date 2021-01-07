@@ -167,6 +167,8 @@ https://inteltechniques.com/JE/OSINT_Packet_2019.pdf
 
 * World domain DB: http://web.archive.org/
 
+* Abuse Domain,IP: https://www.abuseipdb.com/
+
 https://viewdns.info/
 
 https://www.threatcrowd.org/
