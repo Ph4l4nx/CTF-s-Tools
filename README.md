@@ -387,6 +387,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
 
+https://github.com/Leviathan36/kaboom
+
 * Videos: https://www.youtube.com/c/s4vitar/featured
  
 ## Malware 
