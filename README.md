@@ -165,6 +165,8 @@ https://ciberpatrulla.com/links/
 
 https://inteltechniques.com/JE/OSINT_Packet_2019.pdf
 
+* Tools, flowcharts and cheatsheets to help you do your OSINT research:  https://technisette.com/p/tools
+
 * World domain DB: http://web.archive.org/
 
 * Abuse Domain,IP: https://www.abuseipdb.com/
@@ -224,8 +226,6 @@ https://builtwith.com/
 * Graphical OSINT platform: https://www.spiderfoot.net/#
 
 * HTTP headers of a domain: https://www.webconfs.com/http-header-check.php
-
-* Tools, flowcharts and cheatsheets to help you do your OSINT research:  https://technisette.com/p/tools
 
 ## Forensic:
 
@@ -373,11 +373,13 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Intel® 64 and IA-32 Architectures Software Developer’s Manual: https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf 
 
-## Boot2root
+## Pentesting
 
 * Metasploit. Cheat sheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
 
 * https://www.exploit-db.com/
+
+* Biggest DNS historical data: https://securitytrails.com/
 
 * Nmap
 
