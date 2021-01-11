@@ -175,7 +175,7 @@ https://viewdns.info/
 
 https://www.threatcrowd.org/
 
-* The search engine for the Internet of Things: https://www.shodan.io/
+* The search engine for the Internet of Things: https://www.shodan.io/ && All filters cheatseet: https://beta.shodan.io/search/filters
 
 * Threat Intel Tools: https://cyberfive.uk/threat-intel-tools/
 
