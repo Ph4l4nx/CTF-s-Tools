@@ -225,6 +225,8 @@ https://builtwith.com/
 
 * HTTP headers of a domain: https://www.webconfs.com/http-header-check.php
 
+* Tools, flowcharts and cheatsheets to help you do your OSINT research:  https://technisette.com/p/tools
+
 ## Forensic:
 
 * Online PCAP Analysis: https://packettotal.com/
