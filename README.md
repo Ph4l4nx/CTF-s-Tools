@@ -179,7 +179,7 @@ https://www.threatcrowd.org/
 
 * Threat Intel Tools: https://cyberfive.uk/threat-intel-tools/
 
-* Email2PhoneNummber: https://github.com/martinvigo/email2phonenumber
+* Email2PhoneNumber: https://github.com/martinvigo/email2phonenumber
 
 * Honeypot or not: https://honeyscore.shodan.io/
 
