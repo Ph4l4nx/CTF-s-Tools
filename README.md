@@ -375,6 +375,10 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Intel® 64 and IA-32 Architectures Software Developer’s Manual: https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf 
 
+## Exploiting
+
+* Ej: python -c "print 'A'*150" | ./binario
+
 ## Pentesting
 
 * Metasploit. Cheat sheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
@@ -446,6 +450,8 @@ https://github.com/Leviathan36/kaboom
 ## Utility:
 
 * Hexeditor
+
+* nc URL port
 
 * Grep
 
