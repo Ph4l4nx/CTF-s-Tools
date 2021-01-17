@@ -459,6 +459,8 @@ https://github.com/Leviathan36/kaboom
 
 * Grep
 
+* rgrep (Recursive grep)
+
 * awk
 
 * perl
