@@ -27,9 +27,11 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Data format identifier: https://geocaching.dennistreysa.de/multisolver/
 
-* RsaCtfTool: https://github.com/Ganapati/RsaCtfTool
+* Automated cryptogram solver (substitution) https://quipqiup.com/
 
 * Frequency Analysis: https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html
+
+* RsaCtfTool: https://github.com/Ganapati/RsaCtfTool
 
 * Decrpyt emoji messages https://emoji-cypher.netlify.app/
 
@@ -44,8 +46,6 @@ https://www.dcode.fr/tools-list#cryptography
 * Maritime signal flags dictionary: https://en.wikipedia.org/wiki/International_maritime_signal_flags
 
 * Enigma: https://cryptii.com/
-
-* Substitution: https://quipqiup.com/
 
 * Factoring: http://factordb.com/
 
@@ -68,6 +68,8 @@ http://rumkin.com/tools/cipher/
 * Lyrics song: https://codewithrockstar.com/online
 
 * Online generator md5 hash of a string: http://www.md5.cz/
+
+
 
 ## Steganography:
 
