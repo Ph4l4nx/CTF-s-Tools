@@ -31,6 +31,8 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Frequency Analysis: https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html
 
+* Brute force Vigenere: https://guballa.de/vigenere-solver
+
 * RsaCtfTool: https://github.com/Ganapati/RsaCtfTool
 
 * Decrpyt emoji messages https://emoji-cypher.netlify.app/
@@ -68,8 +70,6 @@ http://rumkin.com/tools/cipher/
 * Lyrics song: https://codewithrockstar.com/online
 
 * Online generator md5 hash of a string: http://www.md5.cz/
-
-
 
 ## Steganography:
 
