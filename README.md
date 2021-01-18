@@ -3,7 +3,7 @@
 Repository to index interesting Capture The Flag tools and other stuff.
 
 
-   * [CTF's Tools](#ctfs-tools)
+   # Table of Contents
       * [Platforms to practice](#platforms-to-practice)
       * [Cryptography](#cryptography)
       * [Steganography](#steganography)
