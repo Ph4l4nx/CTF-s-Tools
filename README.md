@@ -2,6 +2,26 @@
 
 Repository to index interesting Capture The Flag tools and other stuff.
 
+
+   * [CTF's Tools](#ctfs-tools)
+      * [Platforms to practice](#platforms-to-practice)
+      * [Cryptography](#cryptography)
+      * [Steganography](#steganography)
+      * [OSINT](#osint)
+      * [Forensics](#forensics)
+      * [Web](#web)
+      * [Reversing](#reversing)
+      * [Exploiting](#exploiting)
+      * [Pentesting](#pentesting)
+      * [Malware](#malware)
+      * [Mobile](#mobile)
+      * [Utility](#utility)
+      * [Real World interaction Map](#real-world-interaction-map)
+      * [Wikis](#wikis)
+      * [Write-Ups](#write-ups)
+      * [Other tools](#other-tools)
+
+
 ## Platforms to practice
 
 https://ctftime.org/
