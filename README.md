@@ -2,10 +2,6 @@
 
 Repository to index interesting Capture The Flag tools and other stuff.
 
-# Table of Contents
-
-
-
 ## Platforms to practice
 
 https://ctftime.org/
