@@ -4,7 +4,12 @@ Repository to index interesting Capture The Flag tools and other stuff.
 
 # Table of Contents
 
-
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 
 ## Platforms to practice:
 
