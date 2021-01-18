@@ -27,7 +27,7 @@ Repository to index interesting Capture The Flag tools and other stuff.
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
-## Headers
+
 
 ## Platforms to practice
 
@@ -97,6 +97,8 @@ http://rumkin.com/tools/cipher/
 * Lyrics song: https://codewithrockstar.com/online
 
 * Online generator md5 hash of a string: http://www.md5.cz/
+
+## Headers
 
 ## Steganography
 
