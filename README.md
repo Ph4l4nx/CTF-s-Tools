@@ -22,6 +22,13 @@ Repository to index interesting Capture The Flag tools and other stuff.
 <a name="headers"/>
 ## Headers
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 ## Platforms to practice
 
 https://ctftime.org/
