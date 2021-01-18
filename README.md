@@ -1,26 +1,6 @@
-# CTF's Tools 
+# Table of Contents
 
 Repository to index interesting Capture The Flag tools and other stuff.
-
-
-   # Table of Contents
-      * [Platforms to practice](#platforms-to-practice)
-      * [Cryptography](#cryptography)
-      * [Steganography](#steganography)
-      * [OSINT](#osint)
-      * [Forensics](#forensics)
-      * [Web](#web)
-      * [Reversing](#reversing)
-      * [Exploiting](#exploiting)
-      * [Pentesting](#pentesting)
-      * [Malware](#malware)
-      * [Mobile](#mobile)
-      * [Utility](#utility)
-      * [Real World interaction Map](#real-world-interaction-map)
-      * [Wikis](#wikis)
-      * [Write-Ups](#write-ups)
-      * [Other tools](#other-tools)
-
 
 ## Platforms to practice
 
