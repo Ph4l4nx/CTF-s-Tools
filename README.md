@@ -3,34 +3,6 @@
 Repository to index interesting Capture The Flag tools and other stuff.
 
 # Table of Contents
-[Platforms to practice](##platforms to practice)  
-[Cryptography](##cryptography)
-[Emphasis](##steganography)
-[Emphasis](##osint)
-[Emphasis](##forensic)
-[Emphasis](##web)
-[Emphasis](##reversing)
-[Emphasis](##exploiting)
-[Emphasis](##pentesting)
-[Emphasis](##malware)
-[Emphasis](##mobile)
-[Emphasis](##utility)
-[Emphasis](##real world interaction map)
-[Emphasis](##wikis)
-[Emphasis](##write-ups)
-[Emphasis](##other tools)
-<a name="headers"/>
-## Headers
-
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...
-<a name="headers"/>
-## Headers
-
-<a name="emphasis"/>
-## Emphasis
 
 
 
