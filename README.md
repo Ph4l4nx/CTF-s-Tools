@@ -13,11 +13,17 @@ Repository to index interesting Capture The Flag tools and other stuff.
       * [Exploiting](#exploiting)                                                                                                                                                                                                          
       * [Pentesting](#pentesting)                                                                                                                                                                                                          
       * [Malware](#malware)                                                                                                                                                                                                                
-      * [Mobile](#mobile)                                                                                                                                                                                                                  
+      * [Mobile](#mobile)       
+      
+      * [Wifi](#wifi)
+      
       * [Utility](#utility)                                                                                                                                                                                                                
       * [Real World interaction Map](#real-world-interaction-map)
+      
       * [Wikis](#wikis)
+      
       * [Write-Ups](#write-ups)
+      
       * [Other tools](#other-tools)
 
 
@@ -471,6 +477,16 @@ https://github.com/Leviathan36/kaboom
 * Mobile Pentest Cheatsheet: https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 
 * Automated  Mobile tools: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
+
+## Wifi
+
+* Wifi Crack: https://github.com/s4vitar/wifiCrack
+
+* EvilTrust: https://github.com/s4vitar/evilTrust
+
+Yersinia
+
+Bettercap
 
 ## Utility
 
