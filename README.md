@@ -3,8 +3,8 @@
 Repository to index interesting Capture The Flag tools and other stuff.
 
 # Table of Contents
-[Headers](##platforms to practice)  
-[Emphasis](##cryptography)
+[Platforms to practice](##platforms to practice)  
+[Cryptography](##cryptography)
 [Emphasis](##steganography)
 [Emphasis](##osint)
 [Emphasis](##forensic)
