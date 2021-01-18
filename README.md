@@ -3,13 +3,26 @@
 Repository to index interesting Capture The Flag tools and other stuff.
 
 # Table of Contents
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
+[Headers](## Platforms to practice)  
+[Emphasis](## Cryptography)
+[Emphasis](## Steganography)
+[Emphasis](## OSINT)
+[Emphasis](## Forensic)
+[Emphasis](## Web)
+[Emphasis](## Reversing)
+[Emphasis](## Exploiting)
+[Emphasis](## Pentesting)
+[Emphasis](## Malware)
+[Emphasis](## Mobile)
+[Emphasis](## Utility)
+[Emphasis](## Real World interaction Map)
+[Emphasis](## Wikis)
+[Emphasis](## Write-Ups)
+[Emphasis](## Other tools)
 <a name="headers"/>
 ## Headers
 
-## Platforms to practice:
+## Platforms to practice
 
 https://ctftime.org/
 
@@ -24,7 +37,7 @@ https://atenea.ccn-cert.cni.es/home
 * Reversing platform: https://crackmes.one/
 
 
-## Cryptography:
+## Cryptography
 
 https://gchq.github.io/CyberChef/
 
@@ -78,7 +91,7 @@ http://rumkin.com/tools/cipher/
 
 * Online generator md5 hash of a string: http://www.md5.cz/
 
-## Steganography:
+## Steganography
 
 * Exiftool
 
@@ -166,7 +179,7 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 * f5stegojs: https://desudesutalk.github.io/f5stegojs/
 
-## OSINT:
+## OSINT
  
 * Google CheatSheet: https://www.sans.org/security-resources/GoogleCheatSheet.pdf
 
@@ -238,7 +251,7 @@ https://builtwith.com/
 
 * HTTP headers of a domain: https://www.webconfs.com/http-header-check.php
 
-## Forensic:
+## Forensics
 
 * Online PCAP Analysis: https://packettotal.com/
 
@@ -300,7 +313,7 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 https://blog.didierstevens.com/programs/xorsearch/
 
-## Web:
+## Web
 
 * Wappalyzer
 
@@ -342,7 +355,7 @@ https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
-## Reversing:
+## Reversing
 
 * Binwalk
 
@@ -458,7 +471,7 @@ https://github.com/Leviathan36/kaboom
 
 * Automated  Mobile tools: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
 
-## Utility:
+## Utility
 
 * Hexeditor
 
@@ -504,7 +517,7 @@ https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
 
 https://threatbutt.com/map/
 
-## Wikis:
+## Wikis
 
 https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/
 
@@ -517,7 +530,7 @@ https://github.com/OpenToAllCTF/Tips
 Reversing tutorial: https://github.com/mytechnotalent/Reverse-Engineering-Tutorial
 
 
-## Write-Ups:
+## Write-Ups
 
 https://ctftime.org/writeups
 
@@ -534,7 +547,7 @@ https://github.com/RazviOverflow/ctfs
 https://github.com/DEKRA-CTF/CTFs/tree/main/2020
 
 
-## Other tools:
+## Other tools
 
 https://github.com/zardus/ctf-tools
 
