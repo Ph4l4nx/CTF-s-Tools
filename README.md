@@ -25,7 +25,11 @@ Repository to index interesting Capture The Flag tools and other stuff.
 ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
-...snip...    
+...snip...
+<a name="headers"/>
+## Headers
+<a name="emphasis"/>
+## Emphasis
 
 
 
@@ -97,9 +101,6 @@ http://rumkin.com/tools/cipher/
 * Lyrics song: https://codewithrockstar.com/online
 
 * Online generator md5 hash of a string: http://www.md5.cz/
-
-<a name="headers"/>
-## Headers
 
 ## Steganography
 
