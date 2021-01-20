@@ -446,6 +446,8 @@ https://github.com/Leviathan36/kaboom
 
 * https://virusscan.jotti.org/
 
+* Macros: https://blog.didierstevens.com/2021/01/19/video-maldoc-analysis-with-cyberchef/
+
 * Ransomware decryption tools: https://www.nomoreransom.org/es/decryption-tools.html , https://www.avast.com/es-es/ransomware-decryption-tools , https://noransom.kaspersky.com/ , https://www.mcafee.com/enterprise/es-es/downloads/free-tools/ransomware-decryption.html. Overview: https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
 
 * Analyze APK's: https://amaaas.com/
