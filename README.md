@@ -258,6 +258,8 @@ https://builtwith.com/
 
 * HTTP headers of a domain: https://www.webconfs.com/http-header-check.php
 
+* Metadata of public's documents: https://github.com/Josue87/MetaFinder
+
 ## Forensics
 
 * Online PCAP Analysis: https://packettotal.com/
