@@ -41,6 +41,8 @@ https://atenea.ccn-cert.cni.es/home
 
 * Reversing platform: https://crackmes.one/
 
+* PicoCTF: https://play.picoctf.org/login
+
 
 ## Cryptography
 
