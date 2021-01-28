@@ -567,6 +567,8 @@ https://github.com/RazviOverflow/ctfs
 
 https://github.com/DEKRA-CTF/CTFs/tree/main/2020
 
+https://medium.com/bugbountywriteup/tryhackme-reversing-elf-writeup-6fd006704148
+
 
 ## Other tools
 
