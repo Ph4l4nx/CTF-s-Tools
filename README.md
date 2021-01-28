@@ -436,19 +436,17 @@ https://github.com/Leviathan36/kaboom
 
 * Virustotal: https://www.virustotal.com/gui/home/search
 
+* Online Cuckoo Sandbox: https://sandbox.pikker.ee/
+
 * Joesandbox: https://www.joesandbox.com/#windows
 
 * Hybrid Analysis: https://www.hybrid-analysis.com/?lang=es
 
 * ANY.RUN https://any.run/
 
-* Online Cuckoo Sandbox: https://sandbox.pikker.ee/
-
 * All in one (NETWORK+REVERSING): https://www.procdot.com/
 
 * Sandbox: https://github.com/CERT-Polska/drakvuf-sandbox
-
-* https://virusscan.jotti.org/
 
 * Macros: https://blog.didierstevens.com/2021/01/19/video-maldoc-analysis-with-cyberchef/
 
