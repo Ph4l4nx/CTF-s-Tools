@@ -192,8 +192,6 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 https://ciberpatrulla.com/links/
 
-https://inteltechniques.com/JE/OSINT_Packet_2019.pdf
-
 * Tools, flowcharts and cheatsheets to help you do your OSINT research:  https://technisette.com/p/tools
 
 * World domain DB: http://web.archive.org/
@@ -208,15 +206,17 @@ https://www.threatcrowd.org/
 
 * Threat Intel Tools: https://cyberfive.uk/threat-intel-tools/
 
+https://talosintelligence.com/
+
+* Hurricane Electric BGP: https://bgp.he.net/
+
+https://centralops.net/co/
+
 * Email2PhoneNumber: https://github.com/martinvigo/email2phonenumber
 
 * Honeypot or not: https://honeyscore.shodan.io/
 
-https://talosintelligence.com/
-
 https://osintframework.com/
-
-https://centralops.net/co/
 
 https://builtwith.com/
 
@@ -243,8 +243,6 @@ https://builtwith.com/
 * Phishing Domain DB: https://phishcheck.me/
 
 * Instagram: https://github.com/th3unkn0n/osi.ig
-
-* Hurricane Electric BGP: https://bgp.he.net/
 
 * Censys: https://censys.io/ipv4
 
