@@ -422,9 +422,11 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Ffuf: https://github.com/ffuf/ffuf
 
-* OSCP: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
+https://dnsdumpster.com/
 
 * SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
+
+* OSCP: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
 
 https://github.com/Leviathan36/kaboom
 
