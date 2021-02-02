@@ -186,6 +186,8 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 * f5stegojs: https://desudesutalk.github.io/f5stegojs/
 
+* Unshorten: https://unshorten.it/
+
 ## OSINT
  
 * Google CheatSheet: https://www.sans.org/security-resources/GoogleCheatSheet.pdf
