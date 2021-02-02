@@ -186,7 +186,7 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 * f5stegojs: https://desudesutalk.github.io/f5stegojs/
 
-* Unshorten: https://unshorten.it/
+* Unshorten links: https://unshorten.it/
 
 ## OSINT
  
