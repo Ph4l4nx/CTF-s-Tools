@@ -138,6 +138,8 @@ https://stegonline.georgeom.net/upload
 
 https://stylesuxx.github.io/steganography/
 
+https://skynettools.com/free-online-steganography-tools/
+
 * Morse Code Adaptive Audio Decoder: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
 
 * Audacity (sudo apt-get install audacity) E.g: https://www.hackiit.cf/write-up-hackiit-ctf-biological-hazard-ii/
