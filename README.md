@@ -68,8 +68,6 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Cracking Hashes: http://rainbowtables.it64.com/
 
-* Hash DB: https://hashes.org/search.php
-
 * Hash DB: https://www.onlinehashcrack.com/
 
 * Hash DB: https://md5decrypt.net/en/
