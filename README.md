@@ -66,9 +66,17 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Hash DB: https://crackstation.net/
 
+* Cracking Hashes: http://rainbowtables.it64.com/
+
 * Hash DB: https://hashes.org/search.php
 
 * Hash DB: https://www.onlinehashcrack.com/
+
+* Hash DB: https://md5decrypt.net/en/
+
+* Hash DB: https://hashkiller.io/
+
+* Hash DB: https://hashes.com/en/decrypt/hash
 
 * Padding-oracle-attacker: https://github.com/KishanBagaria/padding-oracle-attacker
 
