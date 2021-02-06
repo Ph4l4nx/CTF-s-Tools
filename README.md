@@ -442,9 +442,11 @@ https://dnsdumpster.com/
 
 * SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
 
-* OSCP: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
+* Bloodhound: https://bloodhound.readthedocs.io/en/latest/index.html
 
-https://github.com/Leviathan36/kaboom
+* Kaboom: https://github.com/Leviathan36/kaboom
+
+* OSCP: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
 
 * Videos: https://www.youtube.com/c/s4vitar/featured
  
