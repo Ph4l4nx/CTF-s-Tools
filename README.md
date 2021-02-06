@@ -434,6 +434,10 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Ffuf: https://github.com/ffuf/ffuf
 
+* WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
+
+* LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
+
 https://dnsdumpster.com/
 
 * SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
