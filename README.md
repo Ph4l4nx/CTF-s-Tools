@@ -464,7 +464,7 @@ https://dnsdumpster.com/
 
 * All in one (NETWORK+REVERSING): https://www.procdot.com/
 
-* Sandbox: https://github.com/CERT-Polska/drakvuf-sandbox
+* PEstudio: https://www.winitor.com/
 
 * Macros: https://blog.didierstevens.com/2021/01/19/video-maldoc-analysis-with-cyberchef/
 
@@ -475,6 +475,8 @@ https://dnsdumpster.com/
 * Database of counterfeit-related webs: https://desenmascara.me/
 
 * Sysinternals: https://docs.microsoft.com/en-us/sysinternals/
+
+* Sandbox: https://github.com/CERT-Polska/drakvuf-sandbox
 
 * RAT Decoder: https://github.com/kevthehermit/RATDecoders
 
