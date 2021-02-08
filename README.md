@@ -326,7 +326,7 @@ https://builtwith.com/
 
 * Blog: https://www.osintme.com/
 
-* Regular expressions for grep -Po " " https://regex101.com/
+* Regular expressions for grep -Po " " https://regex101.com/ . Cheat sheet: https://cheatography.com/davechild/cheat-sheets/regular-expressions/
 
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
