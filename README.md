@@ -554,6 +554,8 @@ https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
 
 * Common User Passwords Profiler: https://github.com/Mebus/cupp y https://github.com/r3nt0n/bopscrk. 
 
+* Dig https://cheatography.com/tme520/cheat-sheets/dig/
+
 ## Real World interaction Map
 
 https://threatbutt.com/map/
