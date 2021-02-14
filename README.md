@@ -230,7 +230,7 @@ https://osintframework.com/
 
 https://builtwith.com/
 
-* Pwn DB TOR:  http://pwndb2am4tzkvold ...
+* Pwn DB TOR:  http://pwndb2am4tzkvold.onion/
 
 * Website to check if emails or passwords have been compromised: https://haveibeenpwned.com/
 
