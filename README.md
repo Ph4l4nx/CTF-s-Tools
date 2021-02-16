@@ -202,6 +202,8 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 https://ciberpatrulla.com/links/
 
+https://osintframework.com/
+
 * Tools, flowcharts and cheatsheets to help you do your OSINT research:  https://technisette.com/p/tools
 
 * World domain DB: http://web.archive.org/
@@ -225,8 +227,6 @@ https://centralops.net/co/
 * Email2PhoneNumber: https://github.com/martinvigo/email2phonenumber
 
 * Honeypot or not: https://honeyscore.shodan.io/
-
-https://osintframework.com/
 
 https://builtwith.com/
 
