@@ -230,11 +230,13 @@ https://centralops.net/co/
 
 https://builtwith.com/
 
-* Pwn DB TOR:  http://pwndb2am4tzkvold.onion/
+* Pwn email DB TOR:  http://pwndb2am4tzkvold.onion/
 
 * Website to check if emails or passwords have been compromised: https://haveibeenpwned.com/
 
-* Pwn DB: https://intelx.io/
+* Pwn email DB: https://intelx.io/
+
+* Pwn email DB: https://cybernews.com/personal-data-leak-check/
 
 * Search filtered credentials in plain text: https://esgeeks.com/pwndb-buscar-credenciales-filtradas-texto-plano/
 
