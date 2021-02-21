@@ -206,7 +206,7 @@ https://osintframework.com/
 
 * Tools, flowcharts and cheatsheets to help you do your OSINT research:  https://technisette.com/p/tools
 
-* World domain DB: http://web.archive.org/
+* World domain DB: http://web.archive.org/ && https://archive.eu/
 
 * Abuse Domain,IP: https://www.abuseipdb.com/
 
