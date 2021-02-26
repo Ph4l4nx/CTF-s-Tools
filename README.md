@@ -234,6 +234,8 @@ https://builtwith.com/
 
 * Website to check if emails or passwords have been compromised: https://haveibeenpwned.com/
 
+* Leaks: https://leaks.sh/
+
 * Pwn email DB: https://intelx.io/
 
 * Pwn email DB: https://cybernews.com/personal-data-leak-check/
