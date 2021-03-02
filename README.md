@@ -448,6 +448,8 @@ https://dnsdumpster.com/
 
 * Bloodhound: https://bloodhound.readthedocs.io/en/latest/index.html
 
+* DNS Host Records: https://hackertarget.com/find-dns-host-records/
+
 * Kaboom: https://github.com/Leviathan36/kaboom
 
 * XSS in 2021: https://netsec.expert/posts/xss-in-2021/
