@@ -212,6 +212,8 @@ https://osintframework.com/
 
 https://viewdns.info/
 
+https://dns-lookup.jvns.ca/
+
 https://www.threatcrowd.org/
 
 * The search engine for the Internet of Things: https://www.shodan.io/ && All filters cheatseet: https://beta.shodan.io/search/filters
