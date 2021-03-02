@@ -240,6 +240,8 @@ https://builtwith.com/
 
 * Pwn email DB: https://cybernews.com/personal-data-leak-check/
 
+* PwnDB Script: https://github.com/davidtavarez/pwndb
+
 * Search filtered credentials in plain text: https://esgeeks.com/pwndb-buscar-credenciales-filtradas-texto-plano/
 
 * Email checker: https://toolbox.googleapps.com/apps/checkmx/
@@ -434,6 +436,10 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Biggest DNS historical data: https://securitytrails.com/
 
+* OSINT gathering tool: https://github.com/laramies/theHarvester
+
+* DNS Host Records: https://hackertarget.com/find-dns-host-records/
+
 * Nmap
 
 * Ffuf: https://github.com/ffuf/ffuf
@@ -447,8 +453,6 @@ https://dnsdumpster.com/
 * SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
 
 * Bloodhound: https://bloodhound.readthedocs.io/en/latest/index.html
-
-* DNS Host Records: https://hackertarget.com/find-dns-host-records/
 
 * Kaboom: https://github.com/Leviathan36/kaboom
 
