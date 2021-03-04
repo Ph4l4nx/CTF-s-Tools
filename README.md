@@ -418,6 +418,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Decompile Android files: https://github.com/skylot/jadx
 
+* Hopper disassembler: https://www.hopperapp.com/
+
 * List Dynamic Dependencies: Ldd file
 
 * Unpacking some binaries: Upx -d file
