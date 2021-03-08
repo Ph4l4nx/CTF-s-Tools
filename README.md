@@ -278,6 +278,8 @@ https://builtwith.com/
 
 * Twitter: https://github.com/twintproject/twint
 
+* https://github.com/Quantika14/osint-suite-tools
+
 ## Forensics
 
 * Online PCAP Analysis: https://packettotal.com/
