@@ -454,6 +454,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Ffuf: https://github.com/ffuf/ffuf
 
+* Nuclei: https://github.com/projectdiscovery/nuclei
+
 * WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
 
 * LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
@@ -483,6 +485,8 @@ https://dnsdumpster.com/
 * Hybrid Analysis: https://www.hybrid-analysis.com/?lang=es
 
 * ANY.RUN https://any.run/
+
+* Reverse Engineer's Toolkit: https://github.com/mentebinaria/retoolkit
 
 * All in one (NETWORK+REVERSING): https://www.procdot.com/
 
