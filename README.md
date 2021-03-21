@@ -452,6 +452,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Nmap
 
+* ReconFTW: https://github.com/six2dez/reconftw
+
 * Ffuf: https://github.com/ffuf/ffuf
 
 * Nuclei: https://github.com/projectdiscovery/nuclei
