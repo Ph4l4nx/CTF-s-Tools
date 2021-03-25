@@ -500,6 +500,8 @@ https://dnsdumpster.com/
 
 * Ransomware decryption tools: https://www.nomoreransom.org/es/decryption-tools.html , https://www.avast.com/es-es/ransomware-decryption-tools , https://noransom.kaspersky.com/ , https://www.mcafee.com/enterprise/es-es/downloads/free-tools/ransomware-decryption.html. Overview: https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
 
+* Ransomware groups: http://edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd.onion/
+
 * Analyze APK's: https://amaaas.com/
 
 * Database of counterfeit-related webs: https://desenmascara.me/
