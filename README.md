@@ -478,6 +478,8 @@ https://dnsdumpster.com/
 
 * XSS in 2021: https://netsec.expert/posts/xss-in-2021/
 
+* Expired domains: https://www.expireddomains.net/
+
 * OSCP: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
 
 * Videos: https://www.youtube.com/c/s4vitar/featured
