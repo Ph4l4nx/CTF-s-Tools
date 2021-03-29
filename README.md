@@ -440,6 +440,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Pop shells: https://github.com/0x00-0x00/ShellPop
 
+* Upgrading Simple Shells to Fully Interactive TTYs: https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+
 ## Pentesting
 
 * Metasploit. Cheat sheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
