@@ -444,7 +444,9 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 ## Pentesting
 
-* Metasploit. Cheat sheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
+* Metasploit. Cheatsheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
+
+* Empire. Cheatsheet: https://github.com/HarmJ0y/CheatSheets/blob/master/Empire.pdf
 
 * https://www.exploit-db.com/
 
