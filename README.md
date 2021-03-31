@@ -456,6 +456,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Nmap
 
+* DNS resolver: https://github.com/d3mondev/puredns
+
 * ReconFTW: https://github.com/six2dez/reconftw
 
 * Sublist3r: https://github.com/aboul3la/Sublist3r
