@@ -494,7 +494,7 @@ https://dnsdumpster.com/
 
 * Online Cuckoo Sandbox: https://sandbox.pikker.ee/
 
-* Kaspersky project: https://polyswarm.network
+* Polyswarm: https://polyswarm.network
 
 * Joesandbox: https://www.joesandbox.com/#windows
 
