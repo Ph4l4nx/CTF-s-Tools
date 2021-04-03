@@ -446,7 +446,7 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Autorecon: https://github.com/Tib3rius/AutoRecon
 
-* Nmap
+* Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
 
 * https://ippsec.rocks/?#
 
