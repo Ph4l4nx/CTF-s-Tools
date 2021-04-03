@@ -448,6 +448,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Nmap
 
+* https://ippsec.rocks/?#
+
 * Msfvenom: https://www.offensive-security.com/metasploit-unleashed/msfvenom/ , https://www.offensive-security.com/metasploit-unleashed/binary-payloads/
 
 * WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
