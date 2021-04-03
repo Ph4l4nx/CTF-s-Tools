@@ -444,6 +444,14 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 ## Pentesting
 
+* Autorecon: https://github.com/Tib3rius/AutoRecon
+
+* Nmap
+
+* WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
+
+* LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
+
 * Metasploit. Cheatsheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
 
 * Empire. Cheatsheet: https://github.com/HarmJ0y/CheatSheets/blob/master/Empire.pdf
@@ -456,8 +464,6 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * DNS Host Records: https://hackertarget.com/find-dns-host-records/
 
-* Nmap
-
 * DNS resolver: https://github.com/d3mondev/puredns
 
 * ReconFTW: https://github.com/six2dez/reconftw
@@ -467,10 +473,6 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 * Ffuf: https://github.com/ffuf/ffuf
 
 * Nuclei: https://github.com/projectdiscovery/nuclei
-
-* WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
-
-* LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
 https://dnsdumpster.com/
 
