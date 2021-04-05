@@ -610,8 +610,6 @@ https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
 
 https://threatbutt.com/map/
 
-https://www.youtube.com/watch?v=X2_ji2wDGlE
-
 ## Wikis
 
 https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/
