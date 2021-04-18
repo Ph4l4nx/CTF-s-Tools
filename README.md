@@ -532,6 +532,8 @@ https://dnsdumpster.com/
 
 * https://github.com/alexandreborges/malwoverview
 
+* https://www.eset.com/es/soporte/sysinspector/
+
 * https://nodistribute.com/
 
 * https://metadefender.opswat.com/?lang=en
