@@ -532,6 +532,8 @@ https://dnsdumpster.com/
 
 * https://github.com/alexandreborges/malwoverview
 
+* Binary strings defuser: https://github.com/fireeye/flare-floss
+
 * Sysinspector: https://www.eset.com/es/soporte/sysinspector/
 
 * Autoruns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
