@@ -532,7 +532,9 @@ https://dnsdumpster.com/
 
 * https://github.com/alexandreborges/malwoverview
 
-* https://www.eset.com/es/soporte/sysinspector/
+* Sysinspector: https://www.eset.com/es/soporte/sysinspector/
+
+* Autoruns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 
 * https://nodistribute.com/
 
