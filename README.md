@@ -304,6 +304,8 @@ https://builtwith.com/
 
 * Rescuezilla: https://rescuezilla.com/
 
+* MRC: https://www.magnetforensics.com/resources/magnet-ram-capture/
+
 * AccessData FTK Imager 
 
 * EnCase 
