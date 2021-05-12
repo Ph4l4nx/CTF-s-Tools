@@ -514,6 +514,8 @@ https://dnsdumpster.com/
 
 * Reverse Engineer's Toolkit: https://github.com/mentebinaria/retoolkit
 
+* A Malware Configuration Extraction Tool: https://mwcfg.info/
+
 * All in one (NETWORK+REVERSING): https://www.procdot.com/
 
 * PEstudio: https://www.winitor.com/
