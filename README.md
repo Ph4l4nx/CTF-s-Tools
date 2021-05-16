@@ -210,6 +210,8 @@ https://osintframework.com/
 
 * World domain DB: http://web.archive.org/ && https://archive.eu/
 
+* Internet assets registry: https://spyse.com/
+
 * Abuse Domain,IP: https://www.abuseipdb.com/
 
 https://viewdns.info/
