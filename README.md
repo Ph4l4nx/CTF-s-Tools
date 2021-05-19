@@ -566,6 +566,8 @@ https://dnsdumpster.com/
 
 * Automated  Mobile tools: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
 
+* List of Vulnerable Android Applications: https://github.com/netbiosX/Pentest-Bookmarks/blob/master/Training-Labs/Mobile-Testing/Android-Applications.mdown
+
 ## Wifi
 
 * Wifi Crack: https://github.com/s4vitar/wifiCrack
