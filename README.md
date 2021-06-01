@@ -524,7 +524,7 @@ https://dnsdumpster.com/
 
 * Macros: https://blog.didierstevens.com/2021/01/19/video-maldoc-analysis-with-cyberchef/
 
-* Ransomware decryption tools: http://files-download.avg.com/util/avgrem/avg_decryptor_Legion.exe, https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor, https://www.nomoreransom.org/es/decryption-tools.htmlm, https://www.avast.com/es-es/ransomware-decryption-tools , https://noransom.kaspersky.com/ , https://www.mcafee.com/enterprise/es-es/downloads/free-tools/ransomware-decryption.html,https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html, https://www.emsisoft.com/ransomware-decryption-tools/. 
+* Ransomware decryption tools: http://files-download.avg.com/util/avgrem/avg_decryptor_Legion.exe, https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor, https://www.nomoreransom.org/es/decryption-tools.htmlm, https://www.avast.com/es-es/ransomware-decryption-tools , https://noransom.kaspersky.com/ , https://www.mcafee.com/enterprise/es-es/downloads/free-tools/ransomware-decryption.html, https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html, https://www.emsisoft.com/ransomware-decryption-tools/. 
 
 * Overview: https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
 
