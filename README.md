@@ -516,6 +516,8 @@ https://dnsdumpster.com/
 
 * Reverse Engineer's Toolkit: https://github.com/mentebinaria/retoolkit
 
+* Network analysis of malware (emulate HTTP server): https://github.com/felixweyne/imaginaryC2
+
 * A Malware Configuration Extraction Tool: https://mwcfg.info/
 
 * All in one (NETWORK+REVERSING): https://www.procdot.com/
