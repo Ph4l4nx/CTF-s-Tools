@@ -532,7 +532,7 @@ https://dnsdumpster.com/
 
 * Ransomware groups: http://edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd.onion/
 
-* Analyze APK's: https://amaaas.com/
+* Analyze APK's: https://github.com/quark-engine/quark-engine
 
 * Database of counterfeit-related webs: https://desenmascara.me/
 
