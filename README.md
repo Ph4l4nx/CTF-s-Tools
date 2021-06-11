@@ -438,6 +438,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Intel® 64 and IA-32 Architectures Software Developer’s Manual: https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf 
 
+* Tips: https://blog.whtaguy.com/2020/04/guys-30-reverse-engineering-tips-tricks.html
+
 ## Exploiting
 
 * Ej1: python -c "print 'A'*150" >>> Then ./binario 150 A
