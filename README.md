@@ -578,6 +578,8 @@ https://dnsdumpster.com/
 
 * Wifi Crack: https://github.com/s4vitar/wifiCrack
 
+* Fern: https://github.com/savio-code/fern-wifi-cracker
+
 * EvilTrust: https://github.com/s4vitar/evilTrust
 
 Yersinia
