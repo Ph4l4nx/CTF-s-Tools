@@ -212,6 +212,8 @@ https://osintframework.com/
 
 * Internet assets registry: https://spyse.com/
 
+* DNS Search: https://dns.coffee/
+
 * Abuse Domain,IP: https://www.abuseipdb.com/
 
 https://viewdns.info/
