@@ -396,6 +396,8 @@ https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
+* Web Tips: https://www.nccgroup.com/globalassets/our-research/uk/images/common_security_issues_in_financially-orientated_web.pdf.pdf
+
 ## Reversing
 
 * Binwalk
