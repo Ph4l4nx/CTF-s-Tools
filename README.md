@@ -502,6 +502,8 @@ https://dnsdumpster.com/
 
 * XSS in 2021: https://netsec.expert/posts/xss-in-2021/
 
+* SSRF Cheatsheet: https://highon.coffee/blog/ssrf-cheat-sheet/#curl-ssrf-wrappers--url-schema
+
 * Expired domains: https://www.expireddomains.net/
 
 * OSCP: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
