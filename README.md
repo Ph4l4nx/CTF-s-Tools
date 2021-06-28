@@ -406,7 +406,7 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Dotpeek (.NET)
 
-* Angr(deobfuscated code): https://angr.io/
+* Angr(deobfuscated code): https://angr.io/ && https://napongizero.github.io/blog/Defeating-Code-Obfuscation-with-Angr
 
 * GameBoy debugger: https://bgb.bircd.org/
 
