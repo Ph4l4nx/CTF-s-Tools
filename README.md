@@ -406,6 +406,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Dotpeek (.NET)
 
+* Angr(deobfuscated code): https://angr.io/
+
 * GameBoy debugger: https://bgb.bircd.org/
 
 * IDA pro. Cheat Sheet: https://www.dragonjar.org/cheat-sheet-ida-pro-interactive-disassembler.xhtml
