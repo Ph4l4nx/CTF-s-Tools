@@ -464,6 +464,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
 
+* Requestbin HTTP: https://requestbin.net/
+
 * https://ippsec.rocks/?#
 
 * Msfvenom: https://www.offensive-security.com/metasploit-unleashed/msfvenom/ , https://www.offensive-security.com/metasploit-unleashed/binary-payloads/
