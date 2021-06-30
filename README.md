@@ -508,7 +508,9 @@ https://dnsdumpster.com/
 
 * Expired domains: https://www.expireddomains.net/
 
-* OSCP: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
+* OSCP-style: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
+
+* Pentest-book: https://pentestbook.six2dez.com/
 
 * Videos: https://www.youtube.com/c/s4vitar/featured
  
