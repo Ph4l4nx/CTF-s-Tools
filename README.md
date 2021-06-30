@@ -464,7 +464,7 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
 
-* Requestbin HTTP: https://requestbin.net/
+* Inspect HTTP headers: https://requestbin.net/ && https://webhook.site/#!/75039a57-2015-4f74-9612-b762f4353b9b
 
 * https://ippsec.rocks/?#
 
