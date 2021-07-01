@@ -648,6 +648,9 @@ https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
 
 * Dig https://cheatography.com/tme520/cheat-sheets/dig/
 
+* wget -nd -r -P /save/location -A jpeg,jpg,bmp,gif,png http://www.somedomain.com
+
+
 ## Real World interaction Map
 
 https://threatbutt.com/map/
