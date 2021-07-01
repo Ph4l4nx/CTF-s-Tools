@@ -636,6 +636,8 @@ https://linuxhint.com/how_to_aircrack_ng/
 
 * Password Recovery Online : https://www.lostmypass.com/try/
 
+* Passwords stored in a computer: https://github.com/AlessandroZ/LaZagne
+
 * Disk Image: https://www.datanumen.com/disk-image-download-thanks/
 
 https://github.com/Xpykerz/CrackZip
