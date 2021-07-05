@@ -276,6 +276,10 @@ https://builtwith.com/
 
 * Zoomeye.org: https://www.zoomeye.org/
 
+* IVRE: https://ivre.rocks/
+
+* Thingful: https://www.thingful.net/
+
 * Find email addresses related to a domain: https://hunter.io/
 
 * People search engine: https://thatsthem.com/
