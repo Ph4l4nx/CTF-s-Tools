@@ -360,6 +360,8 @@ https://builtwith.com/
 
 * Regular expressions for grep -Po " " https://regex101.com/ . Cheat sheet: https://cheatography.com/davechild/cheat-sheets/regular-expressions/
 
+* DFIR Cheatsheet: https://dfircheatsheet.github.io/
+
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 https://blog.didierstevens.com/programs/xorsearch/
