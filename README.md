@@ -200,7 +200,7 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 ## OSINT
  
-* Google CheatSheet: https://www.sans.org/security-resources/GoogleCheatSheet.pdf
+* Google CheatSheet: https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
 
 https://ciberpatrulla.com/links/
 
