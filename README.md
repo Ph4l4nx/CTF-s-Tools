@@ -278,7 +278,7 @@ https://builtwith.com/
 
 * IVRE: https://ivre.rocks/
 
-* Thingful: https://www.thingful.net/
+* IOT search engine: https://www.thingful.net/
 
 * Find email addresses related to a domain: https://hunter.io/
 
