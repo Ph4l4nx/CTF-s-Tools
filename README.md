@@ -520,6 +520,8 @@ https://dnsdumpster.com/
 
 * Expired domains: https://www.expireddomains.net/
 
+* XSS firefox extension searcher: https://addons.mozilla.org/es/firefox/addon/knoxss-community-edition/
+
 * OSCP-style: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
 
 * Pentest-book: https://pentestbook.six2dez.com/
