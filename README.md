@@ -41,7 +41,7 @@ https://atenea.ccn-cert.cni.es/home
 
 * Reversing platform: https://crackmes.one/
 
-* Forensics Challenges: https://ctf.unizar.es/
+* Forensics Challenges: https://ctf.unizar.es/ && https://freetraining.dfirdiva.com/dfir-ctfs-challenges
 
 * PicoCTF: https://play.picoctf.org/login
 
