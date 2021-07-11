@@ -590,7 +590,7 @@ https://dnsdumpster.com/
 
 * https://github.com/mindcrypt/powerglot
 
-* Malware examples/binaries: https://github.com/ytisf/theZoo
+* Malware examples/binaries: https://github.com/ytisf/theZoo && https://malshare.com/
 
 * APT's: https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml# && https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv && https://xorl.wordpress.com/
 
