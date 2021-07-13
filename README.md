@@ -524,6 +524,8 @@ https://dnsdumpster.com/
 
 * Expired domains: https://www.expireddomains.net/
 
+* 2FA Bypass: https://www.xmind.net/m/8Hkymg/
+
 * XSS firefox extension searcher: https://addons.mozilla.org/es/firefox/addon/knoxss-community-edition/
 
 * OSCP-style: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
