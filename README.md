@@ -302,6 +302,8 @@ https://builtwith.com/
 
 * Whatspp IP Leak: https://github.com/bhdresh/Whatsapp-IP-leak?s=09
 
+* Book: https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf
+
 ## Forensics
 
 * Online PCAP Analysis: https://packettotal.com/
