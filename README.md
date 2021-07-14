@@ -272,6 +272,8 @@ https://builtwith.com/
 
 * Phishing Domain DB: https://phishcheck.me/
 
+* Phishing Research: https://safeweb.norton.com/ , https://isitphishing.org/ && https://opentip.kaspersky.com/.
+
 * Instagram: https://github.com/th3unkn0n/osi.ig
 
 * Censys: https://censys.io/ipv4
