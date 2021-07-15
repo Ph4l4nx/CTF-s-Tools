@@ -452,6 +452,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Online .JAR and .Class to Java decompiler:  http://www.javadecompilers.com/
 
+* Hex editor, disk editor, and memory editor: https://mh-nexus.de/en/downloads.php?product=HxD20
+
 * Android Decompiler: https://ibotpeaches.github.io/Apktool/
 
 * Decompile Android files: https://github.com/skylot/jadx
