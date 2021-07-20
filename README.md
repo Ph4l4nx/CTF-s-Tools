@@ -546,13 +546,15 @@ https://dnsdumpster.com/
 
 * Online Cuckoo Sandbox: https://sandbox.pikker.ee/
 
-* Polyswarm: https://polyswarm.network
-
 * Joesandbox: https://www.joesandbox.com/#windows
+
+* Intezer: https://analyze.intezer.com/
 
 * Hybrid Analysis: https://www.hybrid-analysis.com/?lang=es
 
 * ANY.RUN https://any.run/
+
+* Polyswarm: https://polyswarm.network
 
 * Reverse Engineer's Toolkit: https://github.com/mentebinaria/retoolkit
 
