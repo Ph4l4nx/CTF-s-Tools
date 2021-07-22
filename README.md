@@ -444,6 +444,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * DnSpy https://github.com/dnSpy/dnSpy
 
+* Binary Ninja: https://binary.ninja/
+
 * Regshot:  https://sourceforge.net/projects/regshot/ (before and after running a binary)
 
 * CFF explorer: https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
@@ -463,6 +465,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 * List Dynamic Dependencies: Ldd file
 
 * Unpacking some binaries: Upx -d file
+
+* Identifying packers: https://github.com/horsicq/Detect-It-Easy
 
 * Intel® 64 and IA-32 Architectures Software Developer’s Manual: https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf 
 
