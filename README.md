@@ -446,6 +446,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Binary Ninja: https://binary.ninja/
 
+* Beginner reversing tool: https://exeinfo-pe.en.uptodown.com/windows
+
 * Regshot:  https://sourceforge.net/projects/regshot/ (before and after running a binary)
 
 * CFF explorer: https://download.cnet.com/CFF-Explorer/3000-2383_4-10431156.html
