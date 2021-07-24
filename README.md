@@ -522,6 +522,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Nuclei: https://github.com/projectdiscovery/nuclei
 
+* Auto XSS: https://github.com/bbhunter/ppmap
+
 https://dnsdumpster.com/
 
 * SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
