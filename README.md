@@ -562,6 +562,8 @@ https://dnsdumpster.com/
 
 * Polyswarm: https://polyswarm.network
 
+* Linux Distro to investigate malware: https://docs.remnux.org/
+
 * Reverse Engineer's Toolkit: https://github.com/mentebinaria/retoolkit
 
 * Network analysis of malware (emulate HTTP server): https://github.com/felixweyne/imaginaryC2
