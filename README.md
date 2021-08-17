@@ -624,6 +624,8 @@ https://dnsdumpster.com/
 
 ## Wifi
 
+* Auditing Wifi: https://github.com/v1s1t0r1sh3r3/airgeddon
+
 * Wifi Crack: https://github.com/s4vitar/wifiCrack
 
 * Fern: https://github.com/savio-code/fern-wifi-cracker
