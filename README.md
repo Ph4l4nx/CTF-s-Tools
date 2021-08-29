@@ -138,6 +138,8 @@ http://rumkin.com/tools/cipher/
 
 * Digital invisible ink stego tool: https://sourceforge.net/projects/diit/
 
+* Decoding files from 8-bit Atari turbo cassette tapes: https://github.com/baktragh/turbodecoder
+
 https://incoherency.co.uk/image-steganography/#unhide
 
 http://exif-viewer.com/
@@ -225,6 +227,10 @@ https://viewdns.info/
 https://dns-lookup.jvns.ca/
 
 https://www.threatcrowd.org/
+
+https://www.brightcloud.com/tools/url-ip-lookup.php
+
+* Reputation url checker: https://www.urlvoid.com/
 
 * The search engine for the Internet of Things: https://www.shodan.io/ && All filters cheatseet: https://beta.shodan.io/search/filters
 
