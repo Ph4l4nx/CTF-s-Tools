@@ -558,6 +558,8 @@ https://dnsdumpster.com/
 
 * Online Cuckoo Sandbox: https://sandbox.pikker.ee/
 
+https://antiscan.me/
+
 * Joesandbox: https://www.joesandbox.com/#windows
 
 * Intezer: https://analyze.intezer.com/
