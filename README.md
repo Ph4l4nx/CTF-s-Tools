@@ -204,7 +204,7 @@ https://www.bertnase.de/npiet/npiet-execute.php
  
 https://centralops.net/co/
 
-https://sitereport.netcraft.com/?
+https://sitereport.netcraft.com/? && https://searchdns.netcraft.com/
 
 * GHDB (Google Hacking Database): https://www.exploit-db.com/google-hacking-database
 
