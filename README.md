@@ -202,6 +202,12 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 ## OSINT
  
+https://centralops.net/co/
+
+https://sitereport.netcraft.com/?
+
+* GHDB (Google Hacking Database): https://www.exploit-db.com/google-hacking-database
+
 * Google CheatSheet: https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
 
 https://ciberpatrulla.com/links/
@@ -239,8 +245,6 @@ https://www.brightcloud.com/tools/url-ip-lookup.php
 https://talosintelligence.com/
 
 * Hurricane Electric BGP: https://bgp.he.net/
-
-https://centralops.net/co/
 
 * Email2PhoneNumber: https://github.com/martinvigo/email2phonenumber
 
