@@ -640,6 +640,8 @@ https://antiscan.me/
 
 * Auditing Wifi: https://github.com/v1s1t0r1sh3r3/airgeddon
 
+* https://en.kali.tools/?p=244
+
 * Wifi Crack: https://github.com/s4vitar/wifiCrack
 
 * Fern: https://github.com/savio-code/fern-wifi-cracker
