@@ -234,6 +234,8 @@ https://dns-lookup.jvns.ca/
 
 https://www.threatcrowd.org/
 
+https://www.greynoise.io/
+
 https://www.brightcloud.com/tools/url-ip-lookup.php
 
 * Reputation url checker: https://www.urlvoid.com/
