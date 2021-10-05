@@ -340,6 +340,8 @@ https://builtwith.com/
 
 * MRC: https://www.magnetforensics.com/resources/magnet-ram-capture/
 
+* Media acquisition (disk to image): https://guymager.sourceforge.io/
+
 * Rapidly Search and Hunt through Windows Event Logs: https://github.com/countercept/chainsaw
 
 * AccessData FTK Imager 
