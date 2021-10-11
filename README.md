@@ -350,6 +350,8 @@ https://builtwith.com/
 
 * Testdisk: https://www.cgsecurity.org/wiki/TestDisk_Download
 
+* MFT_Browser: https://github.com/kacos2000/MFT_Browser
+
 * Powershell Decoder: https://github.com/R3MRUM/PSDecode, https://github.com/JohnLaTwC/PyPowerShellXray and analysis info: https://darungrim.com/research/2019-10-01-analyzing-powershell-threats-using-powershell-debugging.html
 
 * PDF analyzer: https://github.com/zbetcheckin/PDF_analysis, https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdfid.py, https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdf-parser.py y https://eternal-todo.com/tools/peepdf-pdf-analysis-tool.
