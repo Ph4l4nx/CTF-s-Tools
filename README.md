@@ -332,6 +332,8 @@ https://builtwith.com/
 
 * Autopsy
 
+* PhotoRec: https://www.cgsecurity.org/wiki/PhotoRec
+
 * Photo forensics: https://29a.ch/photo-forensics/#forensic-magnifier
 
 * Recuva: https://www.ccleaner.com/recuva
@@ -365,8 +367,6 @@ https://builtwith.com/
 * To decrypt WPA keys: pyrit -r "capctura.pcap" analyze
 
 * Diskeditor: https://www.disk-editor.org/index.html
-
-* PhotoRec: https://www.cgsecurity.org/wiki/PhotoRec
 
 * Passware encryption analyzer: https://www.passware.com/encryption-analyzer/
 
