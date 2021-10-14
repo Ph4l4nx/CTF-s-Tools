@@ -550,6 +550,8 @@ https://dnsdumpster.com/
 
 * Kaboom: https://github.com/Leviathan36/kaboom
 
+* Reverse shell cheatsheet: https://reconshell.com/reverse-shell-cheat-sheet/
+
 * XSS in 2021: https://netsec.expert/posts/xss-in-2021/
 
 * SSRF Cheatsheet: https://highon.coffee/blog/ssrf-cheat-sheet/#curl-ssrf-wrappers--url-schema
