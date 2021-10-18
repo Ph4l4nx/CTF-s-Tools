@@ -586,6 +586,8 @@ https://antiscan.me/
 
 * Polyswarm: https://polyswarm.network
 
+* This tool allows you to intercept and redirect all or specific network traffic while simulating legitimate network services: https://github.com/mandiant/flare-fakenet-ng
+
 * Linux Distro to investigate malware: https://docs.remnux.org/
 
 * Reverse Engineer's Toolkit: https://github.com/mentebinaria/retoolkit
