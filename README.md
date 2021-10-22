@@ -392,6 +392,8 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
 https://blog.didierstevens.com/programs/xorsearch/
 
+Forensics RECOPILATION: https://start.me/p/JDRmPO/recursos-forenses
+
 ## Web
 
 * Wappalyzer
