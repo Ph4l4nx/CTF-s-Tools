@@ -686,7 +686,7 @@ https://linuxhint.com/how_to_aircrack_ng/
 
 * tail / head 
 
-* curl
+* curl -Llv domain | curl -b "protected=d41d8cd98f00b204e9800998ecf8427e"(cookie) "domain"
 
 * Identify -verbose 
 
