@@ -17,9 +17,7 @@ Repository to index interesting Capture The Flag tools and other stuff.
       
       * [Wifi](#wifi)
       
-      * [Utility](#utility)                                                                                                                                                                                                                
-      * [Real World interaction Map](#real-world-interaction-map)
-      
+      * [Utility](#utility)                                                                                                                                                                                                               
       * [Wikis](#wikis)
       
       * [Write-Ups](#write-ups)
@@ -719,12 +717,6 @@ https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
 * wget -nd -r -P /save/location -A jpeg,jpg,bmp,gif,png http://www.somedomain.com
 
 * [ICMP exfiltration] tshark -r 1pcap_test_1c.pcapng -Y "icmp" -Tjson | grep data.data | awk {'print $2'} | cut -c 2-3 | uniq | xxd -r -p 
-
-## Real World interaction Map
-
-https://threatbutt.com/map/
-
-https://www.fireeye.com/cyber-map/threat-map.html
 
 ## Wikis
 
