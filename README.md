@@ -574,6 +574,8 @@ https://dnsdumpster.com/
 
 * Online Cuckoo Sandbox: https://sandbox.pikker.ee/
 
+* DragonFly: https://dragonfly.certego.net/register
+
 https://antiscan.me/
 
 * Joesandbox: https://www.joesandbox.com/#windows
