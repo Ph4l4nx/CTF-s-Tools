@@ -678,6 +678,8 @@ https://linuxhint.com/how_to_aircrack_ng/
 
 ## Utility
 
+* To bypass filtered ports: nmap -sSV ...
+
 * Hexeditor
 
 * nc URL port
