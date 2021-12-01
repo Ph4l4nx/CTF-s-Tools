@@ -512,9 +512,9 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * crackmapexec (smb)
 
-* enum4linux -a 10.130.20.X
+* enum4linux -a 10.130.20.X 
 
-* mount -t cifs IP/SharedResource /mnt/smbmounted -o vers=2.1
+* mount -t cifs IP/SharedResource /mnt/smbmounted -o vers=2.1 && * smbclient -U "" -N //10.130.20.X/SharedResource
 
 * rdesktop IP
 
