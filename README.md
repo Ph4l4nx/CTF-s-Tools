@@ -400,7 +400,9 @@ Forensics RECOPILATION: https://start.me/p/JDRmPO/recursos-forenses
 
 * OWASP ZAP, OpenVas, Sparta & Nikto. Cheat Sheet: https://redteamtutorials.com/2018/10/24/nikto-cheatsheet/ 
 
-* Hydra. Cheat Sheet: hydra -l admin -P /usr/share/wordlists/rockyou.txt http://10.130.10.1 http-post-form “__csrf_magic=sid%3Ae40fd9611063464c3ff346ffa53b7a28b3cd5971%2C1638348501&usernamefld=admin&passwordfld=^PASS^&login=Sign+In" || patator http_fuzz url=http://10.130.10.1/ method=POST body='__csrf_magic=sid%3Ae40fd9611063464c3ff346ffa53b7a28b3cd5971%2C1638348501&usernamefld=admin&passwordfld=FILE0&login=Sign+In' 0=/usr/share/wordlists/rockyou.txt follow=1 accept_cookie=1 -x ignore:fgrep='Username or Password incorrect'
+* Hydra. Cheat Sheet: hydra -l admin -P /usr/share/wordlists/rockyou.txt IP http-post-form “__csrf_magic=sid%3Ae40fd9611063464c3ff346ffa53b7a28b3cd5971%2C1638348501&usernamefld=admin&passwordfld=^PASS^&login=Sign+In" || patator http_fuzz url=http://IP/ method=POST &usernamefld=admin&passwordfld=FILE0&login=Sign+In' 0=/usr/share/wordlists/rockyou.txt follow=1 accept_cookie=1 -x ignore:fgrep='Username or Password incorrect'
+
+*hydra -s 22 -l dteadm -P /usr/share/wordlists/rockyou.txt IP -t 4 ssh
 
 * Dirbuster. https://mundo-hackers.weebly.com/dirbuster.html
 
@@ -512,11 +514,13 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * crackmapexec (smb)
 
-* enum4linux -a 10.130.20.X 
+* enum4linux -a IP 
 
-* mount -t cifs IP/SharedResource /mnt/smbmounted -o vers=2.1 && * smbclient -U "" -N //10.130.20.X/SharedResource
+* mount -t cifs IP/SharedResource /mnt/smbmounted -o vers=2.1 && * smbclient -U "" -N //IP/SharedResource
 
 * rdesktop IP
+
+* dnsrecon -d dte.local -n IP
 
 * Inspect HTTP headers: https://requestbin.net/ && https://webhook.site/#!/75039a57-2015-4f74-9612-b762f4353b9b && https://securityheaders.com/?q=aguasdelsorbe.es&followRedirects=on
 
