@@ -308,7 +308,7 @@ https://builtwith.com/
 
 * Metadata of public's documents: https://github.com/Josue87/MetaFinder
 
-* Twitter: https://github.com/twintproject/twint
+* Twitter: https://github.com/twintproject/twint && https://tinfoleak.com/
 
 * https://github.com/Quantika14/osint-suite-tools
 
