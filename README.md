@@ -244,6 +244,8 @@ https://www.brightcloud.com/tools/url-ip-lookup.php
 
 https://talosintelligence.com/
 
+* PGP Global Directory: https://keyserver2.pgp.com/vkd/GetWelcomeScreen.event 
+
 * Hurricane Electric BGP: https://bgp.he.net/
 
 * Email2PhoneNumber: https://github.com/martinvigo/email2phonenumber
