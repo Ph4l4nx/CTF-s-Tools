@@ -624,7 +624,7 @@ https://antiscan.me/
 
 * Ransomware groups: http://edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd.onion/
 
-* Analyze APK's: https://github.com/quark-engine/quark-engine && https://github.com/mvt-project/mvt
+* Analyze APK's: https://github.com/quark-engine/quark-engine && https://github.com/mvt-project/mvt && https://github.com/pjlantz/droidbox
 
 * Database of counterfeit-related webs: https://desenmascara.me/
 
