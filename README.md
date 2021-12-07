@@ -324,7 +324,7 @@ https://builtwith.com/
 
 * Wireshark. Cheat sheet: https://cdn.comparitech.com/wp-content/uploads/2019/06/Wireshark-Cheat-Sheet-1.jpg
 
-* Volatility. Cheat sheet: https://digital-forensics.sans.org/media/volatility-memory-forensics-cheat-sheet.pdf
+* Volatility. Cheat sheet: https://digital-forensics.sans.org/media/volatility-memory-forensics-cheat-sheet.pdf >>> Malfind,yarascan, Connscan y netscan
 
 * Foremost
 
@@ -583,6 +583,8 @@ https://dnsdumpster.com/
 * Videos: https://www.youtube.com/c/s4vitar/featured
  
 ## Malware 
+
+* https://www.clamav.net/downloads#otherversions
 
 * Virustotal: https://www.virustotal.com/gui/home/search
 
