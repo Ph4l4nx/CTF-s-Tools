@@ -510,9 +510,15 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 ## Pentesting
 
+* Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
+
+* ReconFTW: https://github.com/six2dez/reconftw
+
 * Autorecon: https://github.com/Tib3rius/AutoRecon
 
-* Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
+* WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
+
+* LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
 * crackmapexec (smb)
 
@@ -522,33 +528,31 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * rdesktop IP
 
+* https://www.exploit-db.com/
+
+* AV'S evasion: https://github.com/Veil-Framework/Veil-Evasion
+
+* Metasploit. Cheatsheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
+
 * dnsrecon -d dte.local -n IP
 
 * Inspect HTTP headers: https://requestbin.net/ && https://webhook.site/#!/75039a57-2015-4f74-9612-b762f4353b9b && https://securityheaders.com/?q=aguasdelsorbe.es&followRedirects=on
 
-* https://ippsec.rocks/?#
+* Are u block?: https://ippsec.rocks/?#
 
 * Msfvenom: https://www.offensive-security.com/metasploit-unleashed/msfvenom/ , https://www.offensive-security.com/metasploit-unleashed/binary-payloads/
 
-* WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
-
-* LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
-
-* Metasploit. Cheatsheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
-
 * Empire. Cheatsheet: https://github.com/HarmJ0y/CheatSheets/blob/master/Empire.pdf
 
-* https://www.exploit-db.com/
-
 * Biggest DNS historical data: https://securitytrails.com/
+
+* OSINT gathering tool: https://github.com/s0md3v/Photon
 
 * OSINT gathering tool: https://github.com/laramies/theHarvester
 
 * DNS Host Records: https://hackertarget.com/find-dns-host-records/
 
 * DNS resolver: https://github.com/d3mondev/puredns
-
-* ReconFTW: https://github.com/six2dez/reconftw
 
 * Sublist3r: https://github.com/aboul3la/Sublist3r
 
@@ -565,6 +569,8 @@ https://dnsdumpster.com/
 * Kaboom: https://github.com/Leviathan36/kaboom
 
 * Reverse shell cheatsheet: https://reconshell.com/reverse-shell-cheat-sheet/
+
+* Shellter
 
 * XSS in 2021: https://netsec.expert/posts/xss-in-2021/
 
