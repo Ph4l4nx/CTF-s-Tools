@@ -520,6 +520,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
+* Default credentials: https://github.com/ihebski/DefaultCreds-cheat-sheet
+
 * crackmapexec (smb)
 
 * enum4linux -a IP 
@@ -567,8 +569,10 @@ https://dnsdumpster.com/
 * Bloodhound: https://bloodhound.readthedocs.io/en/latest/index.html
 
 * Kaboom: https://github.com/Leviathan36/kaboom
+ 
+* Reverse shell cheatsheet: https://reconshell.com/reverse-shell-cheat-sheet/ && Cheatsheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
 
-* Reverse shell cheatsheet: https://reconshell.com/reverse-shell-cheat-sheet/
+* Webashells: https://github.com/BlackArch/webshells
 
 * Shellter
 
@@ -584,7 +588,7 @@ https://dnsdumpster.com/
 
 * OSCP-style: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
 
-* Pentest-book: https://pentestbook.six2dez.com/
+* Pentest-book: https://pentestbook.six2dez.com/ && https://book.hacktricks.xyz/pentesting-methodology
 
 * Videos: https://www.youtube.com/c/s4vitar/featured
  
