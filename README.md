@@ -700,6 +700,10 @@ https://linuxhint.com/how_to_aircrack_ng/
 
 * To bypass filtered ports: nmap -sSV ...
 
+* zip2john backup.zip secret.hash
+
+* john --show secret.hash
+
 * Hexeditor
 
 * nc -nlvp URL port
