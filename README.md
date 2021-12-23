@@ -520,6 +520,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
+* https://gtfobins.github.io/gtfobins/vi/#sudo
+
 * Default credentials: https://github.com/ihebski/DefaultCreds-cheat-sheet
 
 * crackmapexec (smb)
