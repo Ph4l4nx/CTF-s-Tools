@@ -696,7 +696,7 @@ https://linuxhint.com/how_to_aircrack_ng/
 
 * Hexeditor
 
-* nc URL port
+* nc -nlvp URL port
 
 * Grep
 
@@ -730,19 +730,25 @@ https://linuxhint.com/how_to_aircrack_ng/
 
 * Disk Image: https://www.datanumen.com/disk-image-download-thanks/
 
-https://github.com/Xpykerz/CrackZip
+* crackzip: https://github.com/Xpykerz/CrackZip
 
-https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
+* zip2john: https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c
 
 * Common User Passwords Profiler: https://github.com/Mebus/cupp y https://github.com/r3nt0n/bopscrk. 
 
-* Dig https://cheatography.com/tme520/cheat-sheets/dig/
+* Dig: https://cheatography.com/tme520/cheat-sheets/dig/
 
 * wget -nd -r -P /save/location -A jpeg,jpg,bmp,gif,png http://www.somedomain.com
 
 * Recursive file download bypassing robots.txt: wget -e robots=off -drc -l5 domain
 
 * [ICMP exfiltration] tshark -r 1pcap_test_1c.pcapng -Y "icmp" -Tjson | grep data.data | awk {'print $2'} | cut -c 2-3 | uniq | xxd -r -p 
+
+* Oneliners: https://linuxcommandlibrary.com/basic/oneliners.html
+
+* Google information:
+ ![image](https://user-images.githubusercontent.com/74070814/147261470-9a738efb-69de-4b89-98aa-be27a9f83d78.png)
+
 
 ## Wikis
 
