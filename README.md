@@ -628,6 +628,8 @@ https://antiscan.me/
 
 * Linux Distro to investigate malware: https://docs.remnux.org/
 
+* Windows Distro to investigate malware: https://github.com/mandiant/flare-vm
+
 * Reverse Engineer's Toolkit: https://github.com/mentebinaria/retoolkit
 
 * Network analysis of malware (emulate HTTP server): https://github.com/felixweyne/imaginaryC2
