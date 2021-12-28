@@ -33,6 +33,10 @@ https://www.hackthebox.eu/
 
 https://atenea.ccn-cert.cni.es/home
 
+https://tryhackme.com/
+
+https://www.vulnhub.com/
+
 * Hacking challenges for web: http://webhacking.kr/
 
 * Platform for learning modern cryptography: https://cryptohack.org/
