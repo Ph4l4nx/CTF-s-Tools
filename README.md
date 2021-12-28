@@ -406,13 +406,15 @@ Forensics RECOPILATION: https://start.me/p/JDRmPO/recursos-forenses
 
 *hydra -s 22 -l user -P /usr/share/wordlists/rockyou.txt IP -t 4 ssh
 
-* Dirbuster. https://mundo-hackers.weebly.com/dirbuster.html
-
-* Linkfinder: https://github.com/GerbenJavado/LinkFinder
-
 * Gobuster. Cheat Sheet: https://redteamtutorials.com/2018/11/19/gobuster-cheatsheet/
 
 * wfuzz. Cheat Sheet: https://book.hacktricks.xyz/pentesting-web/web-tool-wfuzz
+
+* Feroxbuster
+
+* Dirbuster. https://mundo-hackers.weebly.com/dirbuster.html
+
+* Linkfinder: https://github.com/GerbenJavado/LinkFinder
 
 * Dirsearch: https://github.com/maurosoria/dirsearch
 
