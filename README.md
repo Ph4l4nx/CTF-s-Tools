@@ -43,6 +43,8 @@ https://atenea.ccn-cert.cni.es/home
 
 * PicoCTF: https://play.picoctf.org/login
 
+* Blue team: https://letsdefend.io/
+
 
 ## Cryptography
 
