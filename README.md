@@ -604,7 +604,9 @@ https://dnsdumpster.com/
  
 ## Malware 
 
-* https://www.clamav.net/downloads#otherversions
+* Recopilation: https://github.com/rshipp/awesome-malware-analysis
+
+* ClamAV: https://www.clamav.net/downloads#otherversions
 
 * Virustotal: https://www.virustotal.com/gui/home/search
 
