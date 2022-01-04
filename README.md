@@ -310,6 +310,16 @@ https://builtwith.com/
 
 * Graphical OSINT platform: https://www.spiderfoot.net/#
 
+* Fullhunt: https://fullhunt.io/
+
+* Code search: https://grep.app/ && https://publicwww.com/
+
+* Natlas: https://natlas.io/
+
+* Spur: https://spur.us/
+
+* Public Wi-Fi database: https://www.mylnikov.org/
+
 * HTTP headers of a domain: https://www.webconfs.com/http-header-check.php
 
 * Metadata of public's documents: https://github.com/Josue87/MetaFinder
