@@ -550,6 +550,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * rdesktop IP
 
+* fsociety framework: https://github.com/Manisso/fsociety
+
 * https://www.exploit-db.com/
 
 * AV'S evasion: https://github.com/Veil-Framework/Veil-Evasion
