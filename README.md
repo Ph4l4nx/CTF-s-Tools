@@ -556,6 +556,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * AV'S evasion: https://github.com/Veil-Framework/Veil-Evasion
 
+* Nishang: https://github.com/samratashok/nishang
+
 * Metasploit. Cheatsheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
 
 * dnsrecon -d dte.local -n IP
