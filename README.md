@@ -210,6 +210,8 @@ https://centralops.net/co/
 
 https://sitereport.netcraft.com/? && https://searchdns.netcraft.com/
 
+* https://iocfeed.mrlooquer.com/
+
 * GHDB (Google Hacking Database): https://www.exploit-db.com/google-hacking-database
 
 * Google CheatSheet: https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
