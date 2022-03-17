@@ -632,6 +632,8 @@ https://dnsdumpster.com/
 
 * DragonFly: https://dragonfly.certego.net/register
 
+* Offline Sandbox: https://github.com/sandboxie-plus/Sandboxie
+
 https://antiscan.me/
 
 * Joesandbox: https://www.joesandbox.com/#windows
