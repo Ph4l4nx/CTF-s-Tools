@@ -250,6 +250,8 @@ https://www.brightcloud.com/tools/url-ip-lookup.php
 
 * The search engine for the Internet of Things: https://www.shodan.io/ && All filters cheatseet: https://beta.shodan.io/search/filters
 
+* IVRE: https://ivre.rocks/
+
 * Threat Intel Tools: https://cyberfive.uk/threat-intel-tools/
 
 https://talosintelligence.com/
