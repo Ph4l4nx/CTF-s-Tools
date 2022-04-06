@@ -360,6 +360,8 @@ https://builtwith.com/
 
 * Recuva: https://www.ccleaner.com/recuva
 
+* DDRescue. https://launchpad.net/ddrescue-gui
+
 * Rescuezilla: https://rescuezilla.com/
 
 * MRC: https://www.magnetforensics.com/resources/magnet-ram-capture/
