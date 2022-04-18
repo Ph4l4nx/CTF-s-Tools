@@ -206,6 +206,8 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 * Unshorten links: https://unshorten.it/
 
+* PNG dump: https://blog.didierstevens.com/2022/04/18/new-tool-pngdump-py-beta/
+
 ## OSINT
  
 https://centralops.net/co/
