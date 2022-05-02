@@ -450,6 +450,8 @@ Forensics RECOPILATION: https://start.me/p/JDRmPO/recursos-forenses
 
 * Automated XSS tool: https://xsser.03c8.net/
 
+* RECOX: https://github.com/samhaxr/recox/blob/master/recox.sh
+
 * SQL payload examples: https://github.com/payloadbox/sql-injection-payload-list
 
 * Command injection: https://github.com/payloadbox/command-injection-payload-list
