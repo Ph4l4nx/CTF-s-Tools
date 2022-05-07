@@ -37,7 +37,7 @@ https://tryhackme.com/
 
 https://www.vulnhub.com/
 
-* Hacking challenges for web: http://webhacking.kr/
+* Web Hacking challenges: http://webhacking.kr/
 
 * Platform for learning modern cryptography: https://cryptohack.org/
 
