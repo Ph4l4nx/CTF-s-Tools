@@ -124,6 +124,8 @@ http://rumkin.com/tools/cipher/
 
 * Magic Numbers Signatures: https://asecuritysite.com/forensics/magic && https://www.garykessler.net/library/file_sigs.html → Hexeditor
 
+* Shellcode detection: "8B EC"
+
 * Binwalk -e image
 
 * Foremost -i image -o outdir
