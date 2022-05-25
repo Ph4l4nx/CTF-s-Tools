@@ -720,7 +720,7 @@ https://antiscan.me/
 
 ## Mobile
 
-* Mobile Pentest Cheatsheet: https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
+* Mobile Pentest Cheatsheet: https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet && https://github.com/randorisec/MobileHackingCheatSheet
 
 * Automated  Mobile tools: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
 
