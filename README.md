@@ -421,6 +421,7 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 https://blog.didierstevens.com/programs/xorsearch/
 
 Forensics RECOPILATION: https://start.me/p/JDRmPO/recursos-forenses
+https://start.me/p/q6mw4Q/forensics
 
 ## Web
 
