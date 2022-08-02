@@ -676,7 +676,7 @@ https://antiscan.me/
 
 * PEstudio: https://www.winitor.com/
 
-* Macros: https://blog.didierstevens.com/2021/01/19/video-maldoc-analysis-with-cyberchef/
+* Macros: https://blog.didierstevens.com/2021/01/19/video-maldoc-analysis-with-cyberchef/ && https://blog.nviso.eu/2022/04/06/analyzing-a-multilayer-maldoc-a-beginners-guide/
 
 * XORSearch: https://blog.didierstevens.com/programs/xorsearch/
 
