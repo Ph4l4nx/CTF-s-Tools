@@ -214,6 +214,8 @@ https://www.bertnase.de/npiet/npiet-execute.php
  
 https://centralops.net/co/
 
+* Ip information: https://www.maxmind.com/en/geoip-demo
+
 https://sitereport.netcraft.com/? && https://searchdns.netcraft.com/
 
 * https://iocfeed.mrlooquer.com/
