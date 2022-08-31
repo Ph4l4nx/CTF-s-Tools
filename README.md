@@ -550,6 +550,8 @@ python -c "print ('A' * 5100)"
 
 * Scanning with third parties: https://hackertarget.com/nmap-online-port-scanner/, https://www.ipfingerprints.com/, https://spiderip.com/online-port-scan.php, https://portscanner.standingtech.com/ && https://www.yougetsignal.com/tools/open-ports/
 
+* dpkg -l para listar los programas instalados en la MV, se puede pipear y buscar por lo que se desea para encontrar la herramienta necesaria
+
 * Scanless project: https://github.com/vesche/scanless
 
 * ReconFTW: https://github.com/six2dez/reconftw
