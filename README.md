@@ -348,7 +348,7 @@ https://builtwith.com/
 
 ## Forensics
 
-* Online PCAP Analysis: https://packettotal.com/
+* Online PCAP Analysis: https://packettotal.com/ && tool to identify strings from a pcap: https://github.com/bee-san/pyWhat
 
 * Wireshark. Cheat sheet: https://cdn.comparitech.com/wp-content/uploads/2019/06/Wireshark-Cheat-Sheet-1.jpg
 
