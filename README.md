@@ -756,6 +756,8 @@ Bettercap
 
 https://linuxhint.com/how_to_aircrack_ng/
 
+* PCAP capture crack: https://www.onlinehashcrack.com/
+
 ## Utility
 
 * To bypass filtered ports: nmap -sSV ...
