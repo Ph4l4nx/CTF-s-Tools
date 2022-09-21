@@ -554,6 +554,8 @@ python -c "print ('A' * 5100)"
 
 * dpkg -l para listar los programas instalados en la MV, se puede pipear y buscar por lo que se desea para encontrar la herramienta necesaria
 
+* Enumerar emails de un dominio: https://maildump.co/domain-search
+
 * Scanless project: https://github.com/vesche/scanless
 
 * ReconFTW: https://github.com/six2dez/reconftw
