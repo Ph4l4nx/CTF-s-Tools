@@ -624,7 +624,7 @@ https://dnsdumpster.com/
  
 * Reverse shell cheatsheet: https://reconshell.com/reverse-shell-cheat-sheet/ && Cheatsheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
 
-* Webashells: https://github.com/BlackArch/webshells
+* Webshells: https://github.com/BlackArch/webshells
 
 * Shellter
 
@@ -642,7 +642,7 @@ https://dnsdumpster.com/
 
 * Pentest-book: https://pentestbook.six2dez.com/ && https://book.hacktricks.xyz/pentesting-methodology
 
-* Videos: https://www.youtube.com/c/s4vitar/featured
+* Videos: https://www.youtube.com/c/S4viOnLive
  
 ## Malware 
 
