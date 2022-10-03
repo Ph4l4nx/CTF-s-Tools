@@ -756,6 +756,8 @@ Yersinia
 
 Bettercap
 
+Wifi Pineapple
+
 https://linuxhint.com/how_to_aircrack_ng/
 
 * PCAP capture crack: https://www.onlinehashcrack.com/
