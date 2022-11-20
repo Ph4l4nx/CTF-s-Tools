@@ -564,6 +564,8 @@ python -c "print ('A' * 5100)"
 
 * Autorecon: https://github.com/Tib3rius/AutoRecon
 
+* Bypass Windows defender with binaries: https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode
+
 * WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
 
 * LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
