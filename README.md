@@ -632,6 +632,8 @@ https://dnsdumpster.com/
 
 * Shellter
 
+* Running commands on an Microsoft Exchange: https://github.com/WithSecureLabs/peas
+
 * XSS in 2021: https://netsec.expert/posts/xss-in-2021/
 
 * SSRF Cheatsheet: https://highon.coffee/blog/ssrf-cheat-sheet/#curl-ssrf-wrappers--url-schema
