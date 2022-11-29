@@ -558,6 +558,8 @@ python -c "print ('A' * 5100)"
 
 * SPF,DKIM,DMARC: https://github.com/magichk/magicspoofing && https://toolbox.googleapps.com/apps/checkmx/
 
+* Company hashes & passwords: https://www.dehashed.com/
+
 * Scanless project: https://github.com/vesche/scanless
 
 * ReconFTW: https://github.com/six2dez/reconftw
