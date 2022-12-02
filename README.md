@@ -11,7 +11,9 @@ Repository to index interesting Capture The Flag tools and other stuff.
       * [Web](#web)                                                                                                                                                                                                                        
       * [Reversing](#reversing)                                                                                                                                                                                                            
       * [Exploiting](#exploiting)                                                                                                                                                                                                          
-      * [Pentesting](#pentesting)                                                                                                                                                                                                          
+      * [Pentesting](#pentesting) 
+         - [Web](#web)
+         
       * [Malware](#malware)                                                                                                                                                                                                                
       * [Mobile](#mobile)       
       
@@ -547,6 +549,8 @@ python -c "print ('A' * 5100)"
 * Upgrading Simple Shells to Fully Interactive TTYs: https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
 
 ## Pentesting
+
+### Web
 
 * Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
 
