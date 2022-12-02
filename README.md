@@ -1,16 +1,22 @@
 Repository to index interesting Capture The Flag tools and other stuff.
 
-# Table of Contents
-
-   * [Table of Contents](#table-of-contents)                                                                                                                                                                                      
-      * [Platforms to practice](#platforms-to-practice)                                                                                                                   * [Cryptography](#cryptography)                                                                                                                                     * [Steganography](#steganography)                                                                                                                                   * [OSINT](#osint)                                                                                                                                                   * [Forensics](#forensics)                                                                                                                                           * [Reversing](#reversing)                                                                                                                                           * [Exploiting](#exploiting)                                                                                                                                         * [Pentesting](#pentesting) 
-         - [Web](#web)
-      * [Malware](#malware)                                                                                                                                               * [Mobile](#mobile)       
-      * [Wifi](#wifi)
-      * [Utility](#utility)                                                                                                                                               * [Wikis](#wikis)
-      * [Write-Ups](#write-ups)
-      * [Other tools](#other-tools)
-
+* [Table of Contents](#table-of-contents)   
+   - [Platforms to practice](#platforms-to-practice) 
+   - [Cryptography](#cryptography)
+   - [Steganography](#steganography)
+   - [OSINT](#osint)
+   - [Forensics](#forensics) 
+   - [Reversing](#reversing)
+   - [Exploiting](#exploiting) 
+   - [Pentesting](#pentesting) 
+         * [Web](#web)
+         * [Wifi](#wifi)
+   - [Malware](#malware) 
+   - [Mobile](#mobile)       
+   - [Utility](#utility) 
+   -  [Wikis](#wikis)
+   -  [Write-Ups](#write-ups)
+   -  [Other tools](#other-tools)
 
 ## Platforms to practice
 
