@@ -428,56 +428,6 @@ https://blog.didierstevens.com/programs/xorsearch/
 
 Forensics RECOPILATION: https://start.me/p/JDRmPO/recursos-forenses && https://start.me/p/q6mw4Q/forensics
 
-## Web
-
-* Wappalyzer
-
-* Burpsuite
-
-* OWASP ZAP, OpenVas, Sparta & Nikto. Cheat Sheet: https://redteamtutorials.com/2018/10/24/nikto-cheatsheet/ 
-
-* Hydra. Cheat Sheet: hydra -l admin -P /usr/share/wordlists/rockyou.txt IP http-post-form “__csrf_magic=sid%3Ae40fd9611063464c3ff346ffa53b7a28b3cd5971%2C1638348501&usernamefld=admin&passwordfld=^PASS^&login=Sign+In" || patator http_fuzz url=http://IP/ method=POST &usernamefld=admin&passwordfld=FILE0&login=Sign+In' 0=/usr/share/wordlists/rockyou.txt follow=1 accept_cookie=1 -x ignore:fgrep='Username or Password incorrect'
-
-*hydra -s 22 -l user -P /usr/share/wordlists/rockyou.txt IP -t 4 ssh
-
-* Gobuster. Cheat Sheet: https://redteamtutorials.com/2018/11/19/gobuster-cheatsheet/
-
-* wfuzz. Cheat Sheet: https://book.hacktricks.xyz/pentesting-web/web-tool-wfuzz
-
-* Feroxbuster
-
-* Dirbuster. https://mundo-hackers.weebly.com/dirbuster.html
-
-* Linkfinder: https://github.com/GerbenJavado/LinkFinder
-
-* Dirsearch: https://github.com/maurosoria/dirsearch
-
-* Nmap cheatsheet: https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
-
-* Automated All-in-One OS command injection and exploitation tool: https://github.com/commixproject/commix
-
-* Automated XSS tool: https://xsser.03c8.net/
-
-* RECOX: https://github.com/samhaxr/recox/blob/master/recox.sh
-
-* SQL payload examples: https://github.com/payloadbox/sql-injection-payload-list
-
-* Command injection: https://github.com/payloadbox/command-injection-payload-list
-
-* WPscan
-
-https://pentest-tools.com/home
-
-https://book.hacktricks.xyz/
-
-http://jsonviewer.stack.hu/
-
-https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
-
-https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
-
-* Web Tips: https://www.nccgroup.com/globalassets/our-research/uk/images/common_security_issues_in_financially-orientated_web.pdf.pdf
-
 ## Reversing
 
 * Binwalk
@@ -551,6 +501,54 @@ python -c "print ('A' * 5100)"
 ## Pentesting
 
 ### Web
+
+* Wappalyzer
+
+* Burpsuite
+
+* OWASP ZAP, OpenVas, Sparta & Nikto. Cheat Sheet: https://redteamtutorials.com/2018/10/24/nikto-cheatsheet/ 
+
+* Hydra. Cheat Sheet: hydra -l admin -P /usr/share/wordlists/rockyou.txt IP http-post-form “__csrf_magic=sid%3Ae40fd9611063464c3ff346ffa53b7a28b3cd5971%2C1638348501&usernamefld=admin&passwordfld=^PASS^&login=Sign+In" || patator http_fuzz url=http://IP/ method=POST &usernamefld=admin&passwordfld=FILE0&login=Sign+In' 0=/usr/share/wordlists/rockyou.txt follow=1 accept_cookie=1 -x ignore:fgrep='Username or Password incorrect'
+
+*hydra -s 22 -l user -P /usr/share/wordlists/rockyou.txt IP -t 4 ssh
+
+* Gobuster. Cheat Sheet: https://redteamtutorials.com/2018/11/19/gobuster-cheatsheet/
+
+* wfuzz. Cheat Sheet: https://book.hacktricks.xyz/pentesting-web/web-tool-wfuzz
+
+* Feroxbuster
+
+* Dirbuster. https://mundo-hackers.weebly.com/dirbuster.html
+
+* Linkfinder: https://github.com/GerbenJavado/LinkFinder
+
+* Dirsearch: https://github.com/maurosoria/dirsearch
+
+* Nmap cheatsheet: https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
+
+* Automated All-in-One OS command injection and exploitation tool: https://github.com/commixproject/commix
+
+* Automated XSS tool: https://xsser.03c8.net/
+
+* RECOX: https://github.com/samhaxr/recox/blob/master/recox.sh
+
+* SQL payload examples: https://github.com/payloadbox/sql-injection-payload-list
+
+* Command injection: https://github.com/payloadbox/command-injection-payload-list
+
+* WPscan
+
+https://pentest-tools.com/home
+
+https://book.hacktricks.xyz/
+
+http://jsonviewer.stack.hu/
+
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+
+https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
+
+* Web Tips: https://www.nccgroup.com/globalassets/our-research/uk/images/common_security_issues_in_financially-orientated_web.pdf.pdf
 
 * Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
 
