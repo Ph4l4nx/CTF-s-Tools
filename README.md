@@ -541,6 +541,30 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Web Tips: https://www.nccgroup.com/globalassets/our-research/uk/images/common_security_issues_in_financially-orientated_web.pdf.pdf
 
+### Wifi
+
+* Auditing Wifi: https://github.com/v1s1t0r1sh3r3/airgeddon
+
+* https://en.kali.tools/?p=244
+
+* Wifi Crack: https://github.com/s4vitar/wifiCrack
+
+* Fern: https://github.com/savio-code/fern-wifi-cracker
+
+* EvilTrust: https://github.com/s4vitar/evilTrust
+
+* RomBuster: https://github.com/EntySec/RomBuster
+
+Yersinia
+
+Bettercap
+
+Wifi Pineapple
+
+https://linuxhint.com/how_to_aircrack_ng/
+
+* PCAP capture crack: https://www.onlinehashcrack.com/
+
 * Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
 
 * Scanning with third parties: https://hackertarget.com/nmap-online-port-scanner/, https://www.ipfingerprints.com/, https://spiderip.com/online-port-scan.php, https://portscanner.standingtech.com/ && https://www.yougetsignal.com/tools/open-ports/
@@ -738,30 +762,6 @@ https://antiscan.me/
 * Automated  Mobile tools: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
 
 * List of Vulnerable Android Applications: https://github.com/netbiosX/Pentest-Bookmarks/blob/master/Training-Labs/Mobile-Testing/Android-Applications.mdown
-
-## Wifi
-
-* Auditing Wifi: https://github.com/v1s1t0r1sh3r3/airgeddon
-
-* https://en.kali.tools/?p=244
-
-* Wifi Crack: https://github.com/s4vitar/wifiCrack
-
-* Fern: https://github.com/savio-code/fern-wifi-cracker
-
-* EvilTrust: https://github.com/s4vitar/evilTrust
-
-* RomBuster: https://github.com/EntySec/RomBuster
-
-Yersinia
-
-Bettercap
-
-Wifi Pineapple
-
-https://linuxhint.com/how_to_aircrack_ng/
-
-* PCAP capture crack: https://www.onlinehashcrack.com/
 
 ## Utility
 
