@@ -2,28 +2,13 @@ Repository to index interesting Capture The Flag tools and other stuff.
 
 # Table of Contents
 
-   * [Table of Contents](#table-of-contents)                                                                                                                                                                                               
-      * [Platforms to practice](#platforms-to-practice)                                                                                                                                                                                    
-      * [Cryptography](#cryptography)                                                                                                                                                                                                      
-      * [Steganography](#steganography)                                                                                                                                                                                                    
-      * [OSINT](#osint)                                                                                                                                                                                                                    
-      * [Forensics](#forensics)                                                                                                                                                                                                            
-      * [Web](#web)                                                                                                                                                                                                                        
-      * [Reversing](#reversing)                                                                                                                                                                                                            
-      * [Exploiting](#exploiting)                                                                                                                                                                                                          
-      * [Pentesting](#pentesting) 
+   * [Table of Contents](#table-of-contents)                                                                                                                                                                                      
+      * [Platforms to practice](#platforms-to-practice)                                                                                                                   * [Cryptography](#cryptography)                                                                                                                                     * [Steganography](#steganography)                                                                                                                                   * [OSINT](#osint)                                                                                                                                                   * [Forensics](#forensics)                                                                                                                                           * [Reversing](#reversing)                                                                                                                                           * [Exploiting](#exploiting)                                                                                                                                         * [Pentesting](#pentesting) 
          - [Web](#web)
-         
-      * [Malware](#malware)                                                                                                                                                                                                                
-      * [Mobile](#mobile)       
-      
+      * [Malware](#malware)                                                                                                                                               * [Mobile](#mobile)       
       * [Wifi](#wifi)
-      
-      * [Utility](#utility)                                                                                                                                                                                                               
-      * [Wikis](#wikis)
-      
+      * [Utility](#utility)                                                                                                                                               * [Wikis](#wikis)
       * [Write-Ups](#write-ups)
-      
       * [Other tools](#other-tools)
 
 
@@ -506,7 +491,7 @@ python -c "print ('A' * 5100)"
 
 * Burpsuite
 
-* OWASP ZAP, OpenVas, Sparta & Nikto. Cheat Sheet: https://redteamtutorials.com/2018/10/24/nikto-cheatsheet/ 
+* OWASP ZAP, OpenVas, Sparta & Nikto. Cheat Sheet: https://cdn.comparitech.com/wp-content/uploads/2019/07/NIkto-Cheat-Sheet.webp
 
 * Hydra. Cheat Sheet: hydra -l admin -P /usr/share/wordlists/rockyou.txt IP http-post-form “__csrf_magic=sid%3Ae40fd9611063464c3ff346ffa53b7a28b3cd5971%2C1638348501&usernamefld=admin&passwordfld=^PASS^&login=Sign+In" || patator http_fuzz url=http://IP/ method=POST &usernamefld=admin&passwordfld=FILE0&login=Sign+In' 0=/usr/share/wordlists/rockyou.txt follow=1 accept_cookie=1 -x ignore:fgrep='Username or Password incorrect'
 
