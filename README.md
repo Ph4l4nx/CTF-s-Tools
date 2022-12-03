@@ -14,9 +14,9 @@ Repository to index interesting Capture The Flag tools and other stuff.
    - [Malware](#malware) 
    - [Mobile](#mobile)       
    - [Utility](#utility) 
-   -  [Wikis](#wikis)
-   -  [Write-Ups](#write-ups)
-   -  [Other tools](#other-tools)
+   - [Wikis](#wikis)
+   - [Write-Ups](#write-ups)
+   - [Other tools](#other-tools)
 
 ## Platforms to practice
 
