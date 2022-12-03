@@ -503,25 +503,27 @@ python -c "print ('A' * 5100)"
 
 * Scanning with third parties: https://hackertarget.com/nmap-online-port-scanner/, https://www.ipfingerprints.com/, https://spiderip.com/online-port-scan.php, https://portscanner.standingtech.com/ && https://www.yougetsignal.com/tools/open-ports/
 
+* Scanless project: https://github.com/vesche/scanless
+
 * List emails from a domain: https://maildump.co/domain-search
 
 * SPF,DKIM,DMARC: https://github.com/magichk/magicspoofing && https://toolbox.googleapps.com/apps/checkmx/
 
 * Company hashes & passwords: https://www.dehashed.com/
 
-* Scanless project: https://github.com/vesche/scanless
+* Biggest DNS historical data: https://securitytrails.com/
+
+* DNS Host Records: https://hackertarget.com/find-dns-host-records/
+
+https://dnsdumpster.com/
 
 * ReconFTW: https://github.com/six2dez/reconftw
 
 * Autorecon: https://github.com/Tib3rius/AutoRecon
 
-* Biggest DNS historical data: https://securitytrails.com/
-
 * OSINT gathering tool: https://github.com/s0md3v/Photon
 
 * OSINT gathering tool: https://github.com/laramies/theHarvester
-
-* DNS Host Records: https://hackertarget.com/find-dns-host-records/
 
 * DNS resolver: https://github.com/d3mondev/puredns
 
@@ -530,8 +532,6 @@ python -c "print ('A' * 5100)"
 * Ffuf: https://github.com/ffuf/ffuf
 
 * Nuclei: https://github.com/projectdiscovery/nuclei
-
-https://dnsdumpster.com/
 
 * Expired domains: https://www.expireddomains.net/
 
