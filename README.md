@@ -9,11 +9,15 @@ Repository to index interesting Capture The Flag tools and other stuff.
    - [Reversing](#reversing)
    - [Exploiting](#exploiting) 
    - [Pentesting](#pentesting) 
+        * [Recon](#recon)
         * [Web](#web)
+        * [Privilege Escalation](#privilege-escalation)
+        * [AV bypass](#av-bypass)
         * [Wifi](#wifi)
+        * [Utility)(#utility)
    - [Malware](#malware) 
    - [Mobile](#mobile)       
-   - [Utility](#utility) 
+   - [Utility](#utility-1)
    - [Wikis](#wikis)
    - [Write-Ups](#write-ups)
    - [Other tools](#other-tools)
@@ -491,6 +495,44 @@ python -c "print ('A' * 5100)"
 
 ## Pentesting
 
+### Recon
+
+* Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
+
+* Scanning with third parties: https://hackertarget.com/nmap-online-port-scanner/, https://www.ipfingerprints.com/, https://spiderip.com/online-port-scan.php, https://portscanner.standingtech.com/ && https://www.yougetsignal.com/tools/open-ports/
+
+* Enumerar emails de un dominio: https://maildump.co/domain-search
+
+* SPF,DKIM,DMARC: https://github.com/magichk/magicspoofing && https://toolbox.googleapps.com/apps/checkmx/
+
+* Company hashes & passwords: https://www.dehashed.com/
+
+* Scanless project: https://github.com/vesche/scanless
+
+* ReconFTW: https://github.com/six2dez/reconftw
+
+* Autorecon: https://github.com/Tib3rius/AutoRecon
+
+* Biggest DNS historical data: https://securitytrails.com/
+
+* OSINT gathering tool: https://github.com/s0md3v/Photon
+
+* OSINT gathering tool: https://github.com/laramies/theHarvester
+
+* DNS Host Records: https://hackertarget.com/find-dns-host-records/
+
+* DNS resolver: https://github.com/d3mondev/puredns
+
+* Sublist3r: https://github.com/aboul3la/Sublist3r
+
+* Ffuf: https://github.com/ffuf/ffuf
+
+* Nuclei: https://github.com/projectdiscovery/nuclei
+
+https://dnsdumpster.com/
+
+* Expired domains: https://www.expireddomains.net/
+
 ### Web
 
 * Wappalyzer
@@ -527,7 +569,13 @@ python -c "print ('A' * 5100)"
 
 * Command injection: https://github.com/payloadbox/command-injection-payload-list
 
+* XSS in 2021: https://netsec.expert/posts/xss-in-2021/
+
+* SSRF Cheatsheet: https://highon.coffee/blog/ssrf-cheat-sheet/#curl-ssrf-wrappers--url-schema
+
 * WPscan
+
+* XSS firefox extension searcher: https://addons.mozilla.org/es/firefox/addon/knoxss-community-edition/
 
 https://pentest-tools.com/home
 
@@ -540,6 +588,52 @@ https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Web Tips: https://www.nccgroup.com/globalassets/our-research/uk/images/common_security_issues_in_financially-orientated_web.pdf.pdf
+
+### Privilege Escalation
+
+* WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS apt-get install winPeas
+
+* LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
+
+### AV bypass
+
+* Bypass Windows defender with binaries: https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode
+
+* AV'S evasion: https://github.com/Veil-Framework/Veil-Evasion
+
+### Legit binaries in a system
+
+* Lolbas from Windows: https://lolbas-project.github.io/
+
+* GTFOBins from Unix Systems: https://gtfobins.github.io/
+
+### Credentials
+
+* Default credentials: https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/DefaultCreds-Cheat-Sheet.csv
+
+### Automatic Frameworks
+
+* Metasploit. Cheatsheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
+
+* Kaboom: https://github.com/Leviathan36/kaboom
+
+* Fsociety framework: https://github.com/Manisso/fsociety
+
+* Empire. Cheatsheet: https://github.com/HarmJ0y/CheatSheets/blob/master/Empire.pdf
+
+### Exploit database
+
+* https://www.exploit-db.com/
+
+* SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
+
+### Active Directory
+
+* Bloodhound: https://bloodhound.readthedocs.io/en/latest/index.html
+
+### Reverse shell payload generator
+
+* Hoaxshell: https://github.com/t3l3machus/hoaxshell
 
 ### Wifi
 
@@ -565,33 +659,24 @@ https://linuxhint.com/how_to_aircrack_ng/
 
 * PCAP capture crack: https://www.onlinehashcrack.com/
 
-* Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
+### Utility
 
-* Scanning with third parties: https://hackertarget.com/nmap-online-port-scanner/, https://www.ipfingerprints.com/, https://spiderip.com/online-port-scan.php, https://portscanner.standingtech.com/ && https://www.yougetsignal.com/tools/open-ports/
+* dpkg -l to list all the installed programs in a virtual machine. Pipe the output in order to search what you want.
 
-* dpkg -l para listar los programas instalados en la MV, se puede pipear y buscar por lo que se desea para encontrar la herramienta necesaria
+* Msfvenom: https://www.offensive-security.com/metasploit-unleashed/msfvenom/ & https://www.offensive-security.com/metasploit-unleashed/binary-payloads/
 
-* Enumerar emails de un dominio: https://maildump.co/domain-search
+* Nishang: https://github.com/samratashok/nishang
 
-* SPF,DKIM,DMARC: https://github.com/magichk/magicspoofing && https://toolbox.googleapps.com/apps/checkmx/
+* Are u block?: https://ippsec.rocks/?#
 
-* Company hashes & passwords: https://www.dehashed.com/
+* OSCP-style: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
 
-* Scanless project: https://github.com/vesche/scanless
+* Pentest-book: https://pentestbook.six2dez.com/ && https://book.hacktricks.xyz/pentesting-methodology
 
-* ReconFTW: https://github.com/six2dez/reconftw
+* Videos: https://www.youtube.com/c/S4viOnLive
 
-* Autorecon: https://github.com/Tib3rius/AutoRecon
 
-* Bypass Windows defender with binaries: https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode
 
-* WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
-
-* LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
-
-* https://gtfobins.github.io/gtfobins/vi/#sudo
-
-* Default credentials: https://github.com/ihebski/DefaultCreds-cheat-sheet
 
 * crackmapexec (smb)
 
@@ -601,73 +686,18 @@ https://linuxhint.com/how_to_aircrack_ng/
 
 * rdesktop IP
 
-* fsociety framework: https://github.com/Manisso/fsociety
-
-* https://www.exploit-db.com/
-
-* AV'S evasion: https://github.com/Veil-Framework/Veil-Evasion
-
-* Nishang: https://github.com/samratashok/nishang
-
-* Metasploit. Cheatsheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
-
 * dnsrecon -d dte.local -n IP
 
 * Inspect HTTP headers: https://requestbin.net/ && https://webhook.site/#!/75039a57-2015-4f74-9612-b762f4353b9b && https://securityheaders.com/?q=aguasdelsorbe.es&followRedirects=on
 
-* Are u block?: https://ippsec.rocks/?#
-
-* Msfvenom: https://www.offensive-security.com/metasploit-unleashed/msfvenom/ , https://www.offensive-security.com/metasploit-unleashed/binary-payloads/
-
-* Empire. Cheatsheet: https://github.com/HarmJ0y/CheatSheets/blob/master/Empire.pdf
-
-* Biggest DNS historical data: https://securitytrails.com/
-
-* OSINT gathering tool: https://github.com/s0md3v/Photon
-
-* OSINT gathering tool: https://github.com/laramies/theHarvester
-
-* DNS Host Records: https://hackertarget.com/find-dns-host-records/
-
-* DNS resolver: https://github.com/d3mondev/puredns
-
-* Sublist3r: https://github.com/aboul3la/Sublist3r
-
-* Ffuf: https://github.com/ffuf/ffuf
-
-* Nuclei: https://github.com/projectdiscovery/nuclei
-
-https://dnsdumpster.com/
-
-* SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
-
-* Bloodhound: https://bloodhound.readthedocs.io/en/latest/index.html
-
-* Kaboom: https://github.com/Leviathan36/kaboom
- 
 * Reverse shell cheatsheet: https://reconshell.com/reverse-shell-cheat-sheet/ && Cheatsheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
 
 * Webshells: https://github.com/BlackArch/webshells
 
-* Shellter
-
 * Running commands on an Microsoft Exchange: https://github.com/WithSecureLabs/peas
-
-* XSS in 2021: https://netsec.expert/posts/xss-in-2021/
-
-* SSRF Cheatsheet: https://highon.coffee/blog/ssrf-cheat-sheet/#curl-ssrf-wrappers--url-schema
-
-* Expired domains: https://www.expireddomains.net/
 
 * 2FA Bypass: https://www.xmind.net/m/8Hkymg/
 
-* XSS firefox extension searcher: https://addons.mozilla.org/es/firefox/addon/knoxss-community-edition/
-
-* OSCP-style: https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
-
-* Pentest-book: https://pentestbook.six2dez.com/ && https://book.hacktricks.xyz/pentesting-methodology
-
-* Videos: https://www.youtube.com/c/S4viOnLive
  
 ## Malware 
 
