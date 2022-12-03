@@ -499,11 +499,11 @@ python -c "print ('A' * 5100)"
 
 ### Recon
 
-* Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
+* Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/ && https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
 
 * Scanning with third parties: https://hackertarget.com/nmap-online-port-scanner/, https://www.ipfingerprints.com/, https://spiderip.com/online-port-scan.php, https://portscanner.standingtech.com/ && https://www.yougetsignal.com/tools/open-ports/
 
-* Enumerar emails de un dominio: https://maildump.co/domain-search
+* List emails from a domain: https://maildump.co/domain-search
 
 * SPF,DKIM,DMARC: https://github.com/magichk/magicspoofing && https://toolbox.googleapps.com/apps/checkmx/
 
@@ -539,27 +539,29 @@ https://dnsdumpster.com/
 
 * Wappalyzer
 
+* whatweb -v -a 3 scanme.nmap.org 
+
+* Feroxbuster
+
+* Gobuster. Cheat Sheet: https://redteamtutorials.com/2018/11/19/gobuster-cheatsheet/
+
 * Burpsuite
 
 * OWASP ZAP, OpenVas, Sparta & Nikto. Cheat Sheet: https://cdn.comparitech.com/wp-content/uploads/2019/07/NIkto-Cheat-Sheet.webp
 
 * Hydra. Cheat Sheet: hydra -l admin -P /usr/share/wordlists/rockyou.txt IP http-post-form “__csrf_magic=sid%3Ae40fd9611063464c3ff346ffa53b7a28b3cd5971%2C1638348501&usernamefld=admin&passwordfld=^PASS^&login=Sign+In" || patator http_fuzz url=http://IP/ method=POST &usernamefld=admin&passwordfld=FILE0&login=Sign+In' 0=/usr/share/wordlists/rockyou.txt follow=1 accept_cookie=1 -x ignore:fgrep='Username or Password incorrect'
 
-*hydra -s 22 -l user -P /usr/share/wordlists/rockyou.txt IP -t 4 ssh
-
-* Gobuster. Cheat Sheet: https://redteamtutorials.com/2018/11/19/gobuster-cheatsheet/
+* hydra -s 22 -l user -P /usr/share/wordlists/rockyou.txt IP -t 4 ssh
 
 * wfuzz. Cheat Sheet: https://book.hacktricks.xyz/pentesting-web/web-tool-wfuzz
 
-* Feroxbuster
+* 2FA Bypass: https://www.xmind.net/m/8Hkymg/
 
 * Dirbuster. https://mundo-hackers.weebly.com/dirbuster.html
 
 * Linkfinder: https://github.com/GerbenJavado/LinkFinder
 
 * Dirsearch: https://github.com/maurosoria/dirsearch
-
-* Nmap cheatsheet: https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
 
 * Automated All-in-One OS command injection and exploitation tool: https://github.com/commixproject/commix
 
@@ -697,8 +699,6 @@ https://linuxhint.com/how_to_aircrack_ng/
 * Webshells: https://github.com/BlackArch/webshells
 
 * Running commands on an Microsoft Exchange: https://github.com/WithSecureLabs/peas
-
-* 2FA Bypass: https://www.xmind.net/m/8Hkymg/
 
  
 ## Malware 
