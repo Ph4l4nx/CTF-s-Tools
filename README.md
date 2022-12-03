@@ -11,11 +11,12 @@ Repository to index interesting Capture The Flag tools and other stuff.
    - [Pentesting](#pentesting) 
         * [Recon](#recon)
         * [Web](#web)
+        * [Credentials](#credentials)
         * [Privilege Escalation](#privilege-escalation)
         * [Legit binaries in a system](#legit-binaries-in-a-system)
         * [AV bypass](#av-bypass)
         * [Wifi](#wifi)
-        * [Utility)(#utility)
+        * [Utility](#utility)
    - [Malware](#malware) 
    - [Mobile](#mobile)       
    - [Utility](#utility-1)
@@ -590,6 +591,10 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Web Tips: https://www.nccgroup.com/globalassets/our-research/uk/images/common_security_issues_in_financially-orientated_web.pdf.pdf
 
+### Credentials
+
+* Default credentials: https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/DefaultCreds-Cheat-Sheet.csv
+
 ### Privilege Escalation
 
 * WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS apt-get install winPeas
@@ -607,10 +612,6 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 * Bypass Windows defender with binaries: https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode
 
 * AV'S evasion: https://github.com/Veil-Framework/Veil-Evasion
-
-### Credentials
-
-* Default credentials: https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/DefaultCreds-Cheat-Sheet.csv
 
 ### Automatic Frameworks
 
