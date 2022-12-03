@@ -682,8 +682,6 @@ https://linuxhint.com/how_to_aircrack_ng/
 * Videos: https://www.youtube.com/c/S4viOnLive
 
 
-
-
 * crackmapexec (smb)
 
 * enum4linux -a IP 
