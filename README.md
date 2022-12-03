@@ -12,6 +12,7 @@ Repository to index interesting Capture The Flag tools and other stuff.
         * [Recon](#recon)
         * [Web](#web)
         * [Privilege Escalation](#privilege-escalation)
+        * [Legit binaries in a system](#legit-binaries-in-a-system)
         * [AV bypass](#av-bypass)
         * [Wifi](#wifi)
         * [Utility)(#utility)
@@ -595,17 +596,17 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
-### AV bypass
-
-* Bypass Windows defender with binaries: https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode
-
-* AV'S evasion: https://github.com/Veil-Framework/Veil-Evasion
-
 ### Legit binaries in a system
 
 * Lolbas from Windows: https://lolbas-project.github.io/
 
 * GTFOBins from Unix Systems: https://gtfobins.github.io/
+
+### AV bypass
+
+* Bypass Windows defender with binaries: https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode
+
+* AV'S evasion: https://github.com/Veil-Framework/Veil-Evasion
 
 ### Credentials
 
