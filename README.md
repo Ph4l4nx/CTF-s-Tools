@@ -599,7 +599,9 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 ### Privilege Escalation
 
-* WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS apt-get install winPeas
+sudo apt install peass
+
+* WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS  
 
 * LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
