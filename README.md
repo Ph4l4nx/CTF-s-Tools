@@ -625,6 +625,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Webshells: https://github.com/BlackArch/webshells
 
+* Popshells: https://github.com/0x00-0x00/ShellPop
+
 * Running commands on an Microsoft Exchange: https://github.com/WithSecureLabs/peas
 
 * Reverse shell cheatsheet: https://reconshell.com/reverse-shell-cheat-sheet/ && Cheatsheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
