@@ -508,6 +508,12 @@ python -c "print ('A' * 5100)"
 
 * enum4linux - https://highon.coffee/blog/enum4linux-cheat-sheet/
 
+Dig: https://cheatography.com/tme520/cheat-sheets/dig/
+
+wget -nd -r -P /save/location -A jpeg,jpg,bmp,gif,png http://www.somedomain.com
+
+Recursive file download bypassing robots.txt: wget -e robots=off -drc -l5 domain
+
 * Scanning with third parties: https://hackertarget.com/nmap-online-port-scanner/, https://www.ipfingerprints.com/, https://spiderip.com/online-port-scan.php, https://portscanner.standingtech.com/ && https://www.yougetsignal.com/tools/open-ports/
 
 * Scanless project: https://github.com/vesche/scanless
