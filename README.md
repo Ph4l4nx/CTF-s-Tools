@@ -3,6 +3,8 @@ Repository to index interesting Capture The Flag tools and other stuff.
 * [Table of Contents](#table-of-contents)   
    - [Platforms to practice](#platforms-to-practice) 
    - [Cryptography](#cryptography)
+        * [Hashes](#hashes)
+        * [Esoteric Languages](#esoteric-languages)
    - [Steganography](#steganography)
    - [OSINT](#osint)
    - [Forensics](#forensics) 
@@ -79,18 +81,6 @@ https://www.dcode.fr/tools-list#cryptography
 
 * Decrpyt emoji messages https://emoji-cypher.netlify.app/
 
-* Hash DB: https://crackstation.net/
-
-* Cracking Hashes: http://rainbowtables.it64.com/
-
-* Hash DB: https://www.onlinehashcrack.com/
-
-* Hash DB: https://md5decrypt.net/en/
-
-* Hash DB: https://hashkiller.io/
-
-* Hash DB: https://hashes.com/en/decrypt/hash
-
 * Padding-oracle-attacker: https://github.com/KishanBagaria/padding-oracle-attacker
 
 * Maritime signal flags dictionary: https://en.wikipedia.org/wiki/International_maritime_signal_flags
@@ -105,12 +95,6 @@ http://rumkin.com/tools/cipher/
 
 * Real time converter: https://kt.gy/tools.html#conv/ 
 
-* Ook! esoteric programming language decoder: https://www.dcode.fr/ook-language
-
-* Brainfuck esoteric programming language decoder: https://www.dcode.fr/brainfuck-language
-
-* Malboge esoteric programming language decoder: https://www.malbolge.doleczek.pl/
-
 * Simple script to calculate the onion address from a Tor hidden service descriptor or public key: https://gist.github.com/DonnchaC/d6428881f451097f329e (you need to modify the line 14 for working properly "onion_address = hashlib.sha1(key.exportKey('DER')[22:]).digest()[:10]").
 
 * Speech to text: https://speech-to-text-demo.ng.bluemix.net/
@@ -118,6 +102,30 @@ http://rumkin.com/tools/cipher/
 * Lyrics song: https://codewithrockstar.com/online
 
 * Online generator md5 hash of a string: http://www.md5.cz/
+
+### Hashes
+
+* Hash DB: https://crackstation.net/
+
+* Cracking Hashes: http://rainbowtables.it64.com/
+
+* Hash DB: https://www.onlinehashcrack.com/
+
+* Hash DB: https://md5decrypt.net/en/
+
+* Hash DB: https://hashkiller.io/
+
+* Hash DB: https://hashes.com/en/decrypt/hash
+
+### Esoteric Languages
+
+* Ook! esoteric programming language decoder: https://www.dcode.fr/ook-language
+
+* Brainfuck esoteric programming language decoder: https://www.dcode.fr/brainfuck-language
+
+* Malboge esoteric programming language decoder: https://www.malbolge.doleczek.pl/
+
+
 
 ## Steganography
 
