@@ -621,6 +621,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * sqlmap - https://www.security-sleuth.com/sleuth-blog/2017/1/3/sqlmap-cheat-sheet
 
+* Reverse shell payload generator - Hoaxshell: https://github.com/t3l3machus/hoaxshell
+
 * Webshells: https://github.com/BlackArch/webshells
 
 * Running commands on an Microsoft Exchange: https://github.com/WithSecureLabs/peas
@@ -660,10 +662,6 @@ sudo apt install peass
 * Fsociety framework: https://github.com/Manisso/fsociety
 
 * Empire. Cheatsheet: https://github.com/HarmJ0y/CheatSheets/blob/master/Empire.pdf
-
-### Reverse shell payload generator
-
-* Hoaxshell: https://github.com/t3l3machus/hoaxshell
 
 ### Mobile
 
