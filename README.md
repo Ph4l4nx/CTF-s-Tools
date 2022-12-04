@@ -641,6 +641,14 @@ sudo apt install peass
 
 * Hoaxshell: https://github.com/t3l3machus/hoaxshell
 
+### Mobile
+
+* Mobile Pentest Cheatsheet: https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet && https://github.com/randorisec/MobileHackingCheatSheet
+
+* Automated  Mobile tools: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
+
+* List of Vulnerable Android Applications: https://github.com/netbiosX/Pentest-Bookmarks/blob/master/Training-Labs/Mobile-Testing/Android-Applications.mdown
+
 ### Wifi
 
 * Auditing Wifi: https://github.com/v1s1t0r1sh3r3/airgeddon
@@ -786,14 +794,6 @@ https://antiscan.me/
 * Malware examples/binaries: https://github.com/ytisf/theZoo && https://malshare.com/
 
 * APT's: https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml# && https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv && https://xorl.wordpress.com/
-
-## Mobile
-
-* Mobile Pentest Cheatsheet: https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet && https://github.com/randorisec/MobileHackingCheatSheet
-
-* Automated  Mobile tools: https://github.com/MobSF/Mobile-Security-Framework-MobSF, https://github.com/SUPERAndroidAnalyzer/super
-
-* List of Vulnerable Android Applications: https://github.com/netbiosX/Pentest-Bookmarks/blob/master/Training-Labs/Mobile-Testing/Android-Applications.mdown
 
 ## Utility
 
