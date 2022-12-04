@@ -9,6 +9,7 @@ Repository to index interesting Capture The Flag tools and other stuff.
         * [Esoteric Languages](#esoteric-languages)
    - [Steganography](#steganography)
    - [OSINT](#osint)
+        * [Threat Hunting](#threat-hunting)
    - [Forensics](#forensics) 
    - [Reversing](#reversing)
    - [Exploiting](#exploiting) 
@@ -234,8 +235,6 @@ https://www.bertnase.de/npiet/npiet-execute.php
 * PNG dump: https://blog.didierstevens.com/2022/04/18/new-tool-pngdump-py-beta/
 
 ## OSINT
- 
-https://centralops.net/co/
 
 * Ip information: https://www.maxmind.com/en/geoip-demo
 
@@ -265,11 +264,7 @@ https://osintframework.com/
 
 * Abuse Domain,IP: https://www.abuseipdb.com/
 
-https://viewdns.info/
-
 https://dns-lookup.jvns.ca/
-
-https://www.threatcrowd.org/
 
 https://www.greynoise.io/
 
@@ -368,6 +363,14 @@ https://builtwith.com/
 * Whatspp IP Leak: https://github.com/bhdresh/Whatsapp-IP-leak?s=09
 
 * Book: https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf
+
+### Threat Hunting
+ 
+https://centralops.net/co/
+
+https://viewdns.info/
+
+https://www.virustotal.com/gui/home/upload
 
 ## Forensics
 
