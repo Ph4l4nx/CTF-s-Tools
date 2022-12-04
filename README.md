@@ -256,8 +256,6 @@ https://osintframework.com/
 
 * World domain DB: http://web.archive.org/ && https://archive.eu/
 
-* Internet assets registry: https://spyse.com/
-
 * DNS Search: https://dns.coffee/
 
 * Cyber Defense Search: https://www.onyphe.io/
