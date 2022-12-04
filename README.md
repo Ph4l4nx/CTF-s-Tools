@@ -382,11 +382,11 @@ History of a Domain: https://web.archive.org/
 
 Real-time blackhole list,ASNs: https://bgp.he.net/
 
-* Phishing Domain DB: http://phishtank.org/
+Phishing Domain DB: http://phishtank.org/
 
-* Phishing Domain DB: https://phishcheck.me/
+Phishing Domain DB: https://phishcheck.me/
 
-* Phishing Research: https://safeweb.norton.com/ , https://isitphishing.org/, https://openphish.com/ && https://opentip.kaspersky.com/.
+Phishing Research: https://safeweb.norton.com/ , https://isitphishing.org/, https://openphish.com/ && https://opentip.kaspersky.com/.
 
 Recopilation: https://osintframework.com/
 
