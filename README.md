@@ -619,6 +619,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * rdesktop IP
 
+* sqlmap - https://www.security-sleuth.com/sleuth-blog/2017/1/3/sqlmap-cheat-sheet
+
 * Webshells: https://github.com/BlackArch/webshells
 
 * Running commands on an Microsoft Exchange: https://github.com/WithSecureLabs/peas
