@@ -370,7 +370,7 @@ Analaysis II: https://viewdns.info/
 
 Analysis III: https://sitereport.netcraft.com/
 
-Malware: https://www.virustotal.com/gui/home/upload
+Malware: https://www.virustotal.com/gui/home/upload & https://opentip.kaspersky.com/
 
 Reputation: https://talosintelligence.com/, https://www.abuseipdb.com/
 
@@ -381,6 +381,12 @@ Tool for tracking the redirection paths of URLs: https://wheregoes.com/
 History of a Domain: https://web.archive.org/
 
 Real-time blackhole list,ASNs: https://bgp.he.net/
+
+* Phishing Domain DB: http://phishtank.org/
+
+* Phishing Domain DB: https://phishcheck.me/
+
+* Phishing Research: https://safeweb.norton.com/ , https://isitphishing.org/, https://openphish.com/ && https://opentip.kaspersky.com/.
 
 Recopilation: https://osintframework.com/
 
@@ -767,6 +773,8 @@ https://linuxhint.com/how_to_aircrack_ng/
 * Online Cuckoo Sandbox: https://sandbox.pikker.ee/
 
 * Polyswarm: https://polyswarm.network
+
+* Kaspersky: https://opentip.kaspersky.com/
 
 * Joesandbox: https://www.joesandbox.com/#windows
 
