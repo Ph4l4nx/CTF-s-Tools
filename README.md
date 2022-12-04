@@ -865,11 +865,7 @@ https://antiscan.me/
 
 ## Wikis
 
-https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/
-
 https://github.com/JohnHammond/ctf-katana
-
-https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-
 
 https://github.com/OpenToAllCTF/Tips
 
