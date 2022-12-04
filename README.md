@@ -11,10 +11,14 @@ Repository to index interesting Capture The Flag tools and other stuff.
    - [Pentesting](#pentesting) 
         * [Recon](#recon)
         * [Web](#web)
+        * [Exploit Database](#exploit-database)
         * [Credentials](#credentials)
+        * [Exploitation](#exploitation)
+        * [Active Directory](#active-directory)
         * [Privilege Escalation](#privilege-escalation)
         * [Legit binaries in a system](#legit-binaries-in-a-system)
         * [AV bypass](#av-bypass)
+        * [Automatic Frameworks](#automatic-frameworks)
         * [Mobile](#mobile) 
         * [Wifi](#wifi)
         * [Utility](#utility)
@@ -501,6 +505,8 @@ python -c "print ('A' * 5100)"
 
 * Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/ && https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
 
+* enum4linux - https://highon.coffee/blog/enum4linux-cheat-sheet/
+
 * Scanning with third parties: https://hackertarget.com/nmap-online-port-scanner/, https://www.ipfingerprints.com/, https://spiderip.com/online-port-scan.php, https://portscanner.standingtech.com/ && https://www.yougetsignal.com/tools/open-ports/
 
 * Scanless project: https://github.com/vesche/scanless
@@ -510,6 +516,8 @@ python -c "print ('A' * 5100)"
 * SPF,DKIM,DMARC: https://github.com/magichk/magicspoofing && https://toolbox.googleapps.com/apps/checkmx/
 
 * Company hashes & passwords: https://www.dehashed.com/
+
+* dnsrecon -d dte.local -n IP - https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/
 
 * Biggest DNS historical data: https://securitytrails.com/
 
@@ -581,6 +589,8 @@ https://dnsdumpster.com/
 
 * XSS firefox extension searcher: https://addons.mozilla.org/es/firefox/addon/knoxss-community-edition/
 
+* Inspect HTTP headers: https://requestbin.net/ && https://webhook.site/#!/75039a57-2015-4f74-9612-b762f4353b9b && https://securityheaders.com/?q=aguasdelsorbe.es&followRedirects=on
+
 https://pentest-tools.com/home
 
 https://book.hacktricks.xyz/
@@ -593,9 +603,31 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Web Tips: https://www.nccgroup.com/globalassets/our-research/uk/images/common_security_issues_in_financially-orientated_web.pdf.pdf
 
+### Exploit Database
+
+* https://www.exploit-db.com/
+
+* SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
+
 ### Credentials
 
 * Default credentials: https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/DefaultCreds-Cheat-Sheet.csv
+
+### Exploitation
+
+* crackmapexec - https://cheatsheet.haax.fr/windows-systems/exploitation/crackmapexec/
+
+* rdesktop IP
+
+* Webshells: https://github.com/BlackArch/webshells
+
+* Running commands on an Microsoft Exchange: https://github.com/WithSecureLabs/peas
+
+* Reverse shell cheatsheet: https://reconshell.com/reverse-shell-cheat-sheet/ && Cheatsheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
+
+### Active Directory
+
+* Bloodhound: https://bloodhound.readthedocs.io/en/latest/index.html
 
 ### Privilege Escalation
 
@@ -626,16 +658,6 @@ sudo apt install peass
 * Fsociety framework: https://github.com/Manisso/fsociety
 
 * Empire. Cheatsheet: https://github.com/HarmJ0y/CheatSheets/blob/master/Empire.pdf
-
-### Exploit database
-
-* https://www.exploit-db.com/
-
-* SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
-
-### Active Directory
-
-* Bloodhound: https://bloodhound.readthedocs.io/en/latest/index.html
 
 ### Reverse shell payload generator
 
@@ -675,6 +697,8 @@ https://linuxhint.com/how_to_aircrack_ng/
 
 ### Utility
 
+* mount -t cifs IP/SharedResource /mnt/smbmounted -o vers=2.1 && * smbclient -U "" -N //IP/SharedResource
+
 * dpkg -l to list all the installed programs in a virtual machine. Pipe the output in order to search what you want.
 
 * Msfvenom: https://www.offensive-security.com/metasploit-unleashed/msfvenom/ & https://www.offensive-security.com/metasploit-unleashed/binary-payloads/
@@ -689,26 +713,6 @@ https://linuxhint.com/how_to_aircrack_ng/
 
 * Videos: https://www.youtube.com/c/S4viOnLive
 
-
-* crackmapexec (smb)
-
-* enum4linux -a IP 
-
-* mount -t cifs IP/SharedResource /mnt/smbmounted -o vers=2.1 && * smbclient -U "" -N //IP/SharedResource
-
-* rdesktop IP
-
-* dnsrecon -d dte.local -n IP
-
-* Inspect HTTP headers: https://requestbin.net/ && https://webhook.site/#!/75039a57-2015-4f74-9612-b762f4353b9b && https://securityheaders.com/?q=aguasdelsorbe.es&followRedirects=on
-
-* Reverse shell cheatsheet: https://reconshell.com/reverse-shell-cheat-sheet/ && Cheatsheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
-
-* Webshells: https://github.com/BlackArch/webshells
-
-* Running commands on an Microsoft Exchange: https://github.com/WithSecureLabs/peas
-
- 
 ## Malware 
 
 * Recopilation: https://github.com/rshipp/awesome-malware-analysis
