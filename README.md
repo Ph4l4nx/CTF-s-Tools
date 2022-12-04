@@ -364,19 +364,25 @@ https://builtwith.com/
 
 ### Threat Hunting
  
-https://centralops.net/co/
+Analysis I: https://centralops.net/co/
 
-https://viewdns.info/
+Analaysis II: https://viewdns.info/
 
-https://www.virustotal.com/gui/home/upload
+Analysis III: https://sitereport.netcraft.com/
 
-https://sitereport.netcraft.com/
+Malware: https://www.virustotal.com/gui/home/upload
 
-https://web.archive.org/
+Reputation: https://talosintelligence.com/, https://www.abuseipdb.com/
+
+Technology of a domain: https://builtwith.com/
 
 Tool for tracking the redirection paths of URLs: https://wheregoes.com/
 
-https://osintframework.com/
+History of a Domain: https://web.archive.org/
+
+Real-time blackhole list,ASNs: https://bgp.he.net/
+
+Recopilation: https://osintframework.com/
 
 ## Forensics
 
