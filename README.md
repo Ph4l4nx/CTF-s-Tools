@@ -692,6 +692,8 @@ sudo apt install peass
 
 * LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
+* Juicy potato: https://github.com/ohpe/juicy-potato
+
 ### Legit binaries in a system
 
 * Lolbas from Windows: https://lolbas-project.github.io/
