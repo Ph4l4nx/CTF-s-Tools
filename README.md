@@ -801,7 +801,7 @@ https://antiscan.me/
 
 ## Utility
 
-* To bypass filtered ports: nmap -sSV ...
+* To bypass some filtered ports: nmap -sSV ...
 
 * zip2john backup.zip secret.hash
 
