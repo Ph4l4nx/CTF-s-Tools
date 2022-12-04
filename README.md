@@ -59,9 +59,6 @@ https://www.vulnhub.com/
 
 * Blue team: https://letsdefend.io/
 
-* APT Simulator: https://github.com/NextronSystems/APTSimulator
-
-
 ## Cryptography
 
 https://gchq.github.io/CyberChef/
@@ -823,6 +820,8 @@ https://metadefender.opswat.com/?lang=en
 * Intelligence: https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml# && https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv && https://xorl.wordpress.com/
 
 Are you an APT target? -> https://lab52.io/
+
+* APT Simulator: https://github.com/NextronSystems/APTSimulator
 
 ### Blogs and Information
 
