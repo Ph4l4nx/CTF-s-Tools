@@ -127,6 +127,8 @@ http://rumkin.com/tools/cipher/
 
 * Malboge esoteric programming language decoder: https://www.malbolge.doleczek.pl/
 
+* COW esoteric programming language: https://frank-buss.de/cow.html
+
 ## Steganography
 
 * Exiftool
