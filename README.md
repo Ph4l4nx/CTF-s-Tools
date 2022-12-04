@@ -538,7 +538,7 @@ python -c "print ('A' * 5100)"
 
 ## Pentesting
 
-https://packetlife.net/media/library/23/common_ports.pdf
+Common ports cheatsheet: https://packetlife.net/media/library/23/common_ports.pdf
 
 ### Recon
 
