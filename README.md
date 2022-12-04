@@ -802,7 +802,7 @@ https://metadefender.opswat.com/?lang=en
 
 * DragonFly: https://dragonfly.certego.net/register
 
-* Offline Sandbox: https://github.com/sandboxie-plus/Sandboxie
+* Offline Sandbox: https://sandboxie-plus.com/downloads/
 
 ### Blogs and Information
 
