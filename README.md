@@ -79,7 +79,7 @@ https://www.dcode.fr/tools-list#cryptography
 
 * RsaCtfTool: https://github.com/Ganapati/RsaCtfTool
 
-* Decrpyt emoji messages https://emoji-cypher.netlify.app/
+* Decrpyt emoji messages https://cryptoji.com/ & https://cryptii.com/pipes/morse-code-with-emojis
 
 * Padding-oracle-attacker: https://github.com/KishanBagaria/padding-oracle-attacker
 
@@ -107,6 +107,8 @@ http://rumkin.com/tools/cipher/
 
 * Hash DB: https://crackstation.net/
 
+* Dehashed: https://www.dehashed.com/
+
 * Cracking Hashes: http://rainbowtables.it64.com/
 
 * Hash DB: https://www.onlinehashcrack.com/
@@ -124,8 +126,6 @@ http://rumkin.com/tools/cipher/
 * Brainfuck esoteric programming language decoder: https://www.dcode.fr/brainfuck-language
 
 * Malboge esoteric programming language decoder: https://www.malbolge.doleczek.pl/
-
-
 
 ## Steganography
 
