@@ -374,6 +374,8 @@ https://www.virustotal.com/gui/home/upload
 
 https://sitereport.netcraft.com/
 
+https://web.archive.org/
+
 https://osintframework.com/
 
 ## Forensics
@@ -527,6 +529,8 @@ python -c "print ('A' * 5100)"
 ### Recon
 
 * Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/ && https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
+
+* https://sitereport.netcraft.com/
 
 * enum4linux - https://highon.coffee/blog/enum4linux-cheat-sheet/
 
