@@ -3,6 +3,8 @@ Repository to index interesting Capture The Flag tools and other stuff.
 * [Table of Contents](#table-of-contents)   
    - [Platforms to practice](#platforms-to-practice) 
    - [Cryptography](#cryptography)
+        * [Main](#main)
+        * [Secondary](#secondary)
         * [Hashes](#hashes)
         * [Esoteric Languages](#esoteric-languages)
    - [Steganography](#steganography)
@@ -63,6 +65,8 @@ https://www.vulnhub.com/
 
 ## Cryptography
 
+### Main
+
 https://gchq.github.io/CyberChef/
 
 https://www.dcode.fr/tools-list#cryptography
@@ -70,6 +74,8 @@ https://www.dcode.fr/tools-list#cryptography
 * Cipher Identifier and Analyzer: https://www.boxentriq.com/code-breaking/cipher-identifier
 
 * Data format identifier: https://geocaching.dennistreysa.de/multisolver/
+
+### Secondary
 
 * Automated cryptogram solver (substitution) https://quipqiup.com/
 
