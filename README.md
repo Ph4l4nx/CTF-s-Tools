@@ -629,6 +629,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Reverse shell cheatsheet: https://reconshell.com/reverse-shell-cheat-sheet/ && Cheatsheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
 
+* Powerglot: https://github.com/mindcrypt/powerglot
+
 ### Active Directory
 
 * Bloodhound: https://bloodhound.readthedocs.io/en/latest/index.html
@@ -715,87 +717,97 @@ https://linuxhint.com/how_to_aircrack_ng/
 
 ## Malware 
 
-* Recopilation: https://github.com/rshipp/awesome-malware-analysis
-
-* ClamAV: https://www.clamav.net/downloads#otherversions
+### Online engines
 
 * Virustotal: https://www.virustotal.com/gui/home/search
 
 * Online Cuckoo Sandbox: https://sandbox.pikker.ee/
 
-* DragonFly: https://dragonfly.certego.net/register
-
-* Offline Sandbox: https://github.com/sandboxie-plus/Sandboxie
-
-https://antiscan.me/
+* Polyswarm: https://polyswarm.network
 
 * Joesandbox: https://www.joesandbox.com/#windows
 
-* Intezer: https://analyze.intezer.com/
+* Intezer: https://analyze.intezer.com/scan
 
 * Hybrid Analysis: https://www.hybrid-analysis.com/?lang=es
 
+* Database of counterfeit-related webs: https://desenmascara.me/
+
 * ANY.RUN https://any.run/
 
-* Polyswarm: https://polyswarm.network
+https://antiscan.me/
 
-* This tool allows you to intercept and redirect all or specific network traffic while simulating legitimate network services: https://github.com/mandiant/flare-fakenet-ng
+https://www.virscan.org/
+
+https://metadefender.opswat.com/?lang=en
+
+### Distros to analyze malware
 
 * Linux Distro to investigate malware: https://docs.remnux.org/
 
 * Windows Distro to investigate malware: https://github.com/mandiant/flare-vm
 
-* Reverse Engineer's Toolkit: https://github.com/mentebinaria/retoolkit
-
-* Network analysis of malware (emulate HTTP server): https://github.com/felixweyne/imaginaryC2
-
-* All in one (NETWORK+REVERSING): https://www.procdot.com/
-
-* PEstudio: https://www.winitor.com/
-
-* Macros: https://blog.didierstevens.com/2021/01/19/video-maldoc-analysis-with-cyberchef/ && https://blog.nviso.eu/2022/04/06/analyzing-a-multilayer-maldoc-a-beginners-guide/
-
-* XORSearch: https://blog.didierstevens.com/programs/xorsearch/
-
-* Malzilla: https://malzilla.org/
-
-* Ransomware decryption tools: http://files-download.avg.com/util/avgrem/avg_decryptor_Legion.exe, https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor, https://www.nomoreransom.org/es/decryption-tools.htmlm, https://www.avast.com/es-es/ransomware-decryption-tools , https://noransom.kaspersky.com/ , https://www.mcafee.com/enterprise/es-es/downloads/free-tools/ransomware-decryption.html, https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html, https://www.emsisoft.com/ransomware-decryption-tools/. 
-
-* To remove a Threat from a computer: https://www.pcrisk.es/mejores-programas-antivirus/8365-combo-cleaner-antivirus-and-system-optimizer-mac
-
-* Overview: https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
-
-* Ransomware groups: http://edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd.onion/
-
-* Analyze APK's: https://github.com/quark-engine/quark-engine && https://github.com/mvt-project/mvt && https://github.com/pjlantz/droidbox
-
-* Database of counterfeit-related webs: https://desenmascara.me/
+### Tools
 
 * Sysinternals: https://docs.microsoft.com/en-us/sysinternals/
 
-* Sandbox: https://github.com/CERT-Polska/drakvuf-sandbox
-
-* RAT Decoder: https://github.com/kevthehermit/RATDecoders
-
-* https://github.com/alexandreborges/malwoverview
-
-* Binary strings defuser: https://github.com/fireeye/flare-floss
-
-* Sysinspector: https://www.eset.com/es/soporte/sysinspector/
+* Sysinspector: https://support.eset.com/es/que-es-eset-sysinspector
 
 * Autoruns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 
-* https://nodistribute.com/
+* RAM capturer: https://belkasoft.com/ram-capturer
 
-* https://metadefender.opswat.com/?lang=en
+* Recopilation: https://github.com/rshipp/awesome-malware-analysis
 
-* https://www.virscan.org/
+* Reverse Engineer's Toolkit: https://github.com/mentebinaria/retoolkit
 
-* https://sandbox.anlyz.io/dashboard
+* PEstudio: https://www.winitor.com/
 
-* https://github.com/mindcrypt/powerglot
+* Malzilla: https://malzilla.org/
 
-* Malware examples/binaries: https://github.com/ytisf/theZoo && https://malshare.com/
+* PROCMON+PCAP: https://www.procdot.com/
+
+* Analyze APK's: https://github.com/quark-engine/quark-engine && https://github.com/mvt-project/mvt && https://github.com/pjlantz/droidbox
+
+* Hunt Sleeping Beacons: https://github.com/thefLink/Hunt-Sleeping-Beacons
+
+* Persistence Sniper: https://github.com/last-byte/PersistenceSniper
+
+* XORSearch: https://blog.didierstevens.com/programs/xorsearch/
+
+* RAT Decoder: https://github.com/kevthehermit/RATDecoders
+
+* Malwoverview: https://github.com/alexandreborges/malwoverview
+
+* Binary strings defuser: https://github.com/fireeye/flare-floss
+
+* Network analysis of malware (emulate HTTP server): https://github.com/felixweyne/imaginaryC2
+
+* This tool allows you to intercept and redirect all or specific network traffic while simulating legitimate network services: https://github.com/mandiant/flare-fakenet-ng
+
+* Ransomware decryption tools: http://files-download.avg.com/util/avgrem/avg_decryptor_Legion.exe, https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor, https://www.nomoreransom.org/es/decryption-tools.htmlm, https://www.avast.com/es-es/ransomware-decryption-tools , https://noransom.kaspersky.com/ , https://www.mcafee.com/enterprise/es-es/downloads/free-tools/ransomware-decryption.html, https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html, https://www.emsisoft.com/ransomware-decryption-tools/. 
+
+### Free AVs and Sandboxes
+
+* ClamAV: https://www.clamav.net/downloads#otherversions
+
+* MAC AV: https://www.pcrisk.es/mejores-programas-antivirus/8365-combo-cleaner-antivirus-and-system-optimizer-mac
+
+* Sandbox: https://github.com/CERT-Polska/drakvuf-sandbox
+
+* DragonFly: https://dragonfly.certego.net/register
+
+* Offline Sandbox: https://github.com/sandboxie-plus/Sandboxie
+
+### Blogs and Information
+
+* Macros: https://blog.didierstevens.com/2021/01/19/video-maldoc-analysis-with-cyberchef/ && https://blog.nviso.eu/2022/04/06/analyzing-a-multilayer-maldoc-a-beginners-guide/
+
+* General Overview: https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
+
+* Ransomware groups: http://edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd.onion/
+
+* Malware examples/binaries: https://bazaar.abuse.ch/, https://github.com/ytisf/theZoo & https://malshare.com/
 
 * APT's: https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml# && https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv && https://xorl.wordpress.com/
 
