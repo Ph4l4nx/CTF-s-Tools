@@ -538,6 +538,8 @@ python -c "print ('A' * 5100)"
 
 ## Pentesting
 
+https://packetlife.net/media/library/23/common_ports.pdf
+
 ### Recon
 
 * Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/ && https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
