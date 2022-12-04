@@ -27,6 +27,8 @@ Repository to index interesting Capture The Flag tools and other stuff.
         * [Distros to analyze malware](#distros-to-analyze-malware)
         * [Tools](#tools)
         * [Free AVs and sandboxes](#free-avs-and-sandboxes)
+        * [Ransomware](#ransomware)
+        * [APTs](#apts)
         * [Blogs and Information](#blogs-and-information)
    - [Utility](#utility-1)
    - [Wikis](#wikis)
@@ -796,8 +798,6 @@ https://metadefender.opswat.com/?lang=en
 
 * This tool allows you to intercept and redirect all or specific network traffic while simulating legitimate network services: https://github.com/mandiant/flare-fakenet-ng
 
-* Ransomware decryption tools: http://files-download.avg.com/util/avgrem/avg_decryptor_Legion.exe, https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor, https://www.nomoreransom.org/es/decryption-tools.htmlm, https://www.avast.com/es-es/ransomware-decryption-tools , https://noransom.kaspersky.com/ , https://www.mcafee.com/enterprise/es-es/downloads/free-tools/ransomware-decryption.html, https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html, https://www.emsisoft.com/ransomware-decryption-tools/. 
-
 ### Free AVs and Sandboxes
 
 * ClamAV: https://www.clamav.net/downloads#otherversions
@@ -810,17 +810,25 @@ https://metadefender.opswat.com/?lang=en
 
 * Offline Sandbox: https://sandboxie-plus.com/downloads/
 
-### Blogs and Information
+### Ransomware
 
-* Macros: https://blog.didierstevens.com/2021/01/19/video-maldoc-analysis-with-cyberchef/ && https://blog.nviso.eu/2022/04/06/analyzing-a-multilayer-maldoc-a-beginners-guide/
+* Ransomware decryption tools: http://files-download.avg.com/util/avgrem/avg_decryptor_Legion.exe, https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor, https://www.nomoreransom.org/es/decryption-tools.htmlm, https://www.avast.com/es-es/ransomware-decryption-tools , https://noransom.kaspersky.com/ , https://www.mcafee.com/enterprise/es-es/downloads/free-tools/ransomware-decryption.html, https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html, https://www.emsisoft.com/ransomware-decryption-tools/. 
 
 * General Overview: https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
 
 * Ransomware groups: http://edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd.onion/
 
-* Malware examples/binaries: https://bazaar.abuse.ch/, https://github.com/ytisf/theZoo & https://malshare.com/
+### APTs
 
-* APT's: https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml# && https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv && https://xorl.wordpress.com/
+* Intelligence: https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml# && https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv && https://xorl.wordpress.com/
+
+Are you an APT target? -> https://lab52.io/
+
+### Blogs and Information
+
+* Macros: https://blog.didierstevens.com/2021/01/19/video-maldoc-analysis-with-cyberchef/ && https://blog.nviso.eu/2022/04/06/analyzing-a-multilayer-maldoc-a-beginners-guide/
+
+* Malware examples/binaries: https://bazaar.abuse.ch/, https://github.com/ytisf/theZoo & https://malshare.com/
 
 ## Utility
 
