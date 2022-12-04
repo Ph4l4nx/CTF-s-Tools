@@ -882,8 +882,6 @@ https://ctftime.org/writeups
 
 https://apsdehal.in/awesome-ctf/
 
-https://ctf.courgettes.club/
-
 https://jorgectf.gitlab.io/
 
 https://github.com/0e85dc6eaf/CTF-Writeups
