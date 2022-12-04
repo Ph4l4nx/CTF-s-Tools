@@ -372,6 +372,10 @@ https://viewdns.info/
 
 https://www.virustotal.com/gui/home/upload
 
+https://sitereport.netcraft.com/
+
+https://osintframework.com/
+
 ## Forensics
 
 * Online PCAP Analysis: https://packettotal.com/ 
