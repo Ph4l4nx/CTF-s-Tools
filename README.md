@@ -374,6 +374,8 @@ https://sitereport.netcraft.com/
 
 https://web.archive.org/
 
+Tool for tracking the redirection paths of URLs: https://wheregoes.com/
+
 https://osintframework.com/
 
 ## Forensics
