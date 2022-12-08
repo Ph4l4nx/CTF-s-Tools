@@ -808,6 +808,8 @@ https://metadefender.opswat.com/?lang=en
 
 * Sysinspector: https://support.eset.com/es/que-es-eset-sysinspector
 
+* Dependency walker from an executable file: https://www.dependencywalker.com/
+
 * Autoruns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 
 * RAM capturer: https://belkasoft.com/ram-capturer
