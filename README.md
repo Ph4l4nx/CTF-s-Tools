@@ -696,6 +696,8 @@ sudo apt install peass
 
 * Juicy potato: https://github.com/ohpe/juicy-potato
 
+* LinEnum: https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
+
 ### Legit binaries in a system
 
 * Lolbas from Windows: https://lolbas-project.github.io/
