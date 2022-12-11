@@ -540,6 +540,8 @@ python -c "print ('A' * 5100)"
 
 Common ports cheatsheet: https://packetlife.net/media/library/23/common_ports.pdf
 
+Enumeration cheatsheet: https://pentestwiki.org/enumeration-cheat-sheet/
+
 ### Recon
 
 * Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/ && https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
@@ -686,7 +688,9 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Mimikatz: https://book.hacktricks.xyz/windows-hardening/stealing-credentials/credentials-mimikatz
 
-* Crackmapexec - https://cheatsheet.haax.fr/windows-systems/exploitation/crackmapexec/
+* Crackmapexec: https://cheatsheet.haax.fr/windows-systems/exploitation/crackmapexec/
+
+* LDAP enumeration: https://pentestwiki.org/enumeration-cheat-sheet/#h-ldap-enumeration
 
 * Bloodhound: https://bloodhound.readthedocs.io/en/latest/index.html
 
@@ -883,9 +887,6 @@ Are you an APT target? -> https://lab52.io/
 * Macros: https://blog.didierstevens.com/2021/01/19/video-maldoc-analysis-with-cyberchef/ && https://blog.nviso.eu/2022/04/06/analyzing-a-multilayer-maldoc-a-beginners-guide/
 
 * Malware examples/binaries: https://bazaar.abuse.ch/, https://github.com/ytisf/theZoo & https://malshare.com/
-
-
-
 
 ## Utility
 
