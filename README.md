@@ -692,9 +692,11 @@ sudo apt install peass
 
 * WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS  
 
-* LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
-
 * Juicy potato: https://github.com/ohpe/juicy-potato
+
+* PowerUp: https://github.com/PowerShellMafia/PowerSploit/blob/dev/Privesc/PowerUp.ps1
+
+* LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
 * LinEnum: https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
 
