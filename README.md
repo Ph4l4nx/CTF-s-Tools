@@ -684,7 +684,13 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 ### Active Directory
 
+* Mimikatz: https://book.hacktricks.xyz/windows-hardening/stealing-credentials/credentials-mimikatz
+
+* Crackmapexec - https://cheatsheet.haax.fr/windows-systems/exploitation/crackmapexec/
+
 * Bloodhound: https://bloodhound.readthedocs.io/en/latest/index.html
+
+* Adalanche: https://www.kitploit.com/2021/08/adalanche-active-directory-acl.html
 
 ### Privilege Escalation
 
@@ -699,6 +705,8 @@ sudo apt install peass
 * LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
 * LinEnum: https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
+
+* BeRoot: https://github.com/AlessandroZ/BeRoot/tree/master/Linux
 
 ### Legit binaries in a system
 
