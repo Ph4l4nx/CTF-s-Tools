@@ -726,6 +726,8 @@ sudo apt install peass
 
 * AV'S evasion: https://github.com/Veil-Framework/Veil-Evasion
 
+* Shellter: https://www.kali.org/tools/shellter/
+
 ### Automatic Frameworks
 
 * Metasploit. Cheatsheet: https://github.com/k1000o23/cheat_sheets/blob/master/metasploit_cheat_sheet.pdf
