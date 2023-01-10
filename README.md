@@ -664,6 +664,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 ### Exploitation
 
+* Online reverse shell generator: https://www.revshells.com/
+
 * crackmapexec - https://cheatsheet.haax.fr/windows-systems/exploitation/crackmapexec/
 
 * Rundll32 commands examples: https://www.jesusninoc.com/04/12/rundll32-commands-for-windows/
