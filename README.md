@@ -666,6 +666,14 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Online reverse shell generator: https://www.revshells.com/
 
+* Reverse shell cheatsheet: https://reconshell.com/reverse-shell-cheat-sheet/ && Cheatsheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
+
+* Webshells: https://github.com/BlackArch/webshells
+
+* Popshells: https://github.com/0x00-0x00/ShellPop
+
+* Upgrading Simple Shells to Fully Interactive TTYs: https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+
 * crackmapexec - https://cheatsheet.haax.fr/windows-systems/exploitation/crackmapexec/
 
 * Rundll32 commands examples: https://www.jesusninoc.com/04/12/rundll32-commands-for-windows/
@@ -676,15 +684,7 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Reverse shell payload generator - Hoaxshell: https://github.com/t3l3machus/hoaxshell
 
-* Webshells: https://github.com/BlackArch/webshells
-
-* Popshells: https://github.com/0x00-0x00/ShellPop
-
-* Upgrading Simple Shells to Fully Interactive TTYs: https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
-
 * Running commands on an Microsoft Exchange: https://github.com/WithSecureLabs/peas
-
-* Reverse shell cheatsheet: https://reconshell.com/reverse-shell-cheat-sheet/ && Cheatsheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
 
 * Powerglot: https://github.com/mindcrypt/powerglot
 
