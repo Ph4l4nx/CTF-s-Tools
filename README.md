@@ -21,6 +21,8 @@ Repository to index interesting Capture The Flag tools and other stuff.
         * [Exploitation](#exploitation)
         * [Active Directory](#active-directory)
         * [Privilege Escalation](#privilege-escalation)
+          - [Windows](#windows)
+          - [Linux](#linux)
         * [Legit binaries in a system](#legit-binaries-in-a-system)
         * [AV bypass](#av-bypass)
         * [Automatic Frameworks](#automatic-frameworks)
@@ -704,6 +706,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 ### Privilege Escalation
 
+#### Windows
+
 sudo apt install peass
 
 * WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS  
@@ -711,6 +715,8 @@ sudo apt install peass
 * Juicy potato: https://github.com/ohpe/juicy-potato
 
 * PowerUp: https://github.com/PowerShellMafia/PowerSploit/blob/dev/Privesc/PowerUp.ps1
+
+#### Linux
 
 * LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
