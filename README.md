@@ -572,7 +572,7 @@ Recursive file download bypassing robots.txt: wget -e robots=off -drc -l5 domain
 
 * DNS Host Records: https://hackertarget.com/find-dns-host-records/
 
-https://dnsdumpster.com/
+* HTTP Header Analysis Vulnerability Tool: https://dnsdumpster.com/
 
 * ReconFTW: https://github.com/six2dez/reconftw
 
@@ -597,6 +597,8 @@ https://dnsdumpster.com/
 * Wappalyzer
 
 * whatweb -v -a 3 scanme.nmap.org 
+
+* https://github.com/Aetsu/gethead/blob/gh-pages/gethead.py
 
 * Feroxbuster
 
