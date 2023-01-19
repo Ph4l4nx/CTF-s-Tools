@@ -694,6 +694,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 ### Active Directory
 
+* linWinPwn: https://github.com/lefayjey/linWinPwn
+
 * Mimikatz: https://book.hacktricks.xyz/windows-hardening/stealing-credentials/credentials-mimikatz
 
 * Crackmapexec: https://cheatsheet.haax.fr/windows-systems/exploitation/crackmapexec/
