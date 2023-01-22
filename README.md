@@ -384,6 +384,8 @@ History of a Domain: https://web.archive.org/
 
 Real-time blackhole list,ASNs: https://bgp.he.net/
 
+SSL certificates: https://www.digicert.com/help/
+
 Phishing Domain DB: http://phishtank.org/
 
 Phishing Domain DB: https://phishcheck.me/
