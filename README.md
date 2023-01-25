@@ -762,6 +762,10 @@ sudo apt install peass
 
 ### Wifi
 
+* Fing application: https://www.fing.com/
+
+* Wifi analyzer: https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&hl=es&gl=US&pli=1
+
 * Auditing Wifi: https://github.com/v1s1t0r1sh3r3/airgeddon
 
 * https://en.kali.tools/?p=244
