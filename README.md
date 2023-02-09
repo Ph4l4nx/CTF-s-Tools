@@ -664,6 +664,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 ### Exploit Database
 
+* CVE Search: https://github.com/Anonimo501/cve_search
+
 * https://www.exploit-db.com/
 
 * SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
