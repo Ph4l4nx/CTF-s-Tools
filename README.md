@@ -430,6 +430,8 @@ Recopilation: https://osintframework.com/
 
 * EnCase 
 
+* EaseUS Data Recovery Wizard
+
 * Testdisk: https://www.cgsecurity.org/wiki/TestDisk_Download
 
 * MFT_Browser: https://github.com/kacos2000/MFT_Browser
