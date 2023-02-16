@@ -558,6 +558,8 @@ Enumeration cheatsheet: https://pentestwiki.org/enumeration-cheat-sheet/
 
 * https://sitereport.netcraft.com/
 
+* GUI-DNSRecon: https://www.kitploit.com/2023/02/dnsrecon-gui-dnsrecon-tool-with-gui-for.html
+
 * enum4linux - https://highon.coffee/blog/enum4linux-cheat-sheet/
 
 Dig: https://cheatography.com/tme520/cheat-sheets/dig/
