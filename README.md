@@ -244,6 +244,8 @@ https://sitereport.netcraft.com/? && https://searchdns.netcraft.com/
 
 * https://iocfeed.mrlooquer.com/
 
+* https://www.ipaddress.com/
+
 * GHDB (Google Hacking Database): https://www.exploit-db.com/google-hacking-database
 
 * Google CheatSheet: https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
@@ -371,6 +373,8 @@ Analysis I: https://centralops.net/co/
 Analaysis II: https://viewdns.info/
 
 Analysis III: https://sitereport.netcraft.com/
+
+Analysis IV: https://www.ipaddress.com/
 
 Malware: https://www.virustotal.com/gui/home/upload & https://opentip.kaspersky.com/
 
