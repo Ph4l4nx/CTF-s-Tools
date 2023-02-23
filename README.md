@@ -470,7 +470,7 @@ Recopilation: https://osintframework.com/
 
 * Blog: https://www.osintme.com/
 
-* Regular expressions for grep -Po " " https://regex101.com/ . Cheat sheet: https://cheatography.com/davechild/cheat-sheets/regular-expressions/
+* Regular expressions for grep -Po " " https://www.autoregex.xyz/ && https://regex101.com/ . Cheat sheet: https://cheatography.com/davechild/cheat-sheets/regular-expressions/
 
 * DFIR Cheatsheet: https://dfircheatsheet.github.io/
 
