@@ -578,6 +578,8 @@ Recursive file download bypassing robots.txt: wget -e robots=off -drc -l5 domain
 
 * List emails from a domain: https://maildump.co/domain-search
 
+* List domains of a company: Curl https://sonar.omnisint.io/tlds/<company name>
+
 * SPF,DKIM,DMARC: https://www.kitploit.com/2023/02/email-vulnerablity-checker-find-email.html & https://github.com/magichk/magicspoofing && https://toolbox.googleapps.com/apps/checkmx/
 
 * Company hashes & passwords: https://www.dehashed.com/
