@@ -700,7 +700,7 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Rundll32 commands examples: https://www.jesusninoc.com/04/12/rundll32-commands-for-windows/
 
-* rdesktop IP
+* rdesktop IP, proxychains <rdesktop> IP
 
 * sqlmap - https://www.security-sleuth.com/sleuth-blog/2017/1/3/sqlmap-cheat-sheet
 
