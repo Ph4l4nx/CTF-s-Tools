@@ -832,11 +832,9 @@ https://linuxhint.com/how_to_aircrack_ng/
 
 * APK's: https://mobsf.live/ && https://koodous.com/
 
-* Polyswarm: https://polyswarm.network
+* Joesandbox: https://www.joesandbox.com/#windows
 
 * Kaspersky: https://opentip.kaspersky.com/
-
-* Joesandbox: https://www.joesandbox.com/#windows
 
 * Intezer: https://analyze.intezer.com/scan
 
@@ -849,6 +847,8 @@ https://linuxhint.com/how_to_aircrack_ng/
 https://antiscan.me/
 
 https://www.virscan.org/
+
+* Polyswarm: https://polyswarm.network
 
 https://metadefender.opswat.com/?lang=en
 
