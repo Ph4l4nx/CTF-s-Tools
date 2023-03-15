@@ -862,7 +862,7 @@ https://metadefender.opswat.com/?lang=en
 
 * Sysinternals: https://docs.microsoft.com/en-us/sysinternals/
 
-* Detect it easy(unpacker): https://en.kali.tools/?p=1644
+* Detect it easy(packer detector): https://en.kali.tools/?p=1644
 
 * Sysinspector: https://support.eset.com/es/que-es-eset-sysinspector
 
