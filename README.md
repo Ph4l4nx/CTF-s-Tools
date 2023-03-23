@@ -616,7 +616,7 @@ Recursive file download bypassing robots.txt: wget -e robots=off -drc -l5 domain
 
 * whatweb -v -a 3 scanme.nmap.org 
 
-* nmap --script=http-* <IP>
+* nmap  -p 80 --script=http-* <IP>
 
 * HTTP Header Analysis Vulnerability Tool: https://github.com/Aetsu/gethead/blob/gh-pages/gethead.py
 
