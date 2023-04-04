@@ -646,6 +646,8 @@ Recursive file download bypassing robots.txt: wget -e robots=off -drc -l5 domain
 
 * Automated XSS tool: https://xsser.03c8.net/
 
+* Automated XSS tool: https://github.com/ssl/ezXSS
+
 * RECOX: https://github.com/samhaxr/recox/blob/master/recox.sh
 
 * SQL payload examples: https://github.com/payloadbox/sql-injection-payload-list
