@@ -758,6 +758,8 @@ sudo apt install peass
 
 * Bypass Windows defender with binaries: https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode
 
+* Shikata ga nai: https://github.com/EgeBalci/sgn
+
 * AV'S evasion: https://github.com/Veil-Framework/Veil-Evasion
 
 * Shellter: https://www.kali.org/tools/shellter/
