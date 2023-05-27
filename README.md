@@ -390,6 +390,8 @@ Real-time blackhole list,ASNs: https://bgp.he.net/
 
 SSL certificates: https://www.digicert.com/help/
 
+Redirects: lookyloo.circl.lu
+
 Phishing Domain DB: http://phishtank.org/
 
 Phishing Domain DB: https://phishcheck.me/
