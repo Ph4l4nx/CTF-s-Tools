@@ -422,6 +422,8 @@ Recopilation: https://osintframework.com/
 
 * Recuva: https://www.ccleaner.com/recuva
 
+* Keys: https://www.nirsoft.net/utils/product_cd_key_viewer.html
+
 * DDRescue. https://launchpad.net/ddrescue-gui
 
 * Rescuezilla: https://rescuezilla.com/
