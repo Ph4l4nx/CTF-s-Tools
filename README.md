@@ -719,6 +719,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 * Powerglot: https://github.com/mindcrypt/powerglot
 
 ### Active Directory
+   
+* Network Scanner: https://www.softperfect.com/products/networkscanner/
 
 * linWinPwn: https://github.com/lefayjey/linWinPwn
 
