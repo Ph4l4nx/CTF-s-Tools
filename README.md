@@ -400,6 +400,8 @@ Phishing Research: https://safeweb.norton.com/ , https://isitphishing.org/, http
 
 Recopilation: https://osintframework.com/
 
+Email account analysis: curl emailrep.io/john.smith@gmail.com
+
 ## Forensics
 
 * Online PCAP Analysis: https://packettotal.com/ 
