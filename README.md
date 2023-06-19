@@ -566,6 +566,8 @@ Enumeration cheatsheet: https://pentestwiki.org/enumeration-cheat-sheet/
 
 * Nmap. Cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/ && https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20NMap%20Quick%20Reference%20Guide.pdf
 
+* S.O recon: "version of a service https://launchpad.net/"
+
 * https://sitereport.netcraft.com/
 
 * GUI-DNSRecon: https://www.kitploit.com/2023/02/dnsrecon-gui-dnsrecon-tool-with-gui-for.html
