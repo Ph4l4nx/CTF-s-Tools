@@ -880,6 +880,8 @@ https://metadefender.opswat.com/?lang=en
 
 * Windows Distro to investigate malware: https://github.com/mandiant/flare-vm
 
+* https://github.com/LaurieWired/linux_malware_analysis_container
+
 ### Tools
 
 * Sysinternals: https://docs.microsoft.com/en-us/sysinternals/
