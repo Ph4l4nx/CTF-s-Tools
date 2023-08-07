@@ -430,6 +430,8 @@ Email account analysis: curl emailrep.io/john.smith@gmail.com
 
 * Rescuezilla: https://rescuezilla.com/
 
+* PolarProxy: https://www.netresec.com/?page=PolarProxy
+
 * MRC: https://www.magnetforensics.com/resources/magnet-ram-capture/
 
 * Media acquisition (disk to image): https://guymager.sourceforge.io/
