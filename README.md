@@ -738,6 +738,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * LDAP enumeration: https://pentestwiki.org/enumeration-cheat-sheet/#h-ldap-enumeration
 
+* Seatbelt check: https://github.com/GhostPack/Seatbelt
+
 * Bloodhound: https://bloodhound.readthedocs.io/en/latest/index.html
 
 * Adalanche: https://www.kitploit.com/2021/08/adalanche-active-directory-acl.html
