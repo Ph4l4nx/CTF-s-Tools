@@ -408,6 +408,8 @@ Email account analysis: curl emailrep.io/john.smith@gmail.com
 
 * Tool to identify strings from a pcap: https://github.com/bee-san/pyWhat. Ex:python3 -m pywhat redteam_test03-10423dd9015c050a40b7ccf2a53f57a9.pcapng > output
 
+* Advanced PCAP: https://www.kitploit.com/2023/08/bryobio-network-pcap-file-analysis.html
+
 * Wireshark. Cheat sheet: https://cdn.comparitech.com/wp-content/uploads/2019/06/Wireshark-Cheat-Sheet-1.jpg
 
 * Volatility. Cheat sheet: https://blog.onfvp.com/post/volatility-cheatsheet/ >>> Malfind,yarascan, Connscan y netscan
