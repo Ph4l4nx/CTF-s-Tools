@@ -396,6 +396,8 @@ Phishing Domain DB: http://phishtank.org/
 
 Phishing Domain DB: https://phishcheck.me/
 
+Phishing Domains CSV: https://phishstats.info/
+
 Phishing Research: https://safeweb.norton.com/ , https://isitphishing.org/, https://openphish.com/ && https://opentip.kaspersky.com/.
 
 Recopilation: https://osintframework.com/
