@@ -894,6 +894,8 @@ https://metadefender.opswat.com/?lang=en
 
 * Sysinternals: https://docs.microsoft.com/en-us/sysinternals/
 
+* Systeminformer: https://systeminformer.sourceforge.io/
+
 * Capa: https://github.com/mandiant/capa
 
 * Detect it easy(packer detector): https://en.kali.tools/?p=1644
