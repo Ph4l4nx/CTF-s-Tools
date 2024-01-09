@@ -312,6 +312,8 @@ https://builtwith.com/
 
 * Car Recognition: https://carnet.ai/
 
+* Hour of a picture, sun calculator: https://www.suncalc.org/#/27.6936,-97.5195,3/2024.01.09/09:23/1/3
+
 * General purpose: https://github.com/Moham3dRiahi/Th3inspector
 
 * Gooogle Image Search: https://www.google.es/imghp?hl=es , Yandex: https://yandex.com/images/ , Bing: https://www.bing.com/?scope=images&nr=1&FORM=NOFORM
