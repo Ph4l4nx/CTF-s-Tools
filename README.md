@@ -310,6 +310,8 @@ https://builtwith.com/
 
 * Email checker: https://toolbox.googleapps.com/apps/checkmx/
 
+* Car Recognition: https://carnet.ai/
+
 * General purpose: https://github.com/Moham3dRiahi/Th3inspector
 
 * Gooogle Image Search: https://www.google.es/imghp?hl=es , Yandex: https://yandex.com/images/ , Bing: https://www.bing.com/?scope=images&nr=1&FORM=NOFORM
