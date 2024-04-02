@@ -410,7 +410,7 @@ Email account analysis: curl emailrep.io/john.smith@gmail.com
 
 ## Forensics
 
-* Online PCAP Analysis: https://packettotal.com/ 
+* Online PCAP Analysis: https://lab.dynamite.ai/
 
 * Tool to identify strings from a pcap: https://github.com/bee-san/pyWhat. Ex:python3 -m pywhat redteam_test03-10423dd9015c050a40b7ccf2a53f57a9.pcapng > output
 
