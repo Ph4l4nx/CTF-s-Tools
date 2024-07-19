@@ -17,6 +17,7 @@ Repository to index interesting Capture The Flag tools and other stuff.
         * [Recon](#recon)
         * [Web](#web)
         * [Exploit Database](#exploit-database)
+        * [Docker](#docker)
         * [Credentials](#credentials)
         * [Exploitation](#exploitation)
         * [Active Directory](#active-directory)
@@ -703,6 +704,10 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 * SearchSploit. Cheat sheet: https://blog.ehcgroup.io/2018/11/27/01/00/39/4198/como-usar-searchsploit-para-encontrar-exploits/hacking/ehacking/
  
 * https://cvexploits.io/
+
+### Docker
+
+  docker run -v /:/mnt --rm -it imagen chroot /mnt sh
 
 ### Credentials
 
