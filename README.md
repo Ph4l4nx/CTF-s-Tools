@@ -35,7 +35,7 @@ Repository to index interesting Capture The Flag tools and other stuff.
         * [Online engines](#online-engines)     
         * [Distros to analyze malware](#distros-to-analyze-malware)
         * [Tools](#tools)
-        * [Free AVs EDRs and sandboxes](#free-avs-and-sandboxes)
+        * [Free AVs EDRs and sandboxes](#free-avs-edrs-and-sandboxes)
         * [Ransomware](#ransomware)
         * [APTs](#apts)
         * [Blogs and Information](#blogs-and-information)
