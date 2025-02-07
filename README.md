@@ -35,7 +35,7 @@ Repository to index interesting Capture The Flag tools and other stuff.
         * [Online engines](#online-engines)     
         * [Distros to analyze malware](#distros-to-analyze-malware)
         * [Tools](#tools)
-        * [Free AVs and sandboxes](#free-avs-and-sandboxes)
+        * [Free AVs,EDRs and sandboxes](#free-avs-and-sandboxes)
         * [Ransomware](#ransomware)
         * [APTs](#apts)
         * [Blogs and Information](#blogs-and-information)
@@ -945,7 +945,7 @@ https://metadefender.opswat.com/?lang=en
 
 * This tool allows you to intercept and redirect all or specific network traffic while simulating legitimate network services: https://github.com/mandiant/flare-fakenet-ng
 
-### Free AVs and Sandboxes
+### Free AVs,EDRs and Sandboxes
 
 * ClamAV: https://www.clamav.net/downloads#otherversions
 
@@ -956,6 +956,8 @@ https://metadefender.opswat.com/?lang=en
 * DragonFly: https://dragonfly.certego.net/register
 
 * Offline Sandbox: https://sandboxie-plus.com/downloads/
+
+* OpenEDR: https://github.com/ComodoSecurity/openedr 
 
 ### Ransomware
 
