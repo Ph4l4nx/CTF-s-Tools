@@ -712,7 +712,8 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 ### Credentials
 
-* Default credentials: https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/DefaultCreds-Cheat-Sheet.csv
+* IT Default Creds: https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/DefaultCreds-Cheat-Sheet.csv
+* OT Default Creds: https://www.icsrank.com/
 
 ### CVE Database Vulnerabilities
 
