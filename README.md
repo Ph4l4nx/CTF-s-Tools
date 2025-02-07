@@ -19,7 +19,7 @@ Repository to index interesting Capture The Flag tools and other stuff.
         * [Exploit Database](#exploit-database)
         * [Docker](#docker)
         * [Credentials](#credentials)
-        * [CVE Database - Vulnerabilities](#CVE-Database-Vulnerabilities) 
+        * [CVE Database Vulnerabilities](#CVE-Database-Vulnerabilities) 
         * [Exploitation](#exploitation)
         * [Active Directory](#active-directory)
         * [Privilege Escalation](#privilege-escalation)
@@ -714,7 +714,7 @@ https://jorgectf.gitbook.io/awae-oswe-preparation-resources/
 
 * Default credentials: https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/DefaultCreds-Cheat-Sheet.csv
 
-### CVE Database - Vulnerabilities
+### CVE Database Vulnerabilities
 
 https://vulners.com/
 
