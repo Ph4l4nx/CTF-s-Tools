@@ -680,7 +680,7 @@ Recursive file download bypassing robots.txt: wget -e robots=off -drc -l5 domain
 
 * XSS firefox extension searcher: https://addons.mozilla.org/es/firefox/addon/knoxss-community-edition/
 
-* Inspect HTTP headers: https://requestbin.net/ && https://webhook.site/#!/75039a57-2015-4f74-9612-b762f4353b9b && https://securityheaders.com/?q=aguasdelsorbe.es&followRedirects=on
+* Inspect HTTP headers: https://requestbin.net/ && https://webhook.site/#!/75039a57-2015-4f74-9612-b762f4353b9b && https://securityheaders.com/?q=domain&followRedirects=on
 
 https://pentest-tools.com/home
 
