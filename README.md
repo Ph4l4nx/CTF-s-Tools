@@ -322,6 +322,8 @@ https://builtwith.com/
 
 * Tool for tracking the redirection paths of URLs: https://wheregoes.com/
 
+* Phishing Online Checker: https://easydmarc.com/tools/phishing-url
+
 * Phishing Domain DB: http://phishtank.org/
 
 * Phishing Domain DB: https://phishcheck.me/
